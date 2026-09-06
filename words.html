@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GRE 词表</title>
+    <base href="/GRE-Vocab/" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" />
+    <link rel="stylesheet" href="styles.css?v=gh" />
+  </head>
+  <body class="home">
+    <main class="home-wrap">
+      <header class="top">
+        <div>
+          <p class="kicker" id="kicker">Word List</p>
+          <h1>词表</h1>
+        </div>
+        <p class="meta" id="count">加载中…</p>
+      </header>
+      <div class="home-toolbar">
+        <input id="search" type="search" placeholder="搜索本表单词或中文释义…" />
+        <a class="btn" id="back-quiz" href="quiz.html">返回测验</a>
+        <a class="btn ghost" href="index.html">返回目录</a>
+      </div>
+      <div class="word-table" id="list"></div>
+    </main>
+    <script src="base.js"></script>
+    <script src="words.js?v=gh"></script>
+  </body>
+</html>

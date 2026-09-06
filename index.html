@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GRE 词汇抽查</title>
+    <base href="/GRE-Vocab/" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" />
+    <link rel="stylesheet" href="styles.css?v=gh" />
+  </head>
+  <body class="home">
+    <main class="home-wrap">
+      <header class="top">
+        <div>
+          <p class="kicker">GRE Vocabulary</p>
+          <h1 id="page-title">选择词表</h1>
+        </div>
+        <p class="meta" id="page-meta">Word List 1–46 已收录</p>
+      </header>
+      <div class="home-toolbar" id="home-actions">
+        <button type="button" class="btn btn-with-icon" id="show-all">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="10.5" cy="10.5" r="6.2" fill="none" stroke="currentColor" stroke-width="2" />
+            <path d="M15.2 15.2 21 21" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+          </svg>
+          查看全部单词
+        </button>
+      </div>
+      <div class="all-chrome hidden" id="all-chrome">
+        <div class="home-toolbar">
+          <input id="all-search" type="search" placeholder="在当前分类中搜索单词或中文释义…" />
+          <button type="button" class="btn ghost" id="back-lists">返回目录</button>
+        </div>
+        <div class="cat-modes" id="cat-modes">
+          <button type="button" class="mode-opt on" data-kind="list">按词表</button>
+          <button type="button" class="mode-opt" data-kind="letter">按字母</button>
+          <button type="button" class="mode-opt" data-kind="pos">按词性</button>
+        </div>
+        <div class="cat-chips" id="cat-chips"></div>
+        <p class="all-meta" id="all-meta"></p>
+      </div>
+      <div class="word-table hidden" id="all-words"></div>
+      <div class="list-grid" id="lists"></div>
+    </main>
+    <script src="base.js"></script>
+    <script src="home.js?v=gh"></script>
+  </body>
+</html>

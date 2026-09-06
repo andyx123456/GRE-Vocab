@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GRE 词汇抽查</title>
+    <base href="/GRE-Vocab/" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" />
+    <link rel="stylesheet" href="styles.css?v=gh" />
+  </head>
+  <body class="quiz-page">
+    <div class="shell">
+      <aside class="miss-panel" id="miss-panel">
+        <h2>错题&amp;标记</h2>
+        <p class="miss-count" id="miss-count">尚未标记或答错</p>
+        <ul id="miss-list"></ul>
+      </aside>
+
+      <main class="app">
+        <header class="top">
+          <div>
+            <p class="kicker">Word List · 抽查</p>
+            <h1>词汇记忆测验</h1>
+          </div>
+          <p class="meta" id="progress">加载中…</p>
+        </header>
+
+        <section class="setup" id="setup">
+          <p id="setup-blurb">本表全部作答，每轮随机打乱顺序。</p>
+          <div class="mode-block">
+            <p class="mode-label">题型</p>
+            <div class="mode-picks" role="group" aria-label="题型">
+              <button type="button" class="mode-opt on" data-mode="word">看单词选中文</button>
+              <button type="button" class="mode-opt" data-mode="def">看中文选单词</button>
+              <button type="button" class="mode-opt" data-mode="mix">混合</button>
+            </div>
+            <input type="hidden" id="mode" value="word" />
+          </div>
+          <div class="row">
+            <button type="button" id="start">开始抽查</button>
+            <a class="btn ghost" href="index.html">返回目录</a>
+            <a class="btn ghost" id="words-link" href="words.html">查看本表单词</a>
+          </div>
+        </section>
+
+        <section class="quiz hidden" id="quiz">
+          <div class="prompt">
+            <p class="kind" id="kind"></p>
+            <p class="stem" id="stem"></p>
+            <p class="ipa" id="ipa"></p>
+          </div>
+          <div class="choices" id="choices"></div>
+          <p class="feedback hidden" id="feedback"></p>
+          <div class="row quiz-actions">
+            <button type="button" class="hidden" id="next">下一题</button>
+            <button type="button" class="ghost" id="mark">加入错题&amp;标记</button>
+            <button type="button" class="ghost" id="exit">退出测验</button>
+          </div>
+        </section>
+
+        <section class="result hidden" id="result">
+          <h2 id="score"></h2>
+          <p id="miss-summary"></p>
+          <div class="row">
+            <button type="button" id="retry-miss">重做错题</button>
+            <button type="button" id="retry-all">再测一遍</button>
+            <a class="btn ghost" href="index.html">返回目录</a>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <footer class="tally-bar hidden" id="tally-bar">
+      <div class="tally-inner">
+        <p class="tally-legend" id="tally-legend">正确 0 · 错误 0 · 未答 0</p>
+        <div class="tally" id="tally" aria-label="答题对错格子"></div>
+      </div>
+    </footer>
+
+    <script src="base.js"></script>
+    <script src="app.js?v=gh"></script>
+  </body>
+</html>

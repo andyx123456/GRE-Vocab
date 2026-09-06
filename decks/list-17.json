@@ -1,0 +1,2140 @@
+[
+  {
+    "word": "fade",
+    "ipa": "[feɪd]",
+    "definition": "v. 变暗，褪色，枯萎，凋谢",
+    "definitions": [
+      "v. 变暗，褪色，枯萎，凋谢"
+    ],
+    "start": 3.52,
+    "end": 4.82,
+    "book_page": 189,
+    "heard": "fade",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "outdated",
+    "ipa": "[ˌaʊtˈdeɪtɪd]",
+    "definition": "adj. 过时的",
+    "definitions": [
+      "adj. 过时的"
+    ],
+    "start": 7.99,
+    "end": 8.89,
+    "book_page": 189,
+    "heard": "outdated",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "wearisome",
+    "ipa": "[ˈwɪrisəm]",
+    "definition": "adj. 使人感到疲倦或厌倦的",
+    "definitions": [
+      "adj. 使人感到疲倦或厌倦的"
+    ],
+    "start": 10.99,
+    "end": 11.77,
+    "book_page": 189,
+    "heard": "wearysome",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "spontaneity",
+    "ipa": "[ˌspɑːntəˈneɪəti]",
+    "definition": "n. 自然，自发",
+    "definitions": [
+      "n. 自然，自发"
+    ],
+    "start": 13.78,
+    "end": 14.88,
+    "book_page": 189,
+    "heard": "spontaneity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "tenacity",
+    "ipa": "[təˈnæsəti]",
+    "definition": "n. 坚持，固执",
+    "definitions": [
+      "n. 坚持，固执"
+    ],
+    "start": 16.4,
+    "end": 17.42,
+    "book_page": 189,
+    "heard": "tenacity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "pack",
+    "ipa": "[pæk]",
+    "definition": "n. 兽群",
+    "definitions": [
+      "n. 兽群"
+    ],
+    "start": 19.52,
+    "end": 19.94,
+    "book_page": 189,
+    "heard": "pack",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "sprout",
+    "ipa": "[spraʊt]",
+    "definition": "v. 长出，萌芽 嫩芽",
+    "definitions": [
+      "v. 长出，萌芽 嫩芽"
+    ],
+    "start": 22.17,
+    "end": 22.55,
+    "book_page": 189,
+    "heard": "sprout",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "monetary",
+    "ipa": "[ˈmʌnɪteri]",
+    "definition": "adj. 金钱的；货币的",
+    "definitions": [
+      "adj. 金钱的；货币的"
+    ],
+    "start": 23.95,
+    "end": 25.35,
+    "book_page": 189,
+    "heard": "monetary",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "supplementary",
+    "ipa": "[ˌsʌplɪˈmentri]",
+    "definition": "adj. 增补的，补充的",
+    "definitions": [
+      "adj. 增补的，补充的"
+    ],
+    "start": 27.13,
+    "end": 28.53,
+    "book_page": 189,
+    "heard": "supplementary",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "wooly",
+    "ipa": "[ˈwʊli]",
+    "definition": "adj. 羊毛的，羊毛制的；毛茸茸的，像羊毛般蓬松的；模糊不清的，含糊混乱的（多指思维、言辞等）",
+    "definitions": [
+      "adj. 羊毛的，羊毛制的；毛茸茸的，像羊毛般蓬松的；模糊不清的，含糊混乱的（多指思维、言辞等）",
+      "n. 羊毛衣物（尤指羊毛内衣、毛线衣；常用复数 ）"
+    ],
+    "start": 30.09,
+    "end": 31.15,
+    "book_page": null,
+    "heard": "wooly",
+    "match": "unmatched",
+    "source": "dictionary"
+  },
+  {
+    "word": "instantaneous",
+    "ipa": "[ˌɪnstənˈteɪniəs]",
+    "definition": "adj. 立即的，即刻的；瞬间的",
+    "definitions": [
+      "adj. 立即的，即刻的；瞬间的"
+    ],
+    "start": 33.09,
+    "end": 33.97,
+    "book_page": 190,
+    "heard": "instantaneous",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "adaptable",
+    "ipa": "[əˈdæptəbl]",
+    "definition": "adj. 有适应能力的；可改编的",
+    "definitions": [
+      "adj. 有适应能力的；可改编的"
+    ],
+    "start": 35.83,
+    "end": 37.23,
+    "book_page": 190,
+    "heard": "adaptable",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "intersect",
+    "ipa": "[ˌɪntərˈsekt]",
+    "definition": "v. 相交；贯穿，横穿",
+    "definitions": [
+      "v. 相交；贯穿，横穿"
+    ],
+    "start": 37.97,
+    "end": 39.73,
+    "book_page": 190,
+    "heard": "intersect",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "diffusion",
+    "ipa": "[dɪˈfjuːʒn]",
+    "definition": "n. 扩散，弥漫；冗长；反射；漫射",
+    "definitions": [
+      "n. 扩散，弥漫；冗长；反射；漫射"
+    ],
+    "start": 41.25,
+    "end": 42.65,
+    "book_page": 190,
+    "heard": "diffusion",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "unconscious",
+    "ipa": "[ʌnˈkɑːnʃəs]",
+    "definition": "adj. 不省人事的；未发觉的，无意识的",
+    "definitions": [
+      "adj. 不省人事的；未发觉的，无意识的"
+    ],
+    "start": 44.09,
+    "end": 45.49,
+    "book_page": 190,
+    "heard": "unconscious",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "recast",
+    "ipa": "[ˌriːˈkæst]",
+    "definition": "v. 重铸；更换演员",
+    "definitions": [
+      "v. 重铸；更换演员"
+    ],
+    "start": 46.74,
+    "end": 48.8,
+    "book_page": 190,
+    "heard": "recast",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "insincere",
+    "ipa": "[ˌɪnsɪnˈsɪr]",
+    "definition": "adj. 不诚恳的，虚伪的",
+    "definitions": [
+      "adj. 不诚恳的，虚伪的"
+    ],
+    "start": 50.42,
+    "end": 51.82,
+    "book_page": 190,
+    "heard": "insincere",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "revival",
+    "ipa": "[rɪˈvaɪvl]",
+    "definition": "n. 苏醒；恢复；复兴",
+    "definitions": [
+      "n. 苏醒；恢复；复兴"
+    ],
+    "start": 53.22,
+    "end": 54.3,
+    "book_page": 190,
+    "heard": "revival",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "patience",
+    "ipa": "[ˈpeɪʃns]",
+    "definition": "n. 耐性",
+    "definitions": [
+      "n. 耐性"
+    ],
+    "start": 56.46,
+    "end": 57.24,
+    "book_page": 190,
+    "heard": "patience",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "haphazardly",
+    "ipa": "[hæpˈhæzərdli]",
+    "definition": "adv. 偶然地；随意地；杂乱地",
+    "definitions": [
+      "adv. 偶然地；随意地；杂乱地"
+    ],
+    "start": 58.68,
+    "end": 60.36,
+    "book_page": 190,
+    "heard": "haphazardly",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "sympathetic",
+    "ipa": "[ˌsɪmpəˈθetɪk]",
+    "definition": "adj. 有同情心的",
+    "definitions": [
+      "adj. 有同情心的"
+    ],
+    "start": 62.19,
+    "end": 62.89,
+    "book_page": 190,
+    "heard": "sympathetic",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "verification",
+    "ipa": "[ˌverɪfɪˈkeɪʃn]",
+    "definition": "n. 确认，查证",
+    "definitions": [
+      "n. 确认，查证"
+    ],
+    "start": 64.75,
+    "end": 66.15,
+    "book_page": 190,
+    "heard": "verification",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "narrative",
+    "ipa": "[ˈnærətɪv]",
+    "definition": "adj. 叙述性的",
+    "definitions": [
+      "adj. 叙述性的"
+    ],
+    "start": 66.15,
+    "end": 68.79,
+    "book_page": 190,
+    "heard": "narrative",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "privacy",
+    "ipa": "[ˈpraɪvəsi]",
+    "definition": "n. 隐居，隐退；隐私；秘密",
+    "definitions": [
+      "n. 隐居，隐退；隐私；秘密"
+    ],
+    "start": 70.21,
+    "end": 71.61,
+    "book_page": 190,
+    "heard": "privacy",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "virtue",
+    "ipa": "[ˈvɜːrtʃuː]",
+    "definition": "n. 美德；优点；潜能",
+    "definitions": [
+      "n. 美德；优点；潜能"
+    ],
+    "start": 72.15,
+    "end": 74.35,
+    "book_page": 191,
+    "heard": "virtue",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "transformation",
+    "ipa": "[ˌtrænsfərˈmeɪʃn]",
+    "definition": "n. 转化，转变",
+    "definitions": [
+      "n. 转化，转变"
+    ],
+    "start": 75.6,
+    "end": 77.36,
+    "book_page": 191,
+    "heard": "transformation",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "discontent",
+    "ipa": "[ˌdɪskənˈtent]",
+    "definition": "n. 不满 使不满 不满的",
+    "definitions": [
+      "n. 不满 使不满 不满的"
+    ],
+    "start": 79.06,
+    "end": 80.46,
+    "book_page": 191,
+    "heard": "discontent",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "reciprocity",
+    "ipa": "[ˌresɪˈprɑːsəti]",
+    "definition": "n. 相互性；互惠",
+    "definitions": [
+      "n. 相互性；互惠"
+    ],
+    "start": 82.2,
+    "end": 83.6,
+    "book_page": 191,
+    "heard": "reciprocity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "interdependent",
+    "ipa": "[ˌɪntərdɪˈpendənt]",
+    "definition": "adj. 相互依赖的，互助的",
+    "definitions": [
+      "adj. 相互依赖的，互助的"
+    ],
+    "start": 85.28,
+    "end": 86.68,
+    "book_page": 191,
+    "heard": "interdependent",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "entertain",
+    "ipa": "[ˌentərˈteɪn]",
+    "definition": "v. 款待，招待；使欢乐，娱乐",
+    "definitions": [
+      "v. 款待，招待；使欢乐，娱乐"
+    ],
+    "start": 87.92,
+    "end": 89.2,
+    "book_page": 191,
+    "heard": "entertain",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "venture",
+    "ipa": "[ˈventʃər]",
+    "definition": "v. 敢于；冒险 冒险",
+    "definitions": [
+      "v. 敢于；冒险 冒险"
+    ],
+    "start": 90.64,
+    "end": 92.0,
+    "book_page": 191,
+    "heard": "venture",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "odious",
+    "ipa": "[ˈoʊdiəs]",
+    "definition": "adj. 可憎的，令人作呕的",
+    "definitions": [
+      "adj. 可憎的，令人作呕的"
+    ],
+    "start": 93.89,
+    "end": 94.73,
+    "book_page": 191,
+    "heard": "odious",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "irony",
+    "ipa": "[ˈaɪrəni]",
+    "definition": "n. 反话；讽刺意味；出乎意料的结果",
+    "definitions": [
+      "n. 反话；讽刺意味；出乎意料的结果"
+    ],
+    "start": 96.01,
+    "end": 97.29,
+    "book_page": 191,
+    "heard": "irony",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "repudiation",
+    "ipa": "[rɪˌpjuːdiˈeɪʃn]",
+    "definition": "n. 拒绝接受，否认",
+    "definitions": [
+      "n. 拒绝接受，否认"
+    ],
+    "start": 98.99,
+    "end": 100.39,
+    "book_page": 191,
+    "heard": "repudiation",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "sincerity",
+    "ipa": "[sɪnˈserəti]",
+    "definition": "n. 诚挚",
+    "definitions": [
+      "n. 诚挚"
+    ],
+    "start": 101.7,
+    "end": 103.2,
+    "book_page": 192,
+    "heard": "sincerity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "discourse",
+    "ipa": "[ˈdɪskɔːrs]",
+    "definition": "n. 演讲，论述",
+    "definitions": [
+      "n. 演讲，论述"
+    ],
+    "start": 103.2,
+    "end": 104.68,
+    "book_page": 192,
+    "heard": "discourse",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "unquestionable",
+    "ipa": "[ʌnˈkwestʃənəbl]",
+    "definition": "adj. 毫无疑问的，无懈可击的",
+    "definitions": [
+      "adj. 毫无疑问的，无懈可击的"
+    ],
+    "start": 107.98,
+    "end": 109.38,
+    "book_page": 192,
+    "heard": "unquestionable",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "disposable",
+    "ipa": "[dɪˈspoʊzəbl]",
+    "definition": "adj. 一次性的；可自由使用的",
+    "definitions": [
+      "adj. 一次性的；可自由使用的"
+    ],
+    "start": 110.04,
+    "end": 111.84,
+    "book_page": 192,
+    "heard": "disposable",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "recreational",
+    "ipa": "[ˌrekriˈeɪʃənl]",
+    "definition": "adj. 娱乐的，休闲的",
+    "definitions": [
+      "adj. 娱乐的，休闲的"
+    ],
+    "start": 113.38,
+    "end": 114.78,
+    "book_page": 192,
+    "heard": "recreational",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "detrimental",
+    "ipa": "[ˌdetrɪˈmentl]",
+    "definition": "adj. 损害的，造成伤害的",
+    "definitions": [
+      "adj. 损害的，造成伤害的"
+    ],
+    "start": 116.32,
+    "end": 117.72,
+    "book_page": 192,
+    "heard": "detrimental",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "cyclical",
+    "ipa": "[ˈsaiklɪkl]",
+    "definition": "adj. 循环的",
+    "definitions": [
+      "adj. 循环的"
+    ],
+    "start": 119.0,
+    "end": 120.76,
+    "book_page": 192,
+    "heard": "cyclical",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "tribal",
+    "ipa": "[ˈtraɪbl]",
+    "definition": "adj. 部落的，部族的",
+    "definitions": [
+      "adj. 部落的，部族的"
+    ],
+    "start": 122.6,
+    "end": 123.38,
+    "book_page": 192,
+    "heard": "tribal",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "immobile",
+    "ipa": "[ɪˈmoʊbl]",
+    "definition": "adj. 稳定的，不动的，静止的",
+    "definitions": [
+      "adj. 稳定的，不动的，静止的"
+    ],
+    "start": 124.6,
+    "end": 126.06,
+    "book_page": 192,
+    "heard": "immobile",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "unbridled",
+    "ipa": "[ʌnˈbraɪdld]",
+    "definition": "adj. 放纵的，不受约束的",
+    "definitions": [
+      "adj. 放纵的，不受约束的"
+    ],
+    "start": 127.5,
+    "end": 128.9,
+    "book_page": 192,
+    "heard": "unbridled",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "thoughtful",
+    "ipa": "[ˈθɔːtfl]",
+    "definition": "adj. 深思的",
+    "definitions": [
+      "adj. 深思的"
+    ],
+    "start": 130.69,
+    "end": 131.39,
+    "book_page": 192,
+    "heard": "thoughtful",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "institution",
+    "ipa": "[ˌɪnstɪˈtuːʃn]",
+    "definition": "n. 机构；制度",
+    "definitions": [
+      "n. 机构；制度"
+    ],
+    "start": 132.91,
+    "end": 134.31,
+    "book_page": 192,
+    "heard": "institution",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "crash",
+    "ipa": "[kræʃ]",
+    "definition": "v. 猛撞；猛冲直闯；撞碎",
+    "definitions": [
+      "v. 猛撞；猛冲直闯；撞碎"
+    ],
+    "start": 134.31,
+    "end": 135.71,
+    "book_page": 192,
+    "heard": "crash",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "subscribe",
+    "ipa": "[səbˈskraɪb]",
+    "definition": "v. 捐助；订购",
+    "definitions": [
+      "v. 捐助；订购"
+    ],
+    "start": 138.95,
+    "end": 139.83,
+    "book_page": 192,
+    "heard": "subscribe",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "recollection",
+    "ipa": "[ˌrekəˈlekʃn]",
+    "definition": "n. 记忆力；往事",
+    "definitions": [
+      "n. 记忆力；往事"
+    ],
+    "start": 141.69,
+    "end": 143.09,
+    "book_page": 193,
+    "heard": "recollection",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "sentiment",
+    "ipa": "[ˈsentɪmənt]",
+    "definition": "n. 多愁善感；思想感情",
+    "definitions": [
+      "n. 多愁善感；思想感情"
+    ],
+    "start": 144.97,
+    "end": 145.67,
+    "book_page": 193,
+    "heard": "sentiment",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "mean",
+    "ipa": "[miːn]",
+    "definition": "adj. 吝啬的",
+    "definitions": [
+      "adj. 吝啬的"
+    ],
+    "start": 147.23,
+    "end": 148.41,
+    "book_page": 113,
+    "heard": "mean",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "plane",
+    "ipa": "[pleɪn]",
+    "definition": "n. 飞机；（几何学中的）平面\nadj. 平的，平坦的；二维平面的，二维空间的\nv. 滑翔；擦着水面疾驶",
+    "definitions": [
+      "n. 飞机；（几何学中的）平面；（物体的）平面；（穿过或连接物体的）虚构平面；（存在、思想或发展）水平；木工刨，刨子；悬铃木；翼面",
+      "adj. 平的，平坦的；二维平面的，二维空间的",
+      "v. 滑翔；擦着水面疾驶；刨平；刨除；<罕>乘飞机旅行",
+      "n. 【名】 （塞、瑞典、法）普拉内（人名）"
+    ],
+    "start": 150.24,
+    "end": 150.94,
+    "book_page": null,
+    "heard": "plane",
+    "match": "unmatched",
+    "source": "dictionary"
+  },
+  {
+    "word": "thrust",
+    "ipa": "[θrʌst]",
+    "definition": "v. 猛力推；刺，戳",
+    "definitions": [
+      "v. 猛力推；刺，戳"
+    ],
+    "start": 150.94,
+    "end": 152.34,
+    "book_page": 193,
+    "heard": "thrust",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "vindication",
+    "ipa": "[ˌvɪndɪˈkeɪʃn]",
+    "definition": "n. 证明无罪，辩护",
+    "definitions": [
+      "n. 证明无罪，辩护"
+    ],
+    "start": 155.82,
+    "end": 156.62,
+    "book_page": 193,
+    "heard": "vindication",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "analogy",
+    "ipa": "[əˈnæləʤi]",
+    "definition": "n. 相似；类比",
+    "definitions": [
+      "n. 相似；类比"
+    ],
+    "start": 158.82,
+    "end": 159.54,
+    "book_page": 193,
+    "heard": "analogy",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "unsettling",
+    "ipa": "[ʌnˈsetlɪ]",
+    "definition": "adj. 使人不安的，扰乱的",
+    "definitions": [
+      "adj. 使人不安的，扰乱的"
+    ],
+    "start": 161.82,
+    "end": 162.54,
+    "book_page": 193,
+    "heard": "unsettling",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "overhaul",
+    "ipa": "[ˈoʊvərhɔːl]",
+    "definition": "v. 彻底检查；大修",
+    "definitions": [
+      "v. 彻底检查；大修"
+    ],
+    "start": 164.66,
+    "end": 165.36,
+    "book_page": 193,
+    "heard": "overhaul",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "rendering",
+    "ipa": "[ˈrendərɪ]",
+    "definition": "n. 表演；翻译",
+    "definitions": [
+      "n. 表演；翻译"
+    ],
+    "start": 165.36,
+    "end": 167.36,
+    "book_page": 193,
+    "heard": "rendering",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "charm",
+    "ipa": "[tʃɑːrm]",
+    "definition": "n. 魅力；咒语，咒符 吸引，迷住",
+    "definitions": [
+      "n. 魅力；咒语，咒符 吸引，迷住"
+    ],
+    "start": 169.13,
+    "end": 170.59,
+    "book_page": 193,
+    "heard": "charm",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "affected",
+    "ipa": "[əˈfektɪd]",
+    "definition": "adj. 不自然的；假装的",
+    "definitions": [
+      "adj. 不自然的；假装的"
+    ],
+    "start": 170.59,
+    "end": 172.61,
+    "book_page": 193,
+    "heard": "affected",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "forecast",
+    "ipa": "[ˈfɔːrkæst]",
+    "definition": "v. 预报，预测 预测",
+    "definitions": [
+      "v. 预报，预测 预测"
+    ],
+    "start": 174.51,
+    "end": 176.13,
+    "book_page": 193,
+    "heard": "forecast",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "utopia",
+    "ipa": "[juːˈtoʊpiə]",
+    "definition": "n. 乌托邦",
+    "definitions": [
+      "n. 乌托邦"
+    ],
+    "start": 176.89,
+    "end": 178.91,
+    "book_page": 193,
+    "heard": "utopia",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "accomplished",
+    "ipa": "[əˈkɑːmplɪʃt]",
+    "definition": "adj. 完成了的；有技巧的",
+    "definitions": [
+      "adj. 完成了的；有技巧的"
+    ],
+    "start": 179.89,
+    "end": 181.53,
+    "book_page": 193,
+    "heard": "accomplished",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "lasting",
+    "ipa": "[ˈlæstɪ]",
+    "definition": "adj. 持久的，永久的",
+    "definitions": [
+      "adj. 持久的，永久的"
+    ],
+    "start": 183.05,
+    "end": 184.45,
+    "book_page": 193,
+    "heard": "lasting",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "corrupt",
+    "ipa": "[kəˈrʌpt]",
+    "definition": "adj. 腐败的，堕落的；（语言、版本等）讹误的，走样的 使腐败，使堕落",
+    "definitions": [
+      "adj. 腐败的，堕落的；（语言、版本等）讹误的，走样的 使腐败，使堕落"
+    ],
+    "start": 185.7,
+    "end": 186.96,
+    "book_page": 194,
+    "heard": "corrupt",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "thermal",
+    "ipa": "[ˈθɜːrml]",
+    "definition": "adj. 热的，热量的；温暖的 上升的暖气流",
+    "definitions": [
+      "adj. 热的，热量的；温暖的 上升的暖气流"
+    ],
+    "start": 188.24,
+    "end": 189.7,
+    "book_page": 194,
+    "heard": "thermal",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "disparity",
+    "ipa": "[dɪˈspærəti]",
+    "definition": "n. 不同，差异",
+    "definitions": [
+      "n. 不同，差异"
+    ],
+    "start": 190.42,
+    "end": 192.44,
+    "book_page": 194,
+    "heard": "disparity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "musket",
+    "ipa": "[ˈmʌskɪt]",
+    "definition": "n. 旧式步枪，毛瑟枪",
+    "definitions": [
+      "n. 旧式步枪，毛瑟枪"
+    ],
+    "start": 193.88,
+    "end": 195.28,
+    "book_page": 194,
+    "heard": "musket",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "disaster",
+    "ipa": "[dɪˈzæstər]",
+    "definition": "n. 灾难，灾祸，不幸",
+    "definitions": [
+      "n. 灾难，灾祸，不幸"
+    ],
+    "start": 196.42,
+    "end": 197.68,
+    "book_page": 194,
+    "heard": "disaster",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "rigor",
+    "ipa": "[ˈrɪɡər]",
+    "definition": "n. 严厉，严格，苛刻；严密，精确",
+    "definitions": [
+      "n. 严厉，严格，苛刻；严密，精确"
+    ],
+    "start": 197.68,
+    "end": 200.44,
+    "book_page": 194,
+    "heard": "rigor",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "opulence",
+    "ipa": "[ˈɑːpjələns]",
+    "definition": "n. 富裕；丰富",
+    "definitions": [
+      "n. 富裕；丰富"
+    ],
+    "start": 202.06,
+    "end": 203.46,
+    "book_page": 194,
+    "heard": "opulence",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "resigned",
+    "ipa": "[rɪˈzaɪnd]",
+    "definition": "adj. 顺从的，听从的",
+    "definitions": [
+      "adj. 顺从的，听从的"
+    ],
+    "start": 203.46,
+    "end": 206.06,
+    "book_page": 194,
+    "heard": "resigned",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "confidential",
+    "ipa": "[ˌkɑːnfɪˈdenʃl]",
+    "definition": "adj. 机密的",
+    "definitions": [
+      "adj. 机密的"
+    ],
+    "start": 207.31,
+    "end": 209.11,
+    "book_page": 194,
+    "heard": "confidential",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "harshly",
+    "ipa": "[ˈhɑːrʃli]",
+    "definition": "adv. 严酷地，无情地",
+    "definitions": [
+      "adv. 严酷地，无情地"
+    ],
+    "start": 210.36,
+    "end": 211.96,
+    "book_page": 194,
+    "heard": "harshly",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "judicial",
+    "ipa": "[ʤuˈdɪʃl]",
+    "definition": "adj. 法庭的，法官的",
+    "definitions": [
+      "adj. 法庭的，法官的"
+    ],
+    "start": 213.18,
+    "end": 214.4,
+    "book_page": 194,
+    "heard": "judicial",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "zealotry",
+    "ipa": "[ˈzelətri]",
+    "definition": "n. 狂热",
+    "definitions": [
+      "n. 狂热"
+    ],
+    "start": 215.68,
+    "end": 217.32,
+    "book_page": 194,
+    "heard": "zealotry",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "surge",
+    "ipa": "[sɜːrʤ]",
+    "definition": "v. 波涛汹涌",
+    "definitions": [
+      "v. 波涛汹涌"
+    ],
+    "start": 218.63,
+    "end": 219.95,
+    "book_page": 194,
+    "heard": "surge",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "fallibility",
+    "ipa": "[ˌfæləˈbɪləti]",
+    "definition": "n. 易出错，不可靠",
+    "definitions": [
+      "n. 易出错，不可靠"
+    ],
+    "start": 221.26,
+    "end": 222.88,
+    "book_page": 194,
+    "heard": "fallibility",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "vengeful",
+    "ipa": "[ˈvenʤfl]",
+    "definition": "adj. 渴望复仇的，复仇心重的",
+    "definitions": [
+      "adj. 渴望复仇的，复仇心重的"
+    ],
+    "start": 224.36,
+    "end": 225.76,
+    "book_page": 194,
+    "heard": "vengeful",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "mendacity",
+    "ipa": "[menˈdæsəti]",
+    "definition": "n. 不诚实",
+    "definitions": [
+      "n. 不诚实"
+    ],
+    "start": 227.08,
+    "end": 228.44,
+    "book_page": 194,
+    "heard": "mendacity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "route",
+    "ipa": "[ruːt]",
+    "definition": "n. 路线，航线；道路，路途\nv. 按特定路线发送（车辆、货物或乘客）；以......线路发送（电话或其他电子信号）",
+    "definitions": [
+      "n. 路线，航线；道路，路途；常规路线，固定路线；<美>（尤指作为送货工作的）例行拜访，递送路线；途径，方法；（用于美国城市间干线公路编号前）公路",
+      "v. 按特定路线发送（车辆、货物或乘客）；以......线路发送（电话或其他电子信号）"
+    ],
+    "start": 230.08,
+    "end": 230.94,
+    "book_page": null,
+    "heard": "route",
+    "match": "unmatched",
+    "source": "dictionary"
+  },
+  {
+    "word": "status",
+    "ipa": "[ˈsteɪtəs]",
+    "definition": "n. 身份，地位",
+    "definitions": [
+      "n. 身份，地位"
+    ],
+    "start": 232.35,
+    "end": 233.93,
+    "book_page": 195,
+    "heard": "status",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "deception",
+    "ipa": "[dɪˈsepʃn]",
+    "definition": "n. 欺骗，诡计",
+    "definitions": [
+      "n. 欺骗，诡计"
+    ],
+    "start": 235.35,
+    "end": 236.67,
+    "book_page": 195,
+    "heard": "deception",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "augmentation",
+    "ipa": "[ˌɔːɡmenˈteɪʃn]",
+    "definition": "n. 增加",
+    "definitions": [
+      "n. 增加"
+    ],
+    "start": 238.19,
+    "end": 239.59,
+    "book_page": 195,
+    "heard": "augmentation",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "contented",
+    "ipa": "[kənˈtentɪd]",
+    "definition": "adj. 心满意足的",
+    "definitions": [
+      "adj. 心满意足的"
+    ],
+    "start": 241.6,
+    "end": 242.8,
+    "book_page": 195,
+    "heard": "contented",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "automation",
+    "ipa": "[ˌɔːtəˈmeɪʃn]",
+    "definition": "n. 自动装置",
+    "definitions": [
+      "n. 自动装置"
+    ],
+    "start": 243.6,
+    "end": 245.24,
+    "book_page": 195,
+    "heard": "automation",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "humid",
+    "ipa": "[ˈhjuːmɪd]",
+    "definition": "adj. 湿润的",
+    "definitions": [
+      "adj. 湿润的"
+    ],
+    "start": 245.24,
+    "end": 246.68,
+    "book_page": 195,
+    "heard": "humid",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "teas",
+    "ipa": "[tiːz]",
+    "definition": "n. 商标电子化应用系统；经皮穴位电刺激",
+    "definitions": [
+      "n. 商标电子化应用系统；经皮穴位电刺激",
+      "n. 人名；（英）蒂斯"
+    ],
+    "start": 249.84,
+    "end": 250.54,
+    "book_page": null,
+    "heard": "teas",
+    "match": "unmatched",
+    "source": "dictionary"
+  },
+  {
+    "word": "envisage",
+    "ipa": "[ɪnˈvɪzɪʤ]",
+    "definition": "v. 正视；想象",
+    "definitions": [
+      "v. 正视；想象"
+    ],
+    "start": 252.22,
+    "end": 253.62,
+    "book_page": 195,
+    "heard": "envisage",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "abhorrent",
+    "ipa": "[əbˈhɔːrənt]",
+    "definition": "adj. 可恨的，讨厌的",
+    "definitions": [
+      "adj. 可恨的，讨厌的"
+    ],
+    "start": 255.02,
+    "end": 256.42,
+    "book_page": 195,
+    "heard": "abhorrent",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "oversee",
+    "ipa": "[ˌoʊvərˈsiː]",
+    "definition": "v. 监督",
+    "definitions": [
+      "v. 监督"
+    ],
+    "start": 258.12,
+    "end": 258.98,
+    "book_page": 195,
+    "heard": "oversee",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "enlightening",
+    "ipa": "[ɪnˈlaɪtnɪ]",
+    "definition": "adj. 有启迪作用的；使人领悟的",
+    "definitions": [
+      "adj. 有启迪作用的；使人领悟的"
+    ],
+    "start": 260.66,
+    "end": 262.06,
+    "book_page": 195,
+    "heard": "enlightening",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "familiarity",
+    "ipa": "[fəˌmɪliˈærəti]",
+    "definition": "n. 熟悉；亲近，亲密；不拘礼仪",
+    "definitions": [
+      "n. 熟悉；亲近，亲密；不拘礼仪"
+    ],
+    "start": 263.34,
+    "end": 264.88,
+    "book_page": 195,
+    "heard": "familiarity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "patriotism",
+    "ipa": "[ˈpeɪtriətɪzəm]",
+    "definition": "n. 爱国主义，爱国心",
+    "definitions": [
+      "n. 爱国主义，爱国心"
+    ],
+    "start": 266.29,
+    "end": 268.09,
+    "book_page": 195,
+    "heard": "patriotism",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "damp",
+    "ipa": "[dæmp]",
+    "definition": "v. 减弱，抑制 潮湿的",
+    "definitions": [
+      "v. 减弱，抑制 潮湿的"
+    ],
+    "start": 269.73,
+    "end": 270.43,
+    "book_page": 195,
+    "heard": "damp",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "restorative",
+    "ipa": "[rɪˈstɔːrətɪv]",
+    "definition": "adj. 恢复健康的",
+    "definitions": [
+      "adj. 恢复健康的"
+    ],
+    "start": 271.95,
+    "end": 273.35,
+    "book_page": 195,
+    "heard": "restorative",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "substance",
+    "ipa": "[ˈsʌbstəns]",
+    "definition": "n. 主旨，实质；物质",
+    "definitions": [
+      "n. 主旨，实质；物质"
+    ],
+    "start": 274.66,
+    "end": 276.26,
+    "book_page": 195,
+    "heard": "substance",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "unprepossessing",
+    "ipa": "[ˌʌnˌpriːpəˈzesɪ]",
+    "definition": "adj. 不吸引人的",
+    "definitions": [
+      "adj. 不吸引人的"
+    ],
+    "start": 278.26,
+    "end": 279.66,
+    "book_page": 196,
+    "heard": "unprepossessing",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "recall",
+    "ipa": "[rɪˈkɔːl]",
+    "definition": "v. 回想，回忆起；收回 唤回",
+    "definitions": [
+      "v. 回想，回忆起；收回 唤回"
+    ],
+    "start": 281.06,
+    "end": 282.16,
+    "book_page": 196,
+    "heard": "recall",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "adherent",
+    "ipa": "[ədˈhɪrənt]",
+    "definition": "n. 拥护者，信徒",
+    "definitions": [
+      "n. 拥护者，信徒"
+    ],
+    "start": 283.68,
+    "end": 285.08,
+    "book_page": 196,
+    "heard": "adherent",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "terminal",
+    "ipa": "[ˈtɜːrmɪnl]",
+    "definition": "adj. 末端的 终点，末端",
+    "definitions": [
+      "adj. 末端的 终点，末端"
+    ],
+    "start": 286.93,
+    "end": 287.63,
+    "book_page": 196,
+    "heard": "terminal",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "monograph",
+    "ipa": "[ˈmɑːnəɡræf]",
+    "definition": "n. 专题论文",
+    "definitions": [
+      "n. 专题论文"
+    ],
+    "start": 289.31,
+    "end": 290.29,
+    "book_page": 196,
+    "heard": "monograph",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "rot",
+    "ipa": "[rɒt]",
+    "definition": "v. （使）腐败，（使）腐烂；逐渐衰弱（或憔悴）\nn. 腐烂，腐烂物；<英>腐化，堕落",
+    "definitions": [
+      "v. （使）腐败，（使）腐烂；逐渐衰弱（或憔悴）；<英，旧，非正式>取笑，开玩笑",
+      "n. 腐烂，腐烂物；<英>腐化，堕落；<美>官员腐败；（尤指植物的）枯病；羊肝蛭病；<英，非正式，旧>蠢话，废话",
+      "int. <非正式>胡说，废话",
+      "n. 【名】 （美、俄、荷）罗特（人名）"
+    ],
+    "start": 292.26,
+    "end": 292.96,
+    "book_page": null,
+    "heard": "rot",
+    "match": "unmatched",
+    "source": "dictionary"
+  },
+  {
+    "word": "regurgitate",
+    "ipa": "[rɪˈɡɜːrʤɪteɪt]",
+    "definition": "v. 涌回，流回；反胃，反刍",
+    "definitions": [
+      "v. 涌回，流回；反胃，反刍"
+    ],
+    "start": 294.48,
+    "end": 295.88,
+    "book_page": 196,
+    "heard": "regurgitate",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "tart",
+    "ipa": "[tɑːrt]",
+    "definition": "adj. 酸的；尖酸的",
+    "definitions": [
+      "adj. 酸的；尖酸的"
+    ],
+    "start": 295.88,
+    "end": 297.16,
+    "book_page": 196,
+    "heard": "tart",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "resentment",
+    "ipa": "[rɪˈzentmənt]",
+    "definition": "n. 愤恨，怨恨",
+    "definitions": [
+      "n. 愤恨，怨恨"
+    ],
+    "start": 299.84,
+    "end": 301.24,
+    "book_page": 196,
+    "heard": "resentment",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "supreme",
+    "ipa": "[suːˈpriːm]",
+    "definition": "adj. 最高的；极度的",
+    "definitions": [
+      "adj. 最高的；极度的"
+    ],
+    "start": 302.66,
+    "end": 304.06,
+    "book_page": 196,
+    "heard": "supreme",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "refraction",
+    "ipa": "[rɪˈfrækʃn]",
+    "definition": "n. 折射",
+    "definitions": [
+      "n. 折射"
+    ],
+    "start": 305.62,
+    "end": 307.02,
+    "book_page": 196,
+    "heard": "refraction",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "gesture",
+    "ipa": "[ˈʤestʃər]",
+    "definition": "n. 姿势，手势；姿态，表示",
+    "definitions": [
+      "n. 姿势，手势；姿态，表示"
+    ],
+    "start": 308.12,
+    "end": 309.62,
+    "book_page": 196,
+    "heard": "gesture",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "membrane",
+    "ipa": "[ˈmembreɪn]",
+    "definition": "n. 薄膜；膜",
+    "definitions": [
+      "n. 薄膜；膜"
+    ],
+    "start": 311.12,
+    "end": 312.38,
+    "book_page": 196,
+    "heard": "membrane",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "table",
+    "ipa": "[ˈteɪbl]",
+    "definition": "v. 搁置，不予考虑",
+    "definitions": [
+      "v. 搁置，不予考虑"
+    ],
+    "start": 314.26,
+    "end": 314.96,
+    "book_page": 196,
+    "heard": "table",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "crabbed",
+    "ipa": "[ˈkræbɪd]",
+    "definition": "adj. 暴躁的",
+    "definitions": [
+      "adj. 暴躁的"
+    ],
+    "start": 316.84,
+    "end": 317.6,
+    "book_page": 196,
+    "heard": "crabid",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "premium",
+    "ipa": "[ˈpriːmiəm]",
+    "definition": "n. 保险费；奖金",
+    "definitions": [
+      "n. 保险费；奖金"
+    ],
+    "start": 318.88,
+    "end": 320.12,
+    "book_page": 196,
+    "heard": "premium",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "legislature",
+    "ipa": "[ˈleʤɪsleɪtʃər]",
+    "definition": "n. 立法机关，立法团体",
+    "definitions": [
+      "n. 立法机关，立法团体"
+    ],
+    "start": 321.86,
+    "end": 323.26,
+    "book_page": 196,
+    "heard": "legislature",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "impel",
+    "ipa": "[ɪmˈpel]",
+    "definition": "v. 推进；驱使",
+    "definitions": [
+      "v. 推进；驱使"
+    ],
+    "start": 324.68,
+    "end": 326.08,
+    "book_page": 197,
+    "heard": "impel",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "suggestive",
+    "ipa": "[səˈʤestɪv]",
+    "definition": "adj. 暗示的",
+    "definitions": [
+      "adj. 暗示的"
+    ],
+    "start": 327.8,
+    "end": 329.2,
+    "book_page": 197,
+    "heard": "suggestive",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "poster",
+    "ipa": "[ˈpoʊstər]",
+    "definition": "n. 海报，招贴画",
+    "definitions": [
+      "n. 海报，招贴画"
+    ],
+    "start": 330.45,
+    "end": 331.75,
+    "book_page": 197,
+    "heard": "poster",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "distaste",
+    "ipa": "[dɪsˈteɪst]",
+    "definition": "v. 厌恶 厌恶，不喜欢",
+    "definitions": [
+      "v. 厌恶 厌恶，不喜欢"
+    ],
+    "start": 333.31,
+    "end": 334.71,
+    "book_page": 197,
+    "heard": "distaste",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "regime",
+    "ipa": "[reɪˈʒiːm]",
+    "definition": "n. 政权，政治制度",
+    "definitions": [
+      "n. 政权，政治制度"
+    ],
+    "start": 336.45,
+    "end": 337.31,
+    "book_page": 197,
+    "heard": "regime",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "catalog",
+    "ipa": "[ˈkætəlɔːɡ]",
+    "definition": "n. 目录；系列",
+    "definitions": [
+      "n. 目录；系列"
+    ],
+    "start": 338.56,
+    "end": 339.98,
+    "book_page": 197,
+    "heard": "catalog",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "deaden",
+    "ipa": "[ˈdedn]",
+    "definition": "v. 减弱，缓和",
+    "definitions": [
+      "v. 减弱，缓和"
+    ],
+    "start": 341.7,
+    "end": 342.58,
+    "book_page": 197,
+    "heard": "deaden",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "split",
+    "ipa": "[splɪt]",
+    "definition": "v. 破裂，裂开 裂开，裂口",
+    "definitions": [
+      "v. 破裂，裂开 裂开，裂口"
+    ],
+    "start": 344.02,
+    "end": 345.16,
+    "book_page": 197,
+    "heard": "split",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "inconstancy",
+    "ipa": "[ɪnˈkɑːnstənsi]",
+    "definition": "n. （指人）反复无常",
+    "definitions": [
+      "n. （指人）反复无常"
+    ],
+    "start": 347.0,
+    "end": 348.4,
+    "book_page": 197,
+    "heard": "inconstancy",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "palette",
+    "ipa": "[ˈpælət]",
+    "definition": "n. 调色板，颜料配置",
+    "definitions": [
+      "n. 调色板，颜料配置"
+    ],
+    "start": 350.17,
+    "end": 350.87,
+    "book_page": 441,
+    "heard": "palette",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "submit",
+    "ipa": "[səbˈmɪt]",
+    "definition": "v. 屈服；提交，呈递",
+    "definitions": [
+      "v. 屈服；提交，呈递"
+    ],
+    "start": 352.55,
+    "end": 353.57,
+    "book_page": 197,
+    "heard": "submit",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "ready",
+    "ipa": "[ˈredi]",
+    "definition": "adj. 敏捷的，迅速的",
+    "definitions": [
+      "adj. 敏捷的，迅速的"
+    ],
+    "start": 355.55,
+    "end": 356.25,
+    "book_page": 197,
+    "heard": "ready",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "impalpable",
+    "ipa": "[ɪmˈpælpəbl]",
+    "definition": "adj. 无法触及的；不易理解的",
+    "definitions": [
+      "adj. 无法触及的；不易理解的"
+    ],
+    "start": 357.71,
+    "end": 359.11,
+    "book_page": 197,
+    "heard": "impalpable",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "pretension",
+    "ipa": "[prɪˈtenʃn]",
+    "definition": "n. 自负，骄傲；要求，主张",
+    "definitions": [
+      "n. 自负，骄傲；要求，主张"
+    ],
+    "start": 360.55,
+    "end": 361.95,
+    "book_page": 197,
+    "heard": "pretension",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "accountability",
+    "ipa": "[əˌkaʊntəˈbɪləti]",
+    "definition": "n. 有责任",
+    "definitions": [
+      "n. 有责任"
+    ],
+    "start": 363.41,
+    "end": 364.81,
+    "book_page": 197,
+    "heard": "accountability",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "slot",
+    "ipa": "[slɑːt]",
+    "definition": "n. 狭槽",
+    "definitions": [
+      "n. 狭槽"
+    ],
+    "start": 364.81,
+    "end": 366.15,
+    "book_page": 197,
+    "heard": "slot",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "prosperity",
+    "ipa": "[prɑːˈsperəti]",
+    "definition": "n. 繁荣；幸运",
+    "definitions": [
+      "n. 繁荣；幸运"
+    ],
+    "start": 368.87,
+    "end": 370.35,
+    "book_page": 198,
+    "heard": "prosperity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "minutes",
+    "ipa": "[ˈmɪnɪts]",
+    "definition": "n. 会议记录",
+    "definitions": [
+      "n. 会议记录"
+    ],
+    "start": 371.67,
+    "end": 373.13,
+    "book_page": 198,
+    "heard": "minutes",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "genuine",
+    "ipa": "[ˈʤenjuɪn]",
+    "definition": "adj. 真的；真诚的",
+    "definitions": [
+      "adj. 真的；真诚的"
+    ],
+    "start": 374.67,
+    "end": 375.71,
+    "book_page": 198,
+    "heard": "genuine",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "boring",
+    "ipa": "[ˈbɔːrɪ]",
+    "definition": "adj. 无趣的，乏味的",
+    "definitions": [
+      "adj. 无趣的，乏味的"
+    ],
+    "start": 376.67,
+    "end": 378.35,
+    "book_page": 198,
+    "heard": "boring",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "revenue",
+    "ipa": "[ˈrevənuː]",
+    "definition": "n. 收入，收益；税收",
+    "definitions": [
+      "n. 收入，收益；税收"
+    ],
+    "start": 379.67,
+    "end": 380.93,
+    "book_page": 198,
+    "heard": "revenue",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "peril",
+    "ipa": "[ˈperəl]",
+    "definition": "n. 危险",
+    "definitions": [
+      "n. 危险"
+    ],
+    "start": 382.81,
+    "end": 383.51,
+    "book_page": 198,
+    "heard": "peril",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "diagnose",
+    "ipa": "[ˌdaɪəɡˈnoʊs]",
+    "definition": "v. 判断，诊断",
+    "definitions": [
+      "v. 判断，诊断"
+    ],
+    "start": 384.95,
+    "end": 386.21,
+    "book_page": 198,
+    "heard": "diagnose",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "orchard",
+    "ipa": "[ˈɔːrtʃərd]",
+    "definition": "n. 果园",
+    "definitions": [
+      "n. 果园"
+    ],
+    "start": 387.71,
+    "end": 389.11,
+    "book_page": 198,
+    "heard": "orchard",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "warehouse",
+    "ipa": "[ˈwerhaʊs]",
+    "definition": "n. 仓库，货栈",
+    "definitions": [
+      "n. 仓库，货栈"
+    ],
+    "start": 391.08,
+    "end": 391.78,
+    "book_page": 198,
+    "heard": "warehouse",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "retreat",
+    "ipa": "[rɪˈtriːt]",
+    "definition": "n. 撤退；隐居处\nv. 撤退",
+    "definitions": [
+      "n. 撤退；隐居处",
+      "v. 撤退"
+    ],
+    "start": 393.2,
+    "end": 394.52,
+    "book_page": 198,
+    "heard": "retreat",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "track",
+    "ipa": "[træk]",
+    "definition": "n. 轨迹，踪迹；道路，路径；轨道 跟踪，追踪",
+    "definitions": [
+      "n. 轨迹，踪迹；道路，路径；轨道 跟踪，追踪"
+    ],
+    "start": 394.52,
+    "end": 395.86,
+    "book_page": 198,
+    "heard": "track",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "tactic",
+    "ipa": "[ˈtæktɪk]",
+    "definition": "n. 策略，手段；战术",
+    "definitions": [
+      "n. 策略，手段；战术"
+    ],
+    "start": 398.83,
+    "end": 399.89,
+    "book_page": 198,
+    "heard": "tactic",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "superlative",
+    "ipa": "[suːˈpɜːrlətɪv]",
+    "definition": "adj. 最好的",
+    "definitions": [
+      "adj. 最好的"
+    ],
+    "start": 401.8,
+    "end": 402.86,
+    "book_page": 198,
+    "heard": "superlative",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "tenure",
+    "ipa": "[ˈtenjər]",
+    "definition": "n. 占有期，任期；终身职位",
+    "definitions": [
+      "n. 占有期，任期；终身职位"
+    ],
+    "start": 404.68,
+    "end": 405.38,
+    "book_page": 198,
+    "heard": "tenure",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "disruptive",
+    "ipa": "[dɪsˈrʌptɪv]",
+    "definition": "adj. 制造混乱的",
+    "definitions": [
+      "adj. 制造混乱的"
+    ],
+    "start": 406.8,
+    "end": 408.12,
+    "book_page": 198,
+    "heard": "disruptive",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "sensible",
+    "ipa": "[ˈsensəbl]",
+    "definition": "adj. 明智的；可感觉到的",
+    "definitions": [
+      "adj. 明智的；可感觉到的"
+    ],
+    "start": 410.12,
+    "end": 411.1,
+    "book_page": 199,
+    "heard": "sensible",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "pivot",
+    "ipa": "[ˈpɪvət]",
+    "definition": "n. 枢轴，中心 旋转",
+    "definitions": [
+      "n. 枢轴，中心 旋转"
+    ],
+    "start": 412.12,
+    "end": 413.64,
+    "book_page": 199,
+    "heard": "pivot",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "fecundity",
+    "ipa": "[fɪˈkʌndəti]",
+    "definition": "n. 多产，丰饶；繁殖力，生殖力",
+    "definitions": [
+      "n. 多产，丰饶；繁殖力，生殖力"
+    ],
+    "start": 414.92,
+    "end": 416.62,
+    "book_page": 199,
+    "heard": "fecundity",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "finite",
+    "ipa": "[ˈfaɪnaɪt]",
+    "definition": "adj. 有限的",
+    "definitions": [
+      "adj. 有限的"
+    ],
+    "start": 418.4,
+    "end": 419.1,
+    "book_page": 199,
+    "heard": "finite",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "matte",
+    "ipa": "[mæt]",
+    "definition": "adj. 无光泽的",
+    "definitions": [
+      "adj. 无光泽的"
+    ],
+    "start": 420.68,
+    "end": 421.76,
+    "book_page": 199,
+    "heard": "matte",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "exuberance",
+    "ipa": "[ɪɡˈzuːbərəns]",
+    "definition": "n. 愉快；茁壮",
+    "definitions": [
+      "n. 愉快；茁壮"
+    ],
+    "start": 423.26,
+    "end": 424.66,
+    "book_page": 199,
+    "heard": "exuberance",
+    "match": "exact",
+    "source": "gre_book"
+  },
+  {
+    "word": "taking",
+    "ipa": "[ˈteɪkɪ]",
+    "definition": "adj. 楚楚动人的，迷人的",
+    "definitions": [
+      "adj. 楚楚动人的，迷人的"
+    ],
+    "start": 424.66,
+    "end": 425.9,
+    "book_page": 199,
+    "heard": "taking",
+    "match": "exact",
+    "source": "gre_book"
+  }
+]
