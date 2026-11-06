@@ -28,18 +28,18 @@
     "source": "gre_book"
   },
   {
-    "word": "naughty",
-    "ipa": "[ˈnɔːti]",
-    "definition": "adj. 顽皮的，淘气的；不妥当的，（成人）没规矩的；下流的，淫秽的；<古>邪恶的",
+    "word": "knotty",
+    "ipa": "[ˈnɒti]",
+    "definition": "adj. 多节的，多瘤的；困难的，棘手的",
     "definitions": [
-      "adj. 顽皮的，淘气的；不妥当的，（成人）没规矩的；下流的，淫秽的；<古>邪恶的"
+      "adj. 多节的，多瘤的；困难的，棘手的"
     ],
     "start": 11.26,
     "end": 12.26,
-    "book_page": null,
+    "book_page": 120,
     "heard": "naughty",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "rectitude",
@@ -57,10 +57,11 @@
   },
   {
     "word": "cordial",
-    "ipa": "[ˈkɔːrʤəl]",
-    "definition": "adj. 热诚的 兴奋剂",
+    "ipa": "[ˈkɔːdiəl]",
+    "definition": "adj. 热诚的\nn. 兴奋剂",
     "definitions": [
-      "adj. 热诚的 兴奋剂"
+      "adj. 热诚的",
+      "n. 兴奋剂"
     ],
     "start": 16.7,
     "end": 17.74,
@@ -98,20 +99,19 @@
     "source": "gre_book"
   },
   {
-    "word": "slough",
-    "ipa": "[slaʊ]",
-    "definition": "v. 使脱落，蜕皮；抛弃（常作 ）\nn. 泥沼，沼泽，泥坑；蜕下的皮（或壳）",
+    "word": "slew",
+    "ipa": "[sluː]",
+    "definition": "v. （使）旋转\nn. 大量",
     "definitions": [
-      "vt. 使脱落，蜕皮；抛弃（常作 ）；使陷入泥沼",
-      "vi. 蜕皮；脱落；在泥浆中跋涉",
-      "n. 泥沼，沼泽，泥坑；蜕下的皮（或壳）；（医学）腐肉，坏死组织；绝境，绝望状态"
+      "v. （使）旋转",
+      "n. 大量"
     ],
     "start": 24.31,
     "end": 25.69,
-    "book_page": null,
+    "book_page": 120,
     "heard": "slough",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "invective",
@@ -255,11 +255,11 @@
   },
   {
     "word": "advocate",
-    "ipa": "[ˈædvəkeɪt]",
+    "ipa": "[ˈædvəkeɪt]（v.）/[ˈædvəkət]（n.）",
     "definition": "v. 拥护，提倡\nn. 拥护者，提倡者；辩护律师",
     "definitions": [
       "v. 拥护，提倡",
-      "n. 拥护者，提倡者；辩护律师；（为某一类人）谋利益者；（一项事业或个组织的）工作者"
+      "n. 拥护者，提倡者；辩护律师"
     ],
     "start": 54.16,
     "end": 55.56,
@@ -382,10 +382,11 @@
   },
   {
     "word": "forge",
-    "ipa": "[fɔːrʤ]",
-    "definition": "n. 铁匠铺 使形成，达成；伪造；锻制，打铁",
+    "ipa": "[fɔːdʒ]",
+    "definition": "n. 铁匠铺\nv. 使形成，达成；伪造；锻制，打铁",
     "definitions": [
-      "n. 铁匠铺 使形成，达成；伪造；锻制，打铁"
+      "n. 铁匠铺",
+      "v. 使形成，达成；伪造；锻制，打铁"
     ],
     "start": 81.98,
     "end": 83.44,
@@ -467,9 +468,10 @@
   {
     "word": "plague",
     "ipa": "[pleɪɡ]",
-    "definition": "n. 瘟疫；讨厌的人 烦扰",
+    "definition": "n. 瘟疫；讨厌的人\nv. 烦扰",
     "definitions": [
-      "n. 瘟疫；讨厌的人 烦扰"
+      "n. 瘟疫；讨厌的人",
+      "v. 烦扰"
     ],
     "start": 98.44,
     "end": 99.94,
@@ -479,19 +481,18 @@
     "source": "gre_book"
   },
   {
-    "word": "semi",
-    "ipa": "[ˈsemi]",
-    "definition": "n. <英，非正式>半独立式住宅；（体育比赛的）半决赛；<美>半拖车，挂车",
+    "word": "seamy",
+    "ipa": "[ˈsiːmi]",
+    "definition": "adj. 丑陋的，污秽的",
     "definitions": [
-      "n. <英，非正式>半独立式住宅；（体育比赛的）半决赛；<美>半拖车，挂车",
-      "n. 【名】 （意、芬）塞米（人名）"
+      "adj. 丑陋的，污秽的"
     ],
     "start": 101.9,
     "end": 102.6,
-    "book_page": null,
+    "book_page": 122,
     "heard": "semi",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "cronyism",
@@ -508,19 +509,18 @@
     "source": "gre_book"
   },
   {
-    "word": "guild",
+    "word": "gild",
     "ipa": "[ɡɪld]",
-    "definition": "n. （由工作、目标或兴趣相同的人组成的）协会；（中世纪的）行会，同业公会；（生态）共位群，功能群",
+    "definition": "v. 镀金；虚饰",
     "definitions": [
-      "n. （由工作、目标或兴趣相同的人组成的）协会；（中世纪的）行会，同业公会；（生态）共位群，功能群",
-      "n. 【名】 （英）吉尔德（人名）"
+      "v. 镀金；虚饰"
     ],
     "start": 105.62,
     "end": 107.62,
-    "book_page": 69,
+    "book_page": 122,
     "heard": "guild",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "accumulate",
@@ -565,33 +565,18 @@
     "source": "gre_book"
   },
   {
-    "word": "a",
-    "ipa": "[ə; eɪ]",
-    "definition": "n. 一；任一",
+    "word": "appraise",
+    "ipa": "[əˈpreɪz]",
+    "definition": "v. 评价，鉴定",
     "definitions": [
-      "n. 一；任一"
+      "v. 评价，鉴定"
     ],
     "start": 116.96,
-    "end": 119.04,
-    "book_page": null,
-    "heard": "a",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "praise",
-    "ipa": "[preɪz]",
-    "definition": "v. （尤指公开地）赞美，表扬；（用语言或音乐）赞美（上帝）\nn. 表扬，赞美；（对上帝的）感谢，崇拜",
-    "definitions": [
-      "v. （尤指公开地）赞美，表扬；（用语言或音乐）赞美（上帝）",
-      "n. 表扬，赞美；（对上帝的）感谢，崇拜"
-    ],
-    "start": 119.04,
     "end": 119.72,
-    "book_page": null,
-    "heard": "praise",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 122,
+    "heard": "a praise",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "expatriate",
@@ -624,9 +609,10 @@
   {
     "word": "prime",
     "ipa": "[praɪm]",
-    "definition": "n. 全盛时期 首先的；主要的；最好的",
+    "definition": "n. 全盛时期\nadj. 首先的；主要的；最好的",
     "definitions": [
-      "n. 全盛时期 首先的；主要的；最好的"
+      "n. 全盛时期",
+      "adj. 首先的；主要的；最好的"
     ],
     "start": 126.85,
     "end": 128.09,
@@ -762,20 +748,18 @@
     "source": "gre_book"
   },
   {
-    "word": "gentile",
-    "ipa": "[ˈdʒentaɪl]",
-    "definition": "n. 异教徒\nadj. 异教徒的；氏族的",
+    "word": "genteel",
+    "ipa": "[dʒenˈtiːl]",
+    "definition": "adj. 有教养的，彬彬有礼的；冒充上流的，附庸风雅的",
     "definitions": [
-      "n. 异教徒",
-      "adj. 异教徒的；氏族的",
-      "n. （意）金泰尔（人名）"
+      "adj. 有教养的，彬彬有礼的；冒充上流的，附庸风雅的"
     ],
     "start": 154.04,
     "end": 155.18,
-    "book_page": null,
+    "book_page": 123,
     "heard": "gentile",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "foment",
@@ -835,10 +819,11 @@
   },
   {
     "word": "filter",
-    "ipa": "[ˈfɪltər]",
-    "definition": "n. 过滤材料，（尤指）滤纸 过滤",
+    "ipa": "[ˈfɪltə(r)]",
+    "definition": "n. 过滤材料，（尤指）滤纸\nv. 过滤",
     "definitions": [
-      "n. 过滤材料，（尤指）滤纸 过滤"
+      "n. 过滤材料，（尤指）滤纸",
+      "v. 过滤"
     ],
     "start": 167.84,
     "end": 169.24,
@@ -1115,20 +1100,18 @@
     "source": "gre_book"
   },
   {
-    "word": "dower",
-    "ipa": "[ˈdaʊə(r)]",
-    "definition": "n. 天赋；嫁妆\nv. 给以嫁妆；给以产业",
+    "word": "dour",
+    "ipa": "[dʊə(r)]",
+    "definition": "adj. 严厉的，阴郁的，倔强的",
     "definitions": [
-      "n. 天赋；嫁妆；亡夫遗产",
-      "vt. 给以嫁妆；给以产业",
-      "n. 人名；（英）道尔"
+      "adj. 严厉的，阴郁的，倔强的"
     ],
     "start": 225.22,
     "end": 227.56,
-    "book_page": null,
+    "book_page": 125,
     "heard": "dower",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "prowess",
@@ -1175,9 +1158,10 @@
   {
     "word": "array",
     "ipa": "[əˈreɪ]",
-    "definition": "v. 部署 陈列；大批",
+    "definition": "v. 部署\nn. 陈列；大批",
     "definitions": [
-      "v. 部署 陈列；大批"
+      "v. 部署",
+      "n. 陈列；大批"
     ],
     "start": 236.22,
     "end": 238.84,
@@ -1215,32 +1199,18 @@
     "source": "gre_book"
   },
   {
-    "word": "engage",
-    "ipa": "[ɪnˈɡeɪʤ]",
-    "definition": "v. 从事，参加；雇用，聘用；使参与；引起…的注意",
+    "word": "engaging",
+    "ipa": "[ɪnˈɡeɪdʒɪŋ]",
+    "definition": "adj. 迷人的，美丽动人的",
     "definitions": [
-      "v. 从事，参加；雇用，聘用；使参与；引起…的注意"
+      "adj. 迷人的，美丽动人的"
     ],
     "start": 244.7,
-    "end": 247.06,
-    "book_page": null,
-    "heard": "engage",
-    "match": "exact",
-    "source": "gre_book"
-  },
-  {
-    "word": "gaging",
-    "ipa": "[ˈɡeɪdʒɪŋ]",
-    "definition": "n. 测量；规测；放射性计测",
-    "definitions": [
-      "n. 测量；规测；放射性计测"
-    ],
-    "start": 247.06,
     "end": 248.72,
-    "book_page": null,
-    "heard": "gaging",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 125,
+    "heard": "engage gaging",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "felicitous",
@@ -1342,11 +1312,11 @@
   },
   {
     "word": "associate",
-    "ipa": "[əˈsəʊsieɪt; əˈsəʊʃieɪt]",
+    "ipa": "[əˈsəʊsiət]（n./adj.）/[əˈsəʊsieɪt]（v.）",
     "definition": "v. 联想，联系；支持，同意\nn. 同事，伙伴；副学士，准学士\nadj. 副的，准的，非正式的；联合的，有关连的",
     "definitions": [
-      "v. 联想，联系；支持，同意；交往，（尤指）混在一起",
-      "n. 同事，伙伴；副学士，准学士；副职，副手；准会员；联想",
+      "v. 联想，联系；支持，同意",
+      "n. 同事，伙伴；副学士，准学士",
       "adj. 副的，准的，非正式的；联合的，有关连的"
     ],
     "start": 268.46,
@@ -1428,10 +1398,11 @@
   },
   {
     "word": "cluster",
-    "ipa": "[ˈklʌstər]",
-    "definition": "n. 串，簇，群 群集，丛生",
+    "ipa": "[ˈklʌstə(r)]",
+    "definition": "n. 串，簇，群\nv. 群集，丛生",
     "definitions": [
-      "n. 串，簇，群 群集，丛生"
+      "n. 串，簇，群",
+      "v. 群集，丛生"
     ],
     "start": 287.77,
     "end": 289.13,
@@ -1527,9 +1498,10 @@
   {
     "word": "boo",
     "ipa": "[buː]",
-    "definition": "v. 发出嘘声 （表示不满，轻蔑等）嘘",
+    "definition": "v. 发出嘘声\nint. （表示不满，轻蔑等）嘘",
     "definitions": [
-      "v. 发出嘘声 （表示不满，轻蔑等）嘘"
+      "v. 发出嘘声",
+      "int. （表示不满，轻蔑等）嘘"
     ],
     "start": 307.22,
     "end": 307.92,
@@ -1610,10 +1582,11 @@
   },
   {
     "word": "slant",
-    "ipa": "[slænt]",
-    "definition": "v. 倾斜 斜面；观点",
+    "ipa": "[slɑːnt]",
+    "definition": "v. 倾斜\nn. 斜面；观点",
     "definitions": [
-      "v. 倾斜 斜面；观点"
+      "v. 倾斜",
+      "n. 斜面；观点"
     ],
     "start": 323.46,
     "end": 324.74,
@@ -1637,21 +1610,18 @@
     "source": "gre_book"
   },
   {
-    "word": "metal",
-    "ipa": "[ˈmet(ə)l]",
-    "definition": "n. 重金属音乐；金属色\nv. 用金属做，用金属包；<英>用碎石筑路，用碎石修路\nadj. 金属制的",
+    "word": "meddle",
+    "ipa": "[ˈmedl]",
+    "definition": "v. 干涉，干预",
     "definitions": [
-      "n. 重金属音乐；金属色；筑路碎石；玻璃液；（铁路的）钢轨；金属，合金",
-      "v. 用金属做，用金属包；<英>用碎石筑路，用碎石修路",
-      "adj. 金属制的",
-      "n. 【名】 （捷、瑞典）梅塔尔（人名）"
+      "v. 干涉，干预"
     ],
     "start": 327.46,
     "end": 330.02,
-    "book_page": null,
+    "book_page": 127,
     "heard": "metal",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "illuminate",
@@ -1697,10 +1667,12 @@
   },
   {
     "word": "stock",
-    "ipa": "[stɑːk]",
-    "definition": "v. 储备 常用的 存货",
+    "ipa": "[stɒk]",
+    "definition": "v. 储备\nadj. 常用的\nn. 存货",
     "definitions": [
-      "v. 储备 常用的 存货"
+      "v. 储备",
+      "adj. 常用的",
+      "n. 存货"
     ],
     "start": 339.26,
     "end": 340.66,
@@ -1711,10 +1683,11 @@
   },
   {
     "word": "parley",
-    "ipa": "[ˈpɑːrli]",
-    "definition": "n. 和谈；会谈 和谈，会谈",
+    "ipa": "[ˈpɑːli]",
+    "definition": "n. 和谈；会谈\nv. 和谈，会谈",
     "definitions": [
-      "n. 和谈；会谈 和谈，会谈"
+      "n. 和谈；会谈",
+      "v. 和谈，会谈"
     ],
     "start": 340.66,
     "end": 341.36,
@@ -1753,10 +1726,11 @@
   },
   {
     "word": "hoax",
-    "ipa": "[hoʊks]",
-    "definition": "n. 骗局，恶作剧 欺骗",
+    "ipa": "[həʊks]",
+    "definition": "n. 骗局，恶作剧\nv. 欺骗",
     "definitions": [
-      "n. 骗局，恶作剧 欺骗"
+      "n. 骗局，恶作剧",
+      "v. 欺骗"
     ],
     "start": 349.78,
     "end": 351.0,
@@ -1865,11 +1839,11 @@
   },
   {
     "word": "jettison",
-    "ipa": "[ˈʤetɪsn]",
-    "definition": "v. （船等）向外抛弃货物 抛弃的货物\nn. 抛弃",
+    "ipa": "[ˈdʒetɪsn]",
+    "definition": "v. （船等）向外抛弃货物\nn. 抛弃；抛弃的货物",
     "definitions": [
-      "v. （船等）向外抛弃货物 抛弃的货物",
-      "n. 抛弃"
+      "v. （船等）向外抛弃货物",
+      "n. 抛弃；抛弃的货物"
     ],
     "start": 370.65,
     "end": 372.35,
@@ -1923,9 +1897,10 @@
   {
     "word": "patent",
     "ipa": "[ˈpeɪtnt]",
-    "definition": "adj. 显而易见的 专利权（证书）",
+    "definition": "adj. 显而易见的\nn. 专利权（证书）",
     "definitions": [
-      "adj. 显而易见的 专利权（证书）"
+      "adj. 显而易见的",
+      "n. 专利权（证书）"
     ],
     "start": 381.37,
     "end": 382.07,
@@ -1991,18 +1966,19 @@
     "source": "gre_book"
   },
   {
-    "word": "animated",
-    "ipa": "[ˈænɪmeɪtɪd]",
-    "definition": "adj. 活生生的，生动的",
+    "word": "animate",
+    "ipa": "[ˈænɪmət]（adj.）/[ˈænɪmeɪt]（v.）",
+    "definition": "adj. 活的，有生命力的\nv. 赋予生命",
     "definitions": [
-      "adj. 活生生的，生动的"
+      "adj. 活的，有生命力的",
+      "v. 赋予生命"
     ],
     "start": 396.65,
     "end": 397.95,
-    "book_page": null,
+    "book_page": 129,
     "heard": "animate",
-    "match": "fuzzy",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "prominent",
@@ -2047,19 +2023,18 @@
     "source": "gre_book"
   },
   {
-    "word": "flare",
+    "word": "flair",
     "ipa": "[fleə(r)]",
-    "definition": "v. 突然烧旺，闪耀；突发，加剧\nn. 闪耀的光；闪光装置，信号弹",
+    "definition": "n. 天赋，本领，天资",
     "definitions": [
-      "v. 突然烧旺，闪耀；突发，加剧；突然发怒，突然爆发；张开，展开",
-      "n. 闪耀的光；闪光装置，信号弹；突然发怒，发脾气；喇叭裤；（发炎等症状的）突然复发；（太阳等恒星的）耀斑；（底片上的）翳雾斑；船舷的翻边"
+      "n. 天赋，本领，天资"
     ],
     "start": 409.06,
     "end": 410.54,
-    "book_page": null,
+    "book_page": 130,
     "heard": "flare",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "disavow",
@@ -2119,10 +2094,11 @@
   },
   {
     "word": "ancillary",
-    "ipa": "[ˈænsəleri]",
-    "definition": "adj. 辅助的 助手",
+    "ipa": "[ænˈsɪləri]",
+    "definition": "adj. 辅助的\nn. 助手",
     "definitions": [
-      "adj. 辅助的 助手"
+      "adj. 辅助的",
+      "n. 助手"
     ],
     "start": 423.13,
     "end": 424.53,
@@ -2162,9 +2138,9 @@
   {
     "word": "labyrinth",
     "ipa": "[ˈlæbərɪnθ]",
-    "definition": "n. 迷宫；（解剖）内耳迷路；复杂难解的事物（常与 连用）",
+    "definition": "n. 迷宫；错综复杂",
     "definitions": [
-      "n. 迷宫；（解剖）内耳迷路；复杂难解的事物（常与 连用）"
+      "n. 迷宫；错综复杂"
     ],
     "start": 429.99,
     "end": 431.81,

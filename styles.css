@@ -105,6 +105,15 @@ body {
   white-space: pre-line;
 }
 
+.miss-panel li.concealed {
+  background: var(--card);
+}
+
+.miss-panel li.concealed .w {
+  color: var(--muted);
+  font-weight: 500;
+}
+
 .app {
   min-width: 0;
 }
@@ -455,6 +464,14 @@ body.quiz-page.testing {
   margin-bottom: 1.1rem;
 }
 
+#home-actions {
+  justify-content: space-between;
+}
+
+#quiz-all {
+  margin-left: auto;
+}
+
 .home-toolbar input {
   flex: 1;
   min-width: 12rem;
@@ -517,6 +534,23 @@ a.btn.ghost {
   gap: 0.75rem;
 }
 
+.list-head {
+  grid-column: 1 / -1;
+  margin: 0.85rem 0 0;
+  font-size: 1.05rem;
+}
+
+.list-head:first-child {
+  margin-top: 0;
+}
+
+.list-head-note {
+  margin-left: 0.55rem;
+  color: var(--muted);
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
 .list-card {
   display: block;
   text-decoration: none;
@@ -540,6 +574,11 @@ a.btn.ghost {
 
 .list-card:not(.empty):hover {
   border-color: var(--accent);
+}
+
+.list-card.pending {
+  background: #f7f1e8;
+  border-color: #c4b49a;
 }
 
 .list-card.empty {
@@ -661,6 +700,82 @@ a.btn.ghost {
 .word-row.focus {
   background: #e4ebe4;
   outline: 1px solid var(--ok);
+}
+
+.review {
+  margin-top: 1rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 1.2rem 1.2rem 1.35rem;
+}
+
+.review h2 {
+  margin: 0;
+}
+
+.review-count {
+  margin: 0.3rem 0 0.9rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.review ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.review li {
+  border: 1px solid #e0cfcb;
+  border-radius: 12px;
+  padding: 0.85rem 1rem 0.95rem;
+  background: #f7f1ee;
+}
+
+.review li.marked {
+  border-color: var(--line);
+  background: #f7f6f1;
+}
+
+.review .head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.55rem;
+}
+
+.review .w {
+  font-weight: 650;
+  font-size: 1.45rem;
+}
+
+.review .p {
+  color: var(--accent);
+  font-size: 1.05rem;
+}
+
+.review .tag {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--bad);
+  border: 1px solid #d7b8b3;
+  border-radius: 999px;
+  padding: 0.05rem 0.5rem;
+}
+
+.review li.marked .tag {
+  color: var(--accent);
+  border-color: #c5cdc8;
+}
+
+.review .d {
+  margin-top: 0.35rem;
+  color: var(--ink);
+  line-height: 1.55;
+  white-space: pre-line;
 }
 
 .hidden {

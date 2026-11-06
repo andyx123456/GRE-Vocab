@@ -57,10 +57,11 @@
   },
   {
     "word": "hammer",
-    "ipa": "[ˈhæmər]",
-    "definition": "n. 锤子，槌 锤击，锤打",
+    "ipa": "[ˈhæmə(r)]",
+    "definition": "n. 锤子，槌\nv. 锤击，捶打",
     "definitions": [
-      "n. 锤子，槌 锤击，锤打"
+      "n. 锤子，槌",
+      "v. 锤击，捶打"
     ],
     "start": 15.94,
     "end": 17.0,
@@ -309,10 +310,11 @@
   },
   {
     "word": "temper",
-    "ipa": "[ˈtempər]",
-    "definition": "v. 锻炼；调和，使缓和 脾气，性情",
+    "ipa": "[ˈtempə(r)]",
+    "definition": "v. 锻炼；调和，使缓和\nn. 脾气，性情",
     "definitions": [
-      "v. 锻炼；调和，使缓和 脾气，性情"
+      "v. 锻炼；调和，使缓和",
+      "n. 脾气，性情"
     ],
     "start": 65.1,
     "end": 66.5,
@@ -365,10 +367,11 @@
   },
   {
     "word": "profligate",
-    "ipa": "[ˈprɑːflɪɡət]",
-    "definition": "adj. 挥霍的，浪费的 恣意挥霍者",
+    "ipa": "[ˈprɒflɪɡət]",
+    "definition": "adj. 挥霍的，浪费的\nn. 恣意挥霍者",
     "definitions": [
-      "adj. 挥霍的，浪费的 恣意挥霍者"
+      "adj. 挥霍的，浪费的",
+      "n. 恣意挥霍者"
     ],
     "start": 76.76,
     "end": 77.48,
@@ -476,21 +479,18 @@
     "source": "gre_book"
   },
   {
-    "word": "seed",
+    "word": "cede",
     "ipa": "[siːd]",
-    "definition": "n. 种子，籽；<美>（苹果或橙子等的）果核，籽\nv. 给（蔬菜，水果）去籽（去核），给......脱籽；选定......为种子选手（或种子队）\nadj. 用作种子的",
+    "definition": "v. 割让（领土），放弃",
     "definitions": [
-      "n. 种子，籽；<美>（苹果或橙子等的）果核，籽；<旧> 精液，精子（常为幽默用法）；<古，文>（古时用语，原用于《圣经》中）子嗣，子孙；（感情、过程的）起源，开端；（网球、羽毛球等体育项目中的）种子选手， 种子队；晶粒，晶种；辐射管，镭管",
-      "v. 给（蔬菜，水果）去籽（去核），给......脱籽；选定......为种子选手（或种子队）；在（地里）播种；（植物）结籽，脱籽；（植物）自播；（喻）使萌芽，使发展；用晶粒物质使冷凝（结晶）（尤指促云化雨）",
-      "adj. 用作种子的",
-      "n. 【名】 （英）锡德（人名）"
+      "v. 割让（领土），放弃"
     ],
     "start": 97.4,
     "end": 98.1,
-    "book_page": null,
+    "book_page": 133,
     "heard": "seed",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "collapse",
@@ -508,10 +508,11 @@
   },
   {
     "word": "surfeit",
-    "ipa": "[ˈsɜːrfɪt]",
-    "definition": "n. 饮食过量，过度 使过量",
+    "ipa": "[ˈsɜːfɪt]",
+    "definition": "n. 饮食过量，过度\nv. 使过量",
     "definitions": [
-      "n. 饮食过量，过度 使过量"
+      "n. 饮食过量，过度",
+      "v. 使过量"
     ],
     "start": 103.78,
     "end": 105.26,
@@ -521,20 +522,18 @@
     "source": "gre_book"
   },
   {
-    "word": "rest",
+    "word": "wrest",
     "ipa": "[rest]",
-    "definition": "v. 休息，歇息；使（运动员）暂时离队\nn. 休息（时间）；剩余部分，余下的人（物）",
+    "definition": "v. 扭，拧；夺取，费力取得",
     "definitions": [
-      "v. 休息，歇息；使（运动员）暂时离队； （问题，事情）被搁置；（被）支撑，（使）倚靠；安息，长眠；在于，存放于；（目光）停留；依靠，仰仗；寄（希望）于，相信；让（土地）休耕；（原告或被告）完成向法庭提出证据（或辩论）；保持不变；<英>（演员）无戏可演",
-      "n. 休息（时间）；剩余部分，余下的人（物）；静止，停止；（音乐的）休止，休止符；（演说或诗句的）停顿；撑架，支座；（剖）（器官或组织的）一小碎块；（网球）对打，回合",
-      "n. 【名】 （美）雷斯特（人名）"
+      "v. 扭，拧；夺取，费力取得"
     ],
     "start": 105.26,
     "end": 107.26,
-    "book_page": null,
+    "book_page": 133,
     "heard": "rest",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "insurrection",
@@ -635,18 +634,18 @@
     "source": "gre_book"
   },
   {
-    "word": "emulate",
-    "ipa": "[ˈemjuleɪt]",
-    "definition": "v. 与…竞争，努力赶上",
+    "word": "immolate",
+    "ipa": "[ˈɪməleɪt]",
+    "definition": "v. 牺牲，献祭",
     "definitions": [
-      "v. 与…竞争，努力赶上"
+      "v. 牺牲，献祭"
     ],
     "start": 127.9,
     "end": 130.28,
-    "book_page": 62,
+    "book_page": 134,
     "heard": "emulate",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "justification",
@@ -748,10 +747,11 @@
   },
   {
     "word": "overthrow",
-    "ipa": "[ˌoʊvərˈθroʊ]",
-    "definition": "v. 推翻；终止 推翻；终止",
+    "ipa": "[ˌəʊvəˈθrəʊ]（v.）/[ˈəʊvəθrəʊ]（n.）",
+    "definition": "v. 推翻；终止\nn. 推翻；终止",
     "definitions": [
-      "v. 推翻；终止 推翻；终止"
+      "v. 推翻；终止",
+      "n. 推翻；终止"
     ],
     "start": 151.68,
     "end": 152.38,
@@ -803,19 +803,18 @@
     "source": "gre_book"
   },
   {
-    "word": "calo",
-    "ipa": "/calo/",
-    "definition": "n. 人名（法、西、意），音译“卡洛”",
+    "word": "callow",
+    "ipa": "[ˈkæləʊ]",
+    "definition": "adj. （鸟）未生羽毛的；（人）未成熟的",
     "definitions": [
-      "n. 人名（法、西、意），音译“卡洛”",
-      "n. ：尝试将多种人工智能技术整合为认知助手的项目"
+      "adj. （鸟）未生羽毛的；（人）未成熟的"
     ],
     "start": 161.78,
     "end": 164.44,
-    "book_page": null,
+    "book_page": 134,
     "heard": "calo",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "orthodox",
@@ -874,19 +873,18 @@
     "source": "gre_book"
   },
   {
-    "word": "altar",
+    "word": "alter",
     "ipa": "[ˈɔːltə(r)]",
-    "definition": "n. 祭坛，圣坛，圣餐台；（教堂里牧师站立的）讲坛",
+    "definition": "v. 改变，更改",
     "definitions": [
-      "n. 祭坛，圣坛，圣餐台；（教堂里牧师站立的）讲坛",
-      "n. 【名】 （法、塞、罗）阿尔塔（人名）"
+      "v. 改变，更改"
     ],
     "start": 176.44,
     "end": 177.88,
-    "book_page": null,
+    "book_page": 135,
     "heard": "altar",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "empirical",
@@ -1029,19 +1027,18 @@
     "source": "gre_book"
   },
   {
-    "word": "invertebrate",
-    "ipa": "[ɪnˈvɜːtɪbrət]",
-    "definition": "n. 无脊椎动物；<喻>无骨气的人\nadj. 无脊椎的；<喻>无骨气的",
+    "word": "inveterate",
+    "ipa": "[ɪnˈvetərət]",
+    "definition": "adj. 积习已深的，根深蒂固的",
     "definitions": [
-      "n. 无脊椎动物；<喻>无骨气的人",
-      "adj. 无脊椎的；<喻>无骨气的"
+      "adj. 积习已深的，根深蒂固的"
     ],
     "start": 207.86,
     "end": 209.26,
-    "book_page": 23,
+    "book_page": 136,
     "heard": "invertebrate",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "consensus",
@@ -1087,10 +1084,11 @@
   },
   {
     "word": "cunning",
-    "ipa": "[ˈkʌnɪ]",
-    "definition": "adj. 狡猾的，奸诈的；灵巧的，精巧的 狡猾，奸诈",
+    "ipa": "[ˈkʌnɪŋ]",
+    "definition": "adj. 狡猾的，奸诈的；灵巧的，精巧的\nn. 狡猾，奸诈",
     "definitions": [
-      "adj. 狡猾的，奸诈的；灵巧的，精巧的 狡猾，奸诈"
+      "adj. 狡猾的，奸诈的；灵巧的，精巧的",
+      "n. 狡猾，奸诈"
     ],
     "start": 217.76,
     "end": 218.84,
@@ -1185,10 +1183,11 @@
   },
   {
     "word": "bargain",
-    "ipa": "[ˈbɑːrɡən]",
-    "definition": "n. 交易；特价商品 讨价还价",
+    "ipa": "[ˈbɑːɡən]",
+    "definition": "n. 交易；特价商品\nv. 讨价还价",
     "definitions": [
-      "n. 交易；特价商品 讨价还价"
+      "n. 交易；特价商品",
+      "v. 讨价还价"
     ],
     "start": 237.24,
     "end": 237.94,
@@ -1310,18 +1309,18 @@
     "source": "gre_book"
   },
   {
-    "word": "feet",
+    "word": "feat",
     "ipa": "[fiːt]",
-    "definition": "n. 脚；尺，英尺；音步（诗律用语）",
+    "definition": "n. 功绩，壮举",
     "definitions": [
-      "n. 脚；尺，英尺；音步（诗律用语）"
+      "n. 功绩，壮举"
     ],
     "start": 261.42,
     "end": 262.74,
-    "book_page": null,
+    "book_page": 137,
     "heard": "feet",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "sidestep",
@@ -1549,10 +1548,11 @@
   },
   {
     "word": "jockey",
-    "ipa": "[ˈʤɑːki]",
-    "definition": "n. 骑师 谋取",
+    "ipa": "[ˈdʒɒki]",
+    "definition": "n. 骑师\nv. 谋取",
     "definitions": [
-      "n. 骑师 谋取"
+      "n. 骑师",
+      "v. 谋取"
     ],
     "start": 309.8,
     "end": 311.2,
@@ -1578,9 +1578,11 @@
   {
     "word": "slight",
     "ipa": "[slaɪt]",
-    "definition": "adj. 轻微的，微小的 怠慢，冷落 冒犯他人的行为、言语等",
+    "definition": "adj. 轻微的，微小的\nv. 怠慢，冷落\nn. 冒犯他人的行为、言语等",
     "definitions": [
-      "adj. 轻微的，微小的 怠慢，冷落 冒犯他人的行为、言语等"
+      "adj. 轻微的，微小的",
+      "v. 怠慢，冷落",
+      "n. 冒犯他人的行为、言语等"
     ],
     "start": 315.21,
     "end": 316.29,
@@ -1591,10 +1593,11 @@
   },
   {
     "word": "prompt",
-    "ipa": "[prɑːmpt]",
-    "definition": "v. 促进，激起 敏捷的，迅速的",
+    "ipa": "[prɒmpt]",
+    "definition": "v. 促进，激起\nadj. 敏捷的，迅速的",
     "definitions": [
-      "v. 促进，激起 敏捷的，迅速的"
+      "v. 促进，激起",
+      "adj. 敏捷的，迅速的"
     ],
     "start": 317.54,
     "end": 319.0,
@@ -1731,10 +1734,11 @@
   },
   {
     "word": "nerve",
-    "ipa": "[nɜːrv]",
-    "definition": "n. 勇气 给予力量",
+    "ipa": "[nɜːv]",
+    "definition": "n. 勇气\nv. 给予力量",
     "definitions": [
-      "n. 勇气 给予力量"
+      "n. 勇气",
+      "v. 给予力量"
     ],
     "start": 345.04,
     "end": 346.44,
@@ -2038,19 +2042,19 @@
     "source": "gre_book"
   },
   {
-    "word": "bridal",
+    "word": "bridle",
     "ipa": "[ˈbraɪdl]",
-    "definition": "adj. 新娘的；婚礼的\nn. <古>婚礼，婚宴",
+    "definition": "n. 马笼头\nv. 抑制，控制",
     "definitions": [
-      "adj. 新娘的；婚礼的",
-      "n. <古>婚礼，婚宴"
+      "n. 马笼头",
+      "v. 抑制，控制"
     ],
     "start": 411.08,
     "end": 412.46,
-    "book_page": null,
+    "book_page": 140,
     "heard": "bridal",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "chase",
@@ -2083,9 +2087,10 @@
   {
     "word": "leak",
     "ipa": "[liːk]",
-    "definition": "v. 泄漏 泄漏；漏出量；裂缝，漏洞",
+    "definition": "v. 泄漏\nn. 泄漏；漏出量；裂缝，漏洞",
     "definitions": [
-      "v. 泄漏 泄漏；漏出量；裂缝，漏洞"
+      "v. 泄漏",
+      "n. 泄漏；漏出量；裂缝，漏洞"
     ],
     "start": 419.49,
     "end": 420.19,

@@ -14,18 +14,18 @@
     "source": "gre_book"
   },
   {
-    "word": "blithe",
-    "ipa": "[blaɪð]",
-    "definition": "adj. 快乐的，无忧无虑的",
+    "word": "bluff",
+    "ipa": "[blʌf]",
+    "definition": "n. 虚张声势；悬崖峭壁",
     "definitions": [
-      "adj. 快乐的，无忧无虑的"
+      "n. 虚张声势；悬崖峭壁"
     ],
     "start": 8.16,
     "end": 8.86,
-    "book_page": 80,
+    "book_page": 264,
     "heard": "bluth",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "heretical",
@@ -58,9 +58,10 @@
   {
     "word": "repulse",
     "ipa": "[rɪˈpʌls]",
-    "definition": "v. 击退；（粗暴无礼地）回绝 击退；回绝，拒绝",
+    "definition": "v. 击退；（粗暴无礼地）回绝\nn. 击退；回绝，拒绝",
     "definitions": [
-      "v. 击退；（粗暴无礼地）回绝 击退；回绝，拒绝"
+      "v. 击退；（粗暴无礼地）回绝",
+      "n. 击退；回绝，拒绝"
     ],
     "start": 15.52,
     "end": 16.76,
@@ -210,19 +211,19 @@
     "source": "gre_book"
   },
   {
-    "word": "jib",
-    "ipa": "[dʒɪb]",
-    "definition": "n. 船首三角帆；（起重机的）悬臂、吊臂\nv. 踌躇不前，停止不动；不愿做，不愿接受",
+    "word": "gibe",
+    "ipa": "[ʤaɪb]",
+    "definition": "v. 嘲弄，讥笑\nn. 嘲笑，讥笑",
     "definitions": [
-      "n. 船首三角帆；（起重机的）悬臂、吊臂",
-      "v. 踌躇不前，停止不动；不愿做，不愿接受；（航海）转帆，顺风转向"
+      "v. 嘲弄，讥笑",
+      "n. 嘲笑，讥笑"
     ],
     "start": 44.37,
     "end": 46.83,
-    "book_page": null,
+    "book_page": 265,
     "heard": "jib",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "harass",
@@ -323,18 +324,18 @@
     "source": "gre_book"
   },
   {
-    "word": "illude",
-    "ipa": "[ɪˈluːd]",
-    "definition": "v. （诗/文）欺骗，诓骗；置……于幻觉中",
+    "word": "elude",
+    "ipa": "[iˈluːd]",
+    "definition": "v. 逃避；搞不清，理解不了",
     "definitions": [
-      "v. （诗/文）欺骗，诓骗；置……于幻觉中"
+      "v. 逃避；搞不清，理解不了"
     ],
     "start": 65.95,
     "end": 68.73,
-    "book_page": null,
+    "book_page": 265,
     "heard": "illude",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "sabotage",
@@ -407,18 +408,18 @@
     "source": "gre_book"
   },
   {
-    "word": "gaul",
+    "word": "gall",
     "ipa": "[ɡɔːl]",
-    "definition": "n. 高卢（位于欧洲西部）；高卢人",
+    "definition": "n. 胆汁；怨恨",
     "definitions": [
-      "n. 高卢（位于欧洲西部）；高卢人"
+      "n. 胆汁；怨恨"
     ],
     "start": 82.64,
     "end": 85.2,
-    "book_page": null,
+    "book_page": 266,
     "heard": "gaul",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "aphorism",
@@ -519,19 +520,18 @@
     "source": "gre_book"
   },
   {
-    "word": "tacked",
+    "word": "tact",
     "ipa": "[tækt]",
-    "definition": "n. [水运] 抢风行驶",
+    "definition": "n. 机智；圆滑",
     "definitions": [
-      "n. [水运] 抢风行驶",
-      "n. [五金] 平头钉"
+      "n. 机智；圆滑"
     ],
     "start": 105.06,
     "end": 107.64,
-    "book_page": null,
+    "book_page": 266,
     "heard": "tacked",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "impersonal",
@@ -550,9 +550,10 @@
   {
     "word": "rage",
     "ipa": "[reɪʤ]",
-    "definition": "n. 盛怒 狂怒，大发雷霆",
+    "definition": "n. 盛怒\nv. 狂怒，大发雷霆",
     "definitions": [
-      "n. 盛怒 狂怒，大发雷霆"
+      "n. 盛怒",
+      "v. 狂怒，大发雷霆"
     ],
     "start": 111.85,
     "end": 113.13,
@@ -592,9 +593,10 @@
   {
     "word": "incumbent",
     "ipa": "[ɪnˈkʌmbənt]",
-    "definition": "n. 在职者，现任者 义不容辞的",
+    "definition": "n. 在职者，现任者\nadj. 义不容辞的",
     "definitions": [
-      "n. 在职者，现任者 义不容辞的"
+      "n. 在职者，现任者",
+      "adj. 义不容辞的"
     ],
     "start": 119.85,
     "end": 121.39,
@@ -634,9 +636,10 @@
   {
     "word": "grave",
     "ipa": "[ɡreɪv]",
-    "definition": "adj. 严肃的，庄重的 墓穴",
+    "definition": "adj. 严肃的，庄重的\nn. 墓穴",
     "definitions": [
-      "adj. 严肃的，庄重的 墓穴"
+      "adj. 严肃的，庄重的",
+      "n. 墓穴"
     ],
     "start": 127.85,
     "end": 129.65,
@@ -660,27 +663,26 @@
     "source": "gre_book"
   },
   {
-    "word": "dup",
-    "ipa": "[dʌp]",
-    "definition": "n. 副本，复制品；复制的\nv. （古语或方言）打开",
+    "word": "dupe",
+    "ipa": "[duːp]",
+    "definition": "n. 易上当者",
     "definitions": [
-      "n. 副本，复制品；复制的",
-      "n. （计算机）类 系统中复制文件描述符的系统调用",
-      "v. （古语或方言）打开"
+      "n. 易上当者"
     ],
     "start": 133.65,
     "end": 134.85,
-    "book_page": null,
+    "book_page": 267,
     "heard": "dup",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "plump",
     "ipa": "[plʌmp]",
-    "definition": "adj. 丰满的 使丰满，使变圆",
+    "definition": "adj. 丰满的\nv. 使丰满，使变圆",
     "definitions": [
-      "adj. 丰满的 使丰满，使变圆"
+      "adj. 丰满的",
+      "v. 使丰满，使变圆"
     ],
     "start": 136.7,
     "end": 137.4,
@@ -832,9 +834,10 @@
   {
     "word": "blackmail",
     "ipa": "[ˈblækmeɪl]",
-    "definition": "v. 敲诈，勒索",
+    "definition": "v. 敲诈，勒索\nn. 敲诈，勒索",
     "definitions": [
-      "v. 敲诈，勒索"
+      "v. 敲诈，勒索",
+      "n. 敲诈，勒索"
     ],
     "start": 167.04,
     "end": 168.02,
@@ -1000,9 +1003,10 @@
   {
     "word": "harness",
     "ipa": "[ˈhɑːrnɪs]",
-    "definition": "n. 马具，挽具 束以马具；利用，控制",
+    "definition": "n. 马具，挽具\nv. 束以马具；利用，控制",
     "definitions": [
-      "n. 马具，挽具 束以马具；利用，控制"
+      "n. 马具，挽具",
+      "v. 束以马具；利用，控制"
     ],
     "start": 200.65,
     "end": 201.81,
@@ -1014,9 +1018,10 @@
   {
     "word": "pledge",
     "ipa": "[pleʤ]",
-    "definition": "n. 誓言，保证 发誓",
+    "definition": "n. 誓言，保证\nv. 发誓",
     "definitions": [
-      "n. 誓言，保证 发誓"
+      "n. 誓言，保证",
+      "v. 发誓"
     ],
     "start": 203.89,
     "end": 204.59,
@@ -1082,19 +1087,18 @@
     "source": "gre_book"
   },
   {
-    "word": "labial",
-    "ipa": "[ˈleɪbiəl]",
-    "definition": "adj. 唇的；唇音的\nn. 唇音",
+    "word": "labile",
+    "ipa": "[ˈleɪbaɪl]",
+    "definition": "adj. 易变化的，不稳定的",
     "definitions": [
-      "adj. 唇的；唇音的",
-      "n. 唇音"
+      "adj. 易变化的，不稳定的"
     ],
     "start": 217.7,
     "end": 218.64,
-    "book_page": null,
+    "book_page": 269,
     "heard": "labial",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "retort",
@@ -1125,21 +1129,19 @@
     "source": "gre_book"
   },
   {
-    "word": "real",
-    "ipa": "[ˈriːəl]",
-    "definition": "adj. 实际存在的，非想象的；名副其实的；真正的，真实的；真的，非人工的；真诚的；强烈的；确实重大的；十足的，绝对的（用来加强语气）；（数量、数字）真实的，实际的；（光学）（图像）实的；（书或电影中的场景）逼真的，似真的；（哲学）实在的",
+    "word": "reel",
+    "ipa": "[riːl]",
+    "definition": "n. 卷轴；旋转\nv. 卷……于卷轴上",
     "definitions": [
-      "adj. 实际存在的，非想象的；名副其实的；真正的，真实的；真的，非人工的；真诚的；强烈的；确实重大的；十足的，绝对的（用来加强语气）；（数量、数字）真实的，实际的；（光学）（图像）实的；（书或电影中的场景）逼真的，似真的；（哲学）实在的",
-      "adv. 很，非常地",
-      "n. 雷阿尔（巴西1994年以来的基本货币单位，等于100分）；雷阿尔（多个西班牙语国家以前的硬币和货币单位）",
-      "n. 【名】 （德、西、葡、法）雷亚尔，（英）里尔（人名）"
+      "n. 卷轴；旋转",
+      "v. 卷……于卷轴上"
     ],
     "start": 224.26,
     "end": 226.76,
-    "book_page": null,
+    "book_page": 269,
     "heard": "real",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "lank",
@@ -1156,18 +1158,18 @@
     "source": "gre_book"
   },
   {
-    "word": "stout",
-    "ipa": "[staʊt]",
-    "definition": "adj. 肥胖的；强壮的",
+    "word": "stouthearted",
+    "ipa": "[ˌstautˈhɑːrtid]",
+    "definition": "adj. 刚毅的，大胆的",
     "definitions": [
-      "adj. 肥胖的；强壮的"
+      "adj. 刚毅的，大胆的"
     ],
     "start": 230.66,
     "end": 231.8,
-    "book_page": 376,
+    "book_page": 269,
     "heard": "stout",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "pacify",
@@ -1184,19 +1186,18 @@
     "source": "gre_book"
   },
   {
-    "word": "rebut",
-    "ipa": "[rɪˈbʌt]",
-    "definition": "vt. <正式>反驳，驳斥；（法律）提出反证推翻（证词或推定）",
+    "word": "rebuff",
+    "ipa": "[rɪˈbʌf]",
+    "definition": "v. 断然拒绝",
     "definitions": [
-      "vt. <正式>反驳，驳斥；（法律）提出反证推翻（证词或推定）",
-      "vi. <正式>反驳，辩驳"
+      "v. 断然拒绝"
     ],
     "start": 235.88,
     "end": 237.78,
-    "book_page": null,
+    "book_page": 269,
     "heard": "rebuth",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "demoralize",
@@ -1227,21 +1228,18 @@
     "source": "gre_book"
   },
   {
-    "word": "wet",
+    "word": "whet",
     "ipa": "[wet]",
-    "definition": "adj. 湿的，潮湿的；（天气）下雨的，多雨的\nn. 雨，雨天；<英>保守党温和派成员\nv. 把（某物）弄湿；（尤指婴儿或小孩子）把……尿湿",
+    "definition": "v. 磨快；刺激",
     "definitions": [
-      "adj. 湿的，潮湿的；（天气）下雨的，多雨的；（油漆、墨水等）未干的；（婴幼儿或尿片）尿湿的；软弱的，优柔寡断的；<非正式>允许售酒的，不禁酒的；（尤指被右翼保守派认为）具有自由主义倾向的保守派的；（人） 嗜好酒的；用水（或其他液体）的；（鱼）新鲜的；（轮船）易（从船首或舷侧）进水的",
-      "n. 雨，雨天；<英>保守党温和派成员；湿气，水分，液体；<英>软弱的人，窝囊废（含贬义）；<英，非正式>酒；<美>反禁酒者",
-      "v. 把（某物）弄湿；（尤指婴儿或小孩子）把……尿湿；（倒入滚烫的开水）沏（茶）；变湿",
-      "n. 【名】 （英、纳米、南非）韦特（人名）"
+      "v. 磨快；刺激"
     ],
     "start": 244.88,
     "end": 245.84,
-    "book_page": null,
+    "book_page": 269,
     "heard": "wet",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "concord",
@@ -1288,9 +1286,10 @@
   {
     "word": "salve",
     "ipa": "[sælv]",
-    "definition": "n. 药膏 减轻，缓和",
+    "definition": "n. 药膏\nv. 减轻，缓和",
     "definitions": [
-      "n. 药膏 减轻，缓和"
+      "n. 药膏",
+      "v. 减轻，缓和"
     ],
     "start": 255.11,
     "end": 256.71,
@@ -1314,20 +1313,18 @@
     "source": "gre_book"
   },
   {
-    "word": "wattle",
-    "ipa": "[ˈwɒtl]",
-    "definition": "n. 板条，编条，枝条构架；枝条编成的篱笆或墙\nadj. 由编条做成的；板条的\nv. 用编条做成；用枝条编结成构架",
+    "word": "waddle",
+    "ipa": "[ˈwɑːdl]",
+    "definition": "v. 摇摇摆摆地走",
     "definitions": [
-      "n. 板条，编条，枝条构架；枝条编成的篱笆或墙；垂肉，肉垂；（林）金合欢树（金合欢属植物）",
-      "adj. 由编条做成的；板条的",
-      "vt. 用编条做成；用枝条编结成构架"
+      "v. 摇摇摆摆地走"
     ],
     "start": 260.71,
     "end": 261.71,
-    "book_page": null,
+    "book_page": 269,
     "heard": "wattle",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "synopsis",
@@ -1360,9 +1357,10 @@
   {
     "word": "defile",
     "ipa": "[dɪˈfaɪl]",
-    "definition": "v. 弄污，弄脏 （山间）峡谷，隘路",
+    "definition": "v. 弄污，弄脏\nn. （山间）峡谷，隘路",
     "definitions": [
-      "v. 弄污，弄脏 （山间）峡谷，隘路"
+      "v. 弄污，弄脏",
+      "n. （山间）峡谷，隘路"
     ],
     "start": 268.71,
     "end": 270.19,
@@ -1386,18 +1384,18 @@
     "source": "gre_book"
   },
   {
-    "word": "diffuse",
-    "ipa": "[dɪˈfjuːs]",
-    "definition": "v. 散布，（光等）漫射 漫射的，散漫的",
+    "word": "defuse",
+    "ipa": "[ˌdiːˈfjuːz]",
+    "definition": "v. 拆除（爆破物的）引信，使除去危险性；平息",
     "definitions": [
-      "v. 散布，（光等）漫射 漫射的，散漫的"
+      "v. 拆除（爆破物的）引信，使除去危险性；平息"
     ],
     "start": 274.3,
     "end": 275.7,
-    "book_page": 117,
+    "book_page": 270,
     "heard": "diffuse",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "quota",
@@ -1512,18 +1510,18 @@
     "source": "gre_book"
   },
   {
-    "word": "hue",
+    "word": "hew",
     "ipa": "[hjuː]",
-    "definition": "n. 色彩，色泽；信仰",
+    "definition": "v. 砍伐；遵守",
     "definitions": [
-      "n. 色彩，色泽；信仰"
+      "v. 砍伐；遵守"
     ],
     "start": 299.37,
     "end": 300.07,
-    "book_page": 462,
+    "book_page": 270,
     "heard": "hue",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "agape",
@@ -1638,37 +1636,19 @@
     "source": "gre_book"
   },
   {
-    "word": "above",
-    "ipa": "[əˈbʌv]",
-    "definition": "prep. （数量或度量）在……以上，超过；在（或向）……上面\nv. （级别或地位上）高于；在（或向）上面，在（或向）较高处\nadj. 前文述及的，上述的\nn. 上文提及之事，前文所提之事",
+    "word": "aboveboard",
+    "ipa": "[əˌbʌvˈbɔːrd]",
+    "definition": "adj. 光明正大的\nadv. 光明正大地",
     "definitions": [
-      "prep. （数量或度量）在……以上，超过；在（或向）……上面；（级别或地位上）高于； （重要性、质量）超过，胜过；（因善良或诚实正直而）不至于，不屑于（做某事）；（声音）比……更响亮，盖过；不受……影响，免于；（重要性、质量）超过，胜过",
-      "adv. （级别或地位上）高于；在（或向）上面，在（或向）较高处；高于，超出（特定数量、比率或标准）；上文，前文",
-      "adj. 前文述及的，上述的",
-      "n. 上文提及之事，前文所提之事"
+      "adj. 光明正大的",
+      "adv. 光明正大地"
     ],
     "start": 322.41,
-    "end": 323.71,
-    "book_page": null,
-    "heard": "above",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "board",
-    "ipa": "[bɔːd]",
-    "definition": "n. 板，木板；黑板，告示牌\nv. 登上（火车、轮船或飞机）；让乘客登机（或上船等）",
-    "definitions": [
-      "n. 板，木板；黑板，告示牌；董事会，理事会；膳食，伙食，膳食费用；局；<非正式>舞台；<美>（冰球场周围的）界墙；<旧>（美国大学的）入学考试",
-      "v. 登上（火车、轮船或飞机）；让乘客登机（或上船等）；寄宿；（在学校）住校；将（宠物）暂时寄养在他处；用木板覆盖",
-      "n. 【名】 （英、西）博德（人名）"
-    ],
-    "start": 323.71,
     "end": 324.33,
-    "book_page": null,
-    "heard": "board",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 271,
+    "heard": "above board",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "waver",
@@ -1715,9 +1695,10 @@
   {
     "word": "dispatch",
     "ipa": "[dɪˈspætʃ]",
-    "definition": "v. 派遣；迅速处理；匆匆吃完 迅速",
+    "definition": "v. 派遣；迅速处理；匆匆吃完\nn. 迅速",
     "definitions": [
-      "v. 派遣；迅速处理；匆匆吃完 迅速"
+      "v. 派遣；迅速处理；匆匆吃完",
+      "n. 迅速"
     ],
     "start": 333.98,
     "end": 335.38,
@@ -1937,18 +1918,18 @@
     "source": "gre_book"
   },
   {
-    "word": "forward",
-    "ipa": "[ˈfɔːrwərd]",
-    "definition": "adj. 过激的；莽撞的，冒失的，无礼的",
+    "word": "foreword",
+    "ipa": "[ˈfɔːrwɜːrd]",
+    "definition": "n. 前言，序",
     "definitions": [
-      "adj. 过激的；莽撞的，冒失的，无礼的"
+      "n. 前言，序"
     ],
     "start": 377.74,
     "end": 379.08,
-    "book_page": 156,
+    "book_page": 272,
     "heard": "forward",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "linger",
@@ -1965,18 +1946,18 @@
     "source": "gre_book"
   },
   {
-    "word": "enjoying",
-    "ipa": "[ɪnˈdʒɔɪɪŋ]",
-    "definition": "v. 享受，欣赏，喜爱；过得愉快，玩得开心；享有（权利、利益、特权等）",
+    "word": "enjoin",
+    "ipa": "[ɪnˈʤɔɪn]",
+    "definition": "v. 命令，吩咐",
     "definitions": [
-      "v. 享受，欣赏，喜爱；过得愉快，玩得开心；享有（权利、利益、特权等）"
+      "v. 命令，吩咐"
     ],
     "start": 383.3,
     "end": 384.7,
-    "book_page": null,
+    "book_page": 272,
     "heard": "enjoying",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "artifice",
@@ -2065,9 +2046,10 @@
   {
     "word": "dainty",
     "ipa": "[ˈdeɪnti]",
-    "definition": "n. ［常］美味；精美的食品 娇美的；挑剔的",
+    "definition": "n. ［常做复数］美味；精美的食品\nadj. 娇美的；挑剔的",
     "definitions": [
-      "n. ［常］美味；精美的食品 娇美的；挑剔的"
+      "n. ［常做复数］美味；精美的食品",
+      "adj. 娇美的；挑剔的"
     ],
     "start": 403.21,
     "end": 403.91,

@@ -56,20 +56,18 @@
     "source": "gre_book"
   },
   {
-    "word": "hail",
+    "word": "hale",
     "ipa": "[heɪl]",
-    "definition": "v. 赞扬，欢呼；呼喊，招呼\nn. 冰雹；雹子般的一阵",
+    "definition": "adj. 健壮的，矍铄的",
     "definitions": [
-      "v. 赞扬，欢呼；呼喊，招呼；下冰雹；（大量物体）像雹子般落下（或击打）；<古>表示问候或欢呼欢迎",
-      "n. 冰雹；雹子般的一阵；招呼（某人）",
-      "n. 【名】 （阿拉伯、捷）海尔（人名）"
+      "adj. 健壮的，矍铄的"
     ],
     "start": 16.14,
     "end": 16.84,
-    "book_page": 55,
+    "book_page": 72,
     "heard": "hail",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "renounce",
@@ -102,9 +100,10 @@
   {
     "word": "ascetic",
     "ipa": "[əˈsetɪk]",
-    "definition": "adj. 禁欲的 苦行者",
+    "definition": "adj. 禁欲的\nn. 苦行者",
     "definitions": [
-      "adj. 禁欲的 苦行者"
+      "adj. 禁欲的",
+      "n. 苦行者"
     ],
     "start": 24.55,
     "end": 25.41,
@@ -158,9 +157,9 @@
   {
     "word": "tarpaulin",
     "ipa": "[tɑːˈpɔːlɪn]",
-    "definition": "n. 防水布、防水油布、防水帆布（不可数，用帆布等涂焦油、蜡、油漆或塑料制成的不透水厚重织物，旧称柏油帆布）；用这种材料制成的大幅防水罩、篷布；旧时也指防水外套、防水帽；旧称水手",
+    "definition": "n. 防水布，防水油布，柏油帆布；篷布",
     "definitions": [
-      "n. 防水布、防水油布、防水帆布（不可数，用帆布等涂焦油、蜡、油漆或塑料制成的不透水厚重织物，旧称柏油帆布）；用这种材料制成的大幅防水罩、篷布；旧时也指防水外套、防水帽；旧称水手"
+      "n. 防水布，防水油布，柏油帆布；篷布"
     ],
     "start": 35.48,
     "end": 37.2,
@@ -256,18 +255,18 @@
     "source": "dictionary"
   },
   {
-    "word": "forbear",
-    "ipa": "[fɔːrˈber]",
-    "definition": "v. 克制；忍耐",
+    "word": "forebear",
+    "ipa": "[ˈfɔːrbeə(r)]",
+    "definition": "n. 祖先",
     "definitions": [
-      "v. 克制；忍耐"
+      "n. 祖先"
     ],
     "start": 56.49,
     "end": 57.19,
-    "book_page": 228,
+    "book_page": 73,
     "heard": "forbear",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "seismologist",
@@ -313,10 +312,11 @@
   },
   {
     "word": "cast",
-    "ipa": "[kæst]",
-    "definition": "n. 演员阵容；剧团 扔；铸造",
+    "ipa": "[kɑːst]",
+    "definition": "n. 演员阵容；剧团\nv. 扔；铸造",
     "definitions": [
-      "n. 演员阵容；剧团 扔；铸造"
+      "n. 演员阵容；剧团",
+      "v. 扔；铸造"
     ],
     "start": 68.23,
     "end": 68.93,
@@ -425,18 +425,19 @@
     "source": "dictionary"
   },
   {
-    "word": "contact",
-    "ipa": "[ˈkɑːntækt]",
-    "definition": "v. 接触；互通信息",
+    "word": "contract",
+    "ipa": "[ˈkɒntrækt]（n.）/[kənˈtrækt]（v.）",
+    "definition": "v. 收缩，缩小\nn. 合同",
     "definitions": [
-      "v. 接触；互通信息"
+      "v. 收缩，缩小",
+      "n. 合同"
     ],
     "start": 90.43,
     "end": 91.73,
-    "book_page": 153,
+    "book_page": 74,
     "heard": "contract",
-    "match": "fuzzy",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "deforestation",
@@ -484,11 +485,10 @@
   {
     "word": "doom",
     "ipa": "[duːm]",
-    "definition": "n. 厄运，劫数；悲观，沮丧\nv. 注定",
+    "definition": "n. 厄运，劫数；悲观，沮丧\nv. 注定…的命运",
     "definitions": [
       "n. 厄运，劫数；悲观，沮丧",
-      "v. 注定",
-      "n. 【名】 （泰）伦（人名）"
+      "v. 注定…的命运"
     ],
     "start": 102.75,
     "end": 103.45,
@@ -500,11 +500,10 @@
   {
     "word": "strain",
     "ipa": "[streɪn]",
-    "definition": "n. 焦虑，紧张；负担，紧张\nv. 拉伤，扭伤；绷紧，用力拉",
+    "definition": "n. 焦虑，紧张；负担；（动、植物的）系，品系，品种\nv. 拉伤，扭伤；绷紧，用力拉",
     "definitions": [
-      "n. 焦虑，紧张；负担，紧张；张力，压力；损伤，扭伤；品种，类型；气质，个性特点；旋律，曲调；口吻，语气；（物理）应变，胁变；血缘；困难，负担",
-      "v. 拉伤，扭伤；绷紧，用力拉；竭力，使劲；过滤；使不堪忍受，使紧张；用力推（或拉），拉紧",
-      "n. 【名】 （英）斯特兰（人名）"
+      "n. 焦虑，紧张；负担；（动、植物的）系，品系，品种",
+      "v. 拉伤，扭伤；绷紧，用力拉"
     ],
     "start": 105.43,
     "end": 106.13,
@@ -512,6 +511,20 @@
     "heard": "strain",
     "match": "unmatched",
     "source": "dictionary"
+  },
+  {
+    "word": "taint",
+    "ipa": "[teɪnt]",
+    "definition": "v. 污损",
+    "definitions": [
+      "v. 污损"
+    ],
+    "start": 106.13,
+    "end": 107.50,
+    "book_page": 75,
+    "heard": "taint",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "metallic",
@@ -544,18 +557,18 @@
     "source": "dictionary"
   },
   {
-    "word": "grouch",
-    "ipa": "[ɡraʊtʃ]",
-    "definition": "n. 牢骚，不满；好抱怨的人",
+    "word": "grouchy",
+    "ipa": "[ˈɡraʊtʃi]",
+    "definition": "adj. 爱发牢骚的，好抱怨的",
     "definitions": [
-      "n. 牢骚，不满；好抱怨的人"
+      "adj. 爱发牢骚的，好抱怨的"
     ],
     "start": 114.31,
     "end": 117.07,
-    "book_page": 457,
+    "book_page": 75,
     "heard": "grouchy",
-    "match": "fuzzy",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "errant",
@@ -601,18 +614,18 @@
     "source": "dictionary"
   },
   {
-    "word": "rationale",
-    "ipa": "[ˌræʃəˈnæl]",
-    "definition": "n. 基本原理",
+    "word": "rational",
+    "ipa": "[ˈræʃnəl]",
+    "definition": "adj. 理性的",
     "definitions": [
-      "n. 基本原理"
+      "adj. 理性的"
     ],
     "start": 125.89,
     "end": 127.45,
-    "book_page": 94,
+    "book_page": 75,
     "heard": "rational",
-    "match": "fuzzy",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "skeleton",
@@ -733,9 +746,9 @@
   {
     "word": "touchstone",
     "ipa": "[ˈtʌtʃstəʊn]",
-    "definition": "n. 试金石；检验标准（常与 连用）",
+    "definition": "n. 试金石；检验标准",
     "definitions": [
-      "n. 试金石；检验标准（常与 连用）"
+      "n. 试金石；检验标准"
     ],
     "start": 151.58,
     "end": 152.98,
@@ -787,18 +800,18 @@
     "source": "dictionary"
   },
   {
-    "word": "heresy",
-    "ipa": "[ˈherəsi]",
-    "definition": "n. 异端邪说",
+    "word": "herstory",
+    "ipa": "[ˈhɜːrstəri]",
+    "definition": "n. （女性的）历史",
     "definitions": [
-      "n. 异端邪说"
+      "n. （女性的）历史"
     ],
     "start": 163.53,
     "end": 164.43,
-    "book_page": 136,
+    "book_page": 76,
     "heard": "herstery",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "fabled",
@@ -959,9 +972,9 @@
   {
     "word": "outdo",
     "ipa": "[ˌaʊtˈduː]",
-    "definition": "vt. 超过，胜过",
+    "definition": "v. 超过，胜过；优于",
     "definitions": [
-      "vt. 超过，胜过"
+      "v. 超过，胜过；优于"
     ],
     "start": 196.61,
     "end": 198.01,
@@ -971,18 +984,18 @@
     "source": "dictionary"
   },
   {
-    "word": "loath",
-    "ipa": "[ləʊθ]",
-    "definition": "adj. 不情愿的，勉强的（通常作表语，后接 ；亦作 ）",
+    "word": "loathe",
+    "ipa": "[ləʊð]",
+    "definition": "v. 极不喜欢",
     "definitions": [
-      "adj. 不情愿的，勉强的（通常作表语，后接 ；亦作 ）"
+      "v. 极不喜欢"
     ],
     "start": 199.65,
     "end": 200.73,
-    "book_page": 8,
+    "book_page": 77,
     "heard": "loath",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "scrutiny",
@@ -1030,11 +1043,10 @@
   {
     "word": "barring",
     "ipa": "[ˈbɑːrɪŋ]",
-    "definition": "prep. 除……以外，除非，不包括\nv. 阻拦，阻止，禁止\nn. （德）巴林",
+    "definition": "prep. 除……以外，除非，不包括\nv. 阻拦，阻止，禁止",
     "definitions": [
       "prep. 除……以外，除非，不包括",
-      "v. 阻拦，阻止，禁止",
-      "n. 人名；（德）巴林"
+      "v. 阻拦，阻止，禁止"
     ],
     "start": 210.3,
     "end": 211.82,
@@ -1060,12 +1072,11 @@
   {
     "word": "bound",
     "ipa": "[baʊnd]",
-    "definition": "adj. 必然的，肯定的；受约束的，有义务的\nv. 跳跃，蹦跳着走；形成……的边界，划界\nn. 界限，限制；蹦跳，跳跃",
+    "definition": "adj. 必然的，肯定的；受约束的，有义务的；准备前往\nv. 跳跃，蹦跳着走；形成……的边界，划界\nn. 界限，限制；蹦跳，跳跃",
     "definitions": [
-      "adj. 必然的，肯定的；受约束的，有义务的；被……所限制的，被……所束缚的；要到……去的，驶往……的；装订好的，有封面的；（与……）紧密相连的，关系密切；准备就绪的；（语法要素）黏附的",
-      "v. 跳跃，蹦跳着走；形成……的边界，划界；限制，约束；突然增长，急剧上升；（尤指圆形的物体）弹回，弹开",
-      "n. 界限，限制；蹦跳，跳跃",
-      "v. 捆绑；使团结；凝结"
+      "adj. 必然的，肯定的；受约束的，有义务的；准备前往",
+      "v. 跳跃，蹦跳着走；形成……的边界，划界",
+      "n. 界限，限制；蹦跳，跳跃"
     ],
     "start": 215.8,
     "end": 217.28,
@@ -1147,9 +1158,10 @@
   {
     "word": "strip",
     "ipa": "[strɪp]",
-    "definition": "v. 剥去 狭长的一片",
+    "definition": "v. 剥去\nn. 狭长的一片",
     "definitions": [
-      "v. 剥去 狭长的一片"
+      "v. 剥去",
+      "n. 狭长的一片"
     ],
     "start": 231.87,
     "end": 233.19,
@@ -1217,35 +1229,33 @@
     "source": "dictionary"
   },
   {
-    "word": "big",
-    "ipa": "[bɪɡ]",
-    "definition": "adj. （尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的",
+    "word": "bighearted",
+    "ipa": "[ˌbɪɡˈhɑːtɪd]",
+    "definition": "adj. 善良的，慷慨的",
     "definitions": [
-      "adj. （尺寸、数量、规模或年龄）大的；重大的，严重的；有影响力的；糟糕的；有雄心的；受欢迎的；热衷于……的；程度深的，效果好的；大方的，大度的；生僻的，晦涩的；大写的",
-      "adv. 大大，给人印象深地；夸口地；大量地",
-      "v. 招摇",
-      "n. 【名】 （土）比格（人名）"
+      "adj. 善良的，慷慨的"
     ],
     "start": 246.33,
-    "end": 247.61,
-    "book_page": null,
-    "heard": "big",
-    "match": "unmatched",
-    "source": "dictionary"
+    "end": 248.09,
+    "book_page": 78,
+    "heard": "big-hearted",
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "manifesto",
-    "ipa": "[ˌmænɪˈfestoʊ]",
-    "definition": "n. 宣言，声明",
+    "word": "manifest",
+    "ipa": "[ˈmænɪfest]",
+    "definition": "adj. 明显的\nv. 展示",
     "definitions": [
-      "n. 宣言，声明"
+      "adj. 明显的",
+      "v. 展示"
     ],
     "start": 249.09,
     "end": 250.71,
-    "book_page": 395,
+    "book_page": 78,
     "heard": "manifest",
-    "match": "fuzzy",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "divestiture",
@@ -1392,10 +1402,12 @@
   },
   {
     "word": "apropos",
-    "ipa": "[ˌæprəˈpoʊ]",
-    "definition": "adj. 适当的（地）；有关",
+    "ipa": "[ˌæprəˈpəʊ]",
+    "definition": "adj. 适当的\nadv. 适当地\nprep. 有关",
     "definitions": [
-      "adj. 适当的（地）；有关"
+      "adj. 适当的",
+      "adv. 适当地",
+      "prep. 有关"
     ],
     "start": 280.54,
     "end": 282.12,
@@ -1463,9 +1475,10 @@
   {
     "word": "eccentric",
     "ipa": "[ɪkˈsentrɪk]",
-    "definition": "adj. 古怪的，反常的；（指圆形）没有共同圆心的 古怪的人",
+    "definition": "adj. 古怪的，反常的；（指圆形）没有共同圆心的\nn. 古怪的人",
     "definitions": [
-      "adj. 古怪的，反常的；（指圆形）没有共同圆心的 古怪的人"
+      "adj. 古怪的，反常的；（指圆形）没有共同圆心的",
+      "n. 古怪的人"
     ],
     "start": 295.36,
     "end": 296.26,
@@ -1588,10 +1601,11 @@
   },
   {
     "word": "fast",
-    "ipa": "[fæst]",
-    "definition": "n. 禁食，斋戒 很快地；紧紧地；深沉地",
+    "ipa": "[fɑːst]",
+    "definition": "n. 禁食，斋戒\nadv. 很快地；紧紧地；深沉地",
     "definitions": [
-      "n. 禁食，斋戒 很快地；紧紧地；深沉地"
+      "n. 禁食，斋戒",
+      "adv. 很快地；紧紧地；深沉地"
     ],
     "start": 321.34,
     "end": 322.58,
@@ -1756,7 +1770,7 @@
   },
   {
     "word": "sanctimonious",
-    "ipa": "[ˌsæktɪˈmoʊniəs]",
+    "ipa": "[ˌsæŋktɪˈməʊniəs]",
     "definition": "adj. 假装虔诚的",
     "definitions": [
       "adj. 假装虔诚的"
@@ -1854,11 +1868,11 @@
   },
   {
     "word": "bristle",
-    "ipa": "[ˈbrɪs(ə)l]",
-    "definition": "n. 刚毛（尤指猪鬃等动物硬毛）；刷子毛，刷毛\nv. （毛发等）竖起，直立；（人因受冒犯而）发怒，动怒",
+    "ipa": "[ˈbrɪsl]",
+    "definition": "n. 刚毛（尤指猪鬃等动物硬毛）；刷子毛，刷毛\nv. （毛发等）竖起，直立；大为恼怒，被激怒",
     "definitions": [
-      "n. 刚毛（尤指猪鬃等动物硬毛）；刷子毛，刷毛；（剃后长出的）粗硬短须，胡子茬",
-      "v. （毛发等）竖起，直立；（人因受冒犯而）发怒，动怒；戒备；充满，布满"
+      "n. 刚毛（尤指猪鬃等动物硬毛）；刷子毛，刷毛",
+      "v. （毛发等）竖起，直立；大为恼怒，被激怒"
     ],
     "start": 373.47,
     "end": 375.63,
@@ -2111,10 +2125,11 @@
   },
   {
     "word": "prospect",
-    "ipa": "[ˈprɑːspekt]",
-    "definition": "v. 勘探 期望；前景",
+    "ipa": "[ˈprɒspekt]（n.）/[prəˈspekt]（v.）",
+    "definition": "v. 勘探\nn. 期望；前景",
     "definitions": [
-      "v. 勘探 期望；前景"
+      "v. 勘探",
+      "n. 期望；前景"
     ],
     "start": 424.66,
     "end": 425.94,

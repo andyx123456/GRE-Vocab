@@ -239,10 +239,11 @@
   },
   {
     "word": "sage",
-    "ipa": "[seɪʤ]",
-    "definition": "adj. 智慧的 智者",
+    "ipa": "[seɪdʒ]",
+    "definition": "adj. 智慧的\nn. 智者",
     "definitions": [
-      "adj. 智慧的 智者"
+      "adj. 智慧的",
+      "n. 智者"
     ],
     "start": 52.66,
     "end": 54.1,
@@ -326,9 +327,10 @@
   {
     "word": "disdain",
     "ipa": "[dɪsˈdeɪn]",
-    "definition": "v. 轻视，鄙视 轻视，鄙视",
+    "definition": "v. 轻视，鄙视\nn. 轻视，鄙视",
     "definitions": [
-      "v. 轻视，鄙视 轻视，鄙视"
+      "v. 轻视，鄙视",
+      "n. 轻视，鄙视"
     ],
     "start": 69.31,
     "end": 70.63,
@@ -620,9 +622,10 @@
   {
     "word": "awe",
     "ipa": "[ɔː]",
-    "definition": "n. 敬畏",
+    "definition": "n. 敬畏\nv. 敬畏",
     "definitions": [
-      "n. 敬畏"
+      "n. 敬畏",
+      "v. 敬畏"
     ],
     "start": 128.02,
     "end": 128.92,
@@ -773,11 +776,11 @@
   },
   {
     "word": "presage",
-    "ipa": "[ˈpresɪdʒ]",
-    "definition": "v. <正式>预示，预兆（尤指不祥之事）；预言，预感\nn. <正式>预示，预兆；预感，预知",
+    "ipa": "[ˈpresɪdʒ]（n.）/[prɪˈseɪdʒ]（v.）",
+    "definition": "n. 预示，预兆；预感，预知\nv. 预示，预兆（尤指不祥之事）；预言，预感",
     "definitions": [
-      "v. <正式>预示，预兆（尤指不祥之事）；预言，预感",
-      "n. <正式>预示，预兆；预感，预知"
+      "n. 预示，预兆；预感，预知",
+      "v. 预示，预兆（尤指不祥之事）；预言，预感"
     ],
     "start": 158.54,
     "end": 159.94,
@@ -899,19 +902,18 @@
     "source": "gre_book"
   },
   {
-    "word": "pier",
+    "word": "peer",
     "ipa": "[pɪə(r)]",
-    "definition": "n. （尤指海边伸入海中，供散步和游乐的）突堤，长堤；（用于供船上下客或装卸货物的）凸式码头；<英>旅客桥，上下机走廊；用以承受垂直压力的固体支架；桥墩，支柱；窗间墙",
+    "definition": "n. 同等之人，同辈",
     "definitions": [
-      "n. （尤指海边伸入海中，供散步和游乐的）突堤，长堤；（用于供船上下客或装卸货物的）凸式码头；<英>旅客桥，上下机走廊；用以承受垂直压力的固体支架；桥墩，支柱；窗间墙",
-      "n. 【名】 （英、德）皮尔，（西）彼尔，（意）皮耶尔（人名）"
+      "n. 同等之人，同辈"
     ],
     "start": 184.87,
     "end": 186.11,
-    "book_page": null,
+    "book_page": 113,
     "heard": "pier",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "occlude",
@@ -930,9 +932,10 @@
   {
     "word": "camouflage",
     "ipa": "[ˈkæməflɑːʒ]",
-    "definition": "v. 掩饰，伪装 伪装",
+    "definition": "v. 掩饰，伪装\nn. 伪装",
     "definitions": [
-      "v. 掩饰，伪装 伪装"
+      "v. 掩饰，伪装",
+      "n. 伪装"
     ],
     "start": 190.42,
     "end": 191.62,
@@ -1000,9 +1003,10 @@
   {
     "word": "blunt",
     "ipa": "[blʌnt]",
-    "definition": "adj. 钝的；直率的 使迟钝",
+    "definition": "adj. 钝的；直率的\nv. 使迟钝",
     "definitions": [
-      "adj. 钝的；直率的 使迟钝"
+      "adj. 钝的；直率的",
+      "v. 使迟钝"
     ],
     "start": 204.74,
     "end": 206.14,
@@ -1068,19 +1072,18 @@
     "source": "gre_book"
   },
   {
-    "word": "dowse",
-    "ipa": "[daʊz]",
-    "definition": "v. 把……浸入水（或其他液体）中；熄灭（灯、火）；急降（桅帆）（等于）；用探测杆探寻（地下水或矿藏）；用魔叉探杆探寻",
+    "word": "douse",
+    "ipa": "[daʊs]",
+    "definition": "v. 把…浸入水中；熄灭",
     "definitions": [
-      "v. 把……浸入水（或其他液体）中；熄灭（灯、火）；急降（桅帆）（等于）；用探测杆探寻（地下水或矿藏）；用魔叉探杆探寻",
-      "n. （美）道丝（人名）"
+      "v. 把…浸入水中；熄灭"
     ],
     "start": 218.75,
     "end": 220.11,
-    "book_page": null,
+    "book_page": 114,
     "heard": "dowse",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "abash",
@@ -1113,9 +1116,10 @@
   {
     "word": "limp",
     "ipa": "[lɪmp]",
-    "definition": "v. 跛行 软弱的，无力的；柔软的",
+    "definition": "v. 跛行\nadj. 软弱的，无力的；柔软的",
     "definitions": [
-      "v. 跛行 软弱的，无力的；柔软的"
+      "v. 跛行",
+      "adj. 软弱的，无力的；柔软的"
     ],
     "start": 227.06,
     "end": 227.96,
@@ -1127,9 +1131,10 @@
   {
     "word": "idle",
     "ipa": "[ˈaɪdl]",
-    "definition": "adj. （指人）无所事事的；无效的 懒散，无所事事",
+    "definition": "adj. （指人）无所事事的；无效的\nv. 懒散，无所事事",
     "definitions": [
-      "adj. （指人）无所事事的；无效的 懒散，无所事事"
+      "adj. （指人）无所事事的；无效的",
+      "v. 懒散，无所事事"
     ],
     "start": 229.24,
     "end": 230.4,
@@ -1435,10 +1440,11 @@
   },
   {
     "word": "worship",
-    "ipa": "[ˈwɜːrʃɪp]",
-    "definition": "n. 崇拜，敬仰 崇拜，敬仰",
+    "ipa": "[ˈwɜːʃɪp]",
+    "definition": "n. 崇拜，敬仰\nv. 崇拜，敬仰",
     "definitions": [
-      "n. 崇拜，敬仰 崇拜，敬仰"
+      "n. 崇拜，敬仰",
+      "v. 崇拜，敬仰"
     ],
     "start": 291.41,
     "end": 292.61,
@@ -1505,10 +1511,11 @@
   },
   {
     "word": "lumber",
-    "ipa": "[ˈlʌmbər]",
-    "definition": "v. 跌跌撞撞地走，笨拙地走 杂物；木材",
+    "ipa": "[ˈlʌmbə(r)]",
+    "definition": "v. 跌跌撞撞地走，笨拙地走\nn. 杂物；木材",
     "definitions": [
-      "v. 跌跌撞撞地走，笨拙地走 杂物；木材"
+      "v. 跌跌撞撞地走，笨拙地走",
+      "n. 杂物；木材"
     ],
     "start": 305.37,
     "end": 306.29,
@@ -1672,19 +1679,18 @@
     "source": "gre_book"
   },
   {
-    "word": "lichen",
+    "word": "liken",
     "ipa": "[ˈlaɪkən]",
-    "definition": "n. （生物学）地衣；（医学）苔藓（一类以密集丘疹或硬性增厚皮损为特征的皮肤疾病）\nv. （较少见）使长满地衣",
+    "definition": "v. 把…比作",
     "definitions": [
-      "n. （生物学）地衣；（医学）苔藓（一类以密集丘疹或硬性增厚皮损为特征的皮肤疾病）",
-      "vt. （较少见）使长满地衣"
+      "v. 把…比作"
     ],
     "start": 338.47,
     "end": 339.85,
-    "book_page": null,
+    "book_page": 117,
     "heard": "lichen",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "discern",
@@ -1771,18 +1777,18 @@
     "source": "gre_book"
   },
   {
-    "word": "wrote",
+    "word": "rote",
     "ipa": "[rəʊt]",
-    "definition": "v. 写",
+    "definition": "n. 死记硬背",
     "definitions": [
-      "v. 写"
+      "n. 死记硬背"
     ],
     "start": 356.46,
     "end": 358.96,
-    "book_page": null,
+    "book_page": 117,
     "heard": "wrote",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "fertile",
@@ -1856,10 +1862,11 @@
   },
   {
     "word": "diffuse",
-    "ipa": "[dɪˈfjuːs]",
-    "definition": "v. 散布，（光等）漫射 漫射的，散漫的",
+    "ipa": "[dɪˈfjuːz]（v.）/[dɪˈfjuːs]（adj.）",
+    "definition": "v. 散布，（光等）漫射\nadj. 漫射的，散漫的",
     "definitions": [
-      "v. 散布，（光等）漫射 漫射的，散漫的"
+      "v. 散布，（光等）漫射",
+      "adj. 漫射的，散漫的"
     ],
     "start": 373.74,
     "end": 374.7,
@@ -1941,9 +1948,10 @@
   {
     "word": "blemish",
     "ipa": "[ˈblemɪʃ]",
-    "definition": "v. 损害；玷污 瑕疵，缺点",
+    "definition": "v. 损害；玷污\nn. 瑕疵，缺点",
     "definitions": [
-      "v. 损害；玷污 瑕疵，缺点"
+      "v. 损害；玷污",
+      "n. 瑕疵，缺点"
     ],
     "start": 390.34,
     "end": 391.78,
@@ -2011,9 +2019,10 @@
   {
     "word": "fathom",
     "ipa": "[ˈfæðəm]",
-    "definition": "n. 英寻 彻底了解，弄清真相",
+    "definition": "n. 英寻\nv. 彻底了解，弄清真相",
     "definitions": [
-      "n. 英寻 彻底了解，弄清真相"
+      "n. 英寻",
+      "v. 彻底了解，弄清真相"
     ],
     "start": 404.1,
     "end": 405.4,

@@ -71,19 +71,18 @@
     "source": "gre_book"
   },
   {
-    "word": "corral",
-    "ipa": "[kəˈrɑːl]",
-    "definition": "n. （北美农牧场的）畜栏；（历史）（营地中防御用的）环形车阵\nv. 把（马、牛等）赶进或关进畜栏；把（一群人）集中关在一起",
+    "word": "chorale",
+    "ipa": "[kəˈræl]",
+    "definition": "n. 赞美诗；合唱队",
     "definitions": [
-      "n. （北美农牧场的）畜栏；（历史）（营地中防御用的）环形车阵；（姓氏或人名）科拉尔",
-      "v. 把（马、牛等）赶进或关进畜栏；把（一群人）集中关在一起；将（车辆）围作车阵；捉住；收集（选票等）"
+      "n. 赞美诗；合唱队"
     ],
     "start": 20.02,
     "end": 21.4,
-    "book_page": null,
+    "book_page": 244,
     "heard": "corral",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "willful",
@@ -116,9 +115,10 @@
   {
     "word": "repute",
     "ipa": "[rɪˈpjuːt]",
-    "definition": "v. 认为，以为 名声，名誉",
+    "definition": "v. 认为，以为\nn. 名声，名誉",
     "definitions": [
-      "v. 认为，以为 名声，名誉"
+      "v. 认为，以为",
+      "n. 名声，名誉"
     ],
     "start": 28.42,
     "end": 29.44,
@@ -128,18 +128,18 @@
     "source": "gre_book"
   },
   {
-    "word": "intangle",
-    "ipa": "/intangle/",
-    "definition": "v. <古>使纠缠，缠住",
+    "word": "entangle",
+    "ipa": "[ɪnˈtæɡl]",
+    "definition": "v. 使卷入",
     "definitions": [
-      "v. <古>使纠缠，缠住"
+      "v. 使卷入"
     ],
     "start": 31.14,
     "end": 32.2,
-    "book_page": null,
+    "book_page": 244,
     "heard": "intangle",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "contrite",
@@ -158,9 +158,10 @@
   {
     "word": "soporific",
     "ipa": "[ˌsɑːpəˈrɪfɪk]",
-    "definition": "adj. 催眠的 安眠药",
+    "definition": "adj. 催眠的\nn. 安眠药",
     "definitions": [
-      "adj. 催眠的 安眠药"
+      "adj. 催眠的",
+      "n. 安眠药"
     ],
     "start": 36.64,
     "end": 38.04,
@@ -312,9 +313,10 @@
   {
     "word": "warp",
     "ipa": "[wɔːrp]",
-    "definition": "v. 弯曲，变歪 弯曲，歪斜",
+    "definition": "v. 弯曲，变歪\nn. 弯曲，歪斜",
     "definitions": [
-      "v. 弯曲，变歪 弯曲，歪斜"
+      "v. 弯曲，变歪",
+      "n. 弯曲，歪斜"
     ],
     "start": 65.52,
     "end": 68.04,
@@ -340,9 +342,10 @@
   {
     "word": "glaze",
     "ipa": "[ɡleɪz]",
-    "definition": "v. 上釉于；使光滑 釉",
+    "definition": "v. 上釉于；使光滑\nn. 釉",
     "definitions": [
-      "v. 上釉于；使光滑 釉"
+      "v. 上釉于；使光滑",
+      "n. 釉"
     ],
     "start": 71.93,
     "end": 73.49,
@@ -480,9 +483,10 @@
   {
     "word": "herald",
     "ipa": "[ˈherəld]",
-    "definition": "v. 宣布…的消息；预示…的来临 传令官；信使；先驱",
+    "definition": "v. 宣布…的消息；预示…的来临\nn. 传令官；信使；先驱",
     "definitions": [
-      "v. 宣布…的消息；预示…的来临 传令官；信使；先驱"
+      "v. 宣布…的消息；预示…的来临",
+      "n. 传令官；信使；先驱"
     ],
     "start": 98.11,
     "end": 100.79,
@@ -620,9 +624,10 @@
   {
     "word": "flip",
     "ipa": "[flɪp]",
-    "definition": "v. 用指轻弹；蹦蹦跳跳 无礼的；冒失的；轻率的",
+    "definition": "v. 用指轻弹；蹦蹦跳跳\nadj. 无礼的；冒失的；轻率的",
     "definitions": [
-      "v. 用指轻弹；蹦蹦跳跳 无礼的；冒失的；轻率的"
+      "v. 用指轻弹；蹦蹦跳跳",
+      "adj. 无礼的；冒失的；轻率的"
     ],
     "start": 127.1,
     "end": 128.44,
@@ -704,9 +709,10 @@
   {
     "word": "recluse",
     "ipa": "[ˈrekluːs]",
-    "definition": "n. 隐士 隐居的",
+    "definition": "n. 隐士\nadj. 隐居的",
     "definitions": [
-      "n. 隐士 隐居的"
+      "n. 隐士",
+      "adj. 隐居的"
     ],
     "start": 142.6,
     "end": 144.74,
@@ -758,19 +764,18 @@
     "source": "gre_book"
   },
   {
-    "word": "virgin",
-    "ipa": "[ˈvɜːdʒɪn]",
-    "definition": "n. 处女，处男；无经验的人，新手\nadj. 原始状态的，未开发的；处女的，处男的",
+    "word": "burgeon",
+    "ipa": "[ˈbɜːrʤən]",
+    "definition": "v. 迅速成长，发展",
     "definitions": [
-      "n. 处女，处男；无经验的人，新手；（昆）孤雌生殖的雌虫；圣母马利亚；室女宫",
-      "adj. 原始状态的，未开发的；处女的，处男的；（橄榄油）初榨的；（尤指白色物品）纯洁的，未玷污的；（黏土）未烧制的；（羊毛）未纺过的；（金属）从矿石直接提取的，原生的"
+      "v. 迅速成长，发展"
     ],
     "start": 154.47,
     "end": 155.75,
-    "book_page": null,
+    "book_page": 247,
     "heard": "virgin",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "equilibrium",
@@ -871,18 +876,18 @@
     "source": "gre_book"
   },
   {
-    "word": "pean",
-    "ipa": "[piːn]",
-    "definition": "n. 赞颂歌；凯旋歌（等于 ）；正式颂词",
+    "word": "paean",
+    "ipa": "[ˈpiːən]",
+    "definition": "n. 赞美歌，颂歌",
     "definitions": [
-      "n. 赞颂歌；凯旋歌（等于 ）；正式颂词"
+      "n. 赞美歌，颂歌"
     ],
     "start": 176.56,
     "end": 178.08,
-    "book_page": null,
+    "book_page": 248,
     "heard": "pean",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "foible",
@@ -943,9 +948,10 @@
   {
     "word": "breach",
     "ipa": "[briːtʃ]",
-    "definition": "v. 打破，突破；违背 裂缝，缺口",
+    "definition": "v. 打破，突破；违背\nn. 裂缝，缺口",
     "definitions": [
-      "v. 打破，突破；违背 裂缝，缺口"
+      "v. 打破，突破；违背",
+      "n. 裂缝，缺口"
     ],
     "start": 190.03,
     "end": 191.43,
@@ -969,19 +975,18 @@
     "source": "gre_book"
   },
   {
-    "word": "course",
-    "ipa": "[kɔːs]",
-    "definition": "n. 课程；过程\nv. 奔流，快速流动；（感情、思想）涌动",
+    "word": "coarse",
+    "ipa": "[kɔːrs]",
+    "definition": "adj. 粗糙的；低劣的；粗俗的",
     "definitions": [
-      "n. 课程；过程；道路，航线；进程，进展；方针，总方向；行动方式，处理方法；疗程；一道菜；比赛场地；（砖、石等墙的）层；（常）追踪狩猎（尤指野兔）；横帆；一组同音弦；追踪狩猎（尤指野兔）",
-      "v. 奔流，快速流动；（感情、思想）涌动；（用猎犬）追踪（兔子）"
+      "adj. 粗糙的；低劣的；粗俗的"
     ],
     "start": 195.5,
     "end": 196.82,
-    "book_page": null,
+    "book_page": 248,
     "heard": "course",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "ragged",
@@ -1098,9 +1103,10 @@
   {
     "word": "offhand",
     "ipa": "[ˌɔːfˈhænd]",
-    "definition": "adj. 无准备的，即席的；随便的 无准备地，即席地；随便地",
+    "definition": "adj. 无准备的，即席的；随便的\nadv. 无准备地，即席地；随便地",
     "definitions": [
-      "adj. 无准备的，即席的；随便的 无准备地，即席地；随便地"
+      "adj. 无准备的，即席的；随便的",
+      "adv. 无准备地，即席地；随便地"
     ],
     "start": 220.93,
     "end": 222.33,
@@ -1138,25 +1144,26 @@
     "source": "gre_book"
   },
   {
-    "word": "amit",
-    "ipa": "/amit/",
-    "definition": "n. 阿米特（男子名）；阿密特（台湾歌手张惠妹的卑南族名字，亦为其音乐分身）",
+    "word": "omit",
+    "ipa": "[əˈmɪt]",
+    "definition": "v. 忽略，遗漏；不做，未能做",
     "definitions": [
-      "n. 阿米特（男子名）；阿密特（台湾歌手张惠妹的卑南族名字，亦为其音乐分身）"
+      "v. 忽略，遗漏；不做，未能做"
     ],
     "start": 228.04,
     "end": 230.7,
-    "book_page": null,
+    "book_page": 249,
     "heard": "amit",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "drone",
     "ipa": "[droʊn]",
-    "definition": "v. 嗡嗡地响；单调地说 单调的低音",
+    "definition": "v. 嗡嗡地响；单调地说\nn. 单调的低音",
     "definitions": [
-      "v. 嗡嗡地响；单调地说 单调的低音"
+      "v. 嗡嗡地响；单调地说",
+      "n. 单调的低音"
     ],
     "start": 230.7,
     "end": 232.4,
@@ -1182,9 +1189,10 @@
   {
     "word": "preservative",
     "ipa": "[prɪˈzɜːrvətɪv]",
-    "definition": "adj. 保护的；防腐的 防腐剂",
+    "definition": "adj. 保护的；防腐的\nn. 防腐剂",
     "definitions": [
-      "adj. 保护的；防腐的 防腐剂"
+      "adj. 保护的；防腐的",
+      "n. 防腐剂"
     ],
     "start": 237.22,
     "end": 238.82,
@@ -1250,18 +1258,18 @@
     "source": "gre_book"
   },
   {
-    "word": "pre",
-    "ipa": "[ˈpriː]",
-    "definition": "prep. 在……之前",
+    "word": "prerequisite",
+    "ipa": "[ˌpriːˈrekwəzɪt]",
+    "definition": "n. 先决条件",
     "definitions": [
-      "prep. 在……之前"
+      "n. 先决条件"
     ],
     "start": 249.74,
     "end": 252.02,
-    "book_page": null,
+    "book_page": 250,
     "heard": "pre",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "demolish",
@@ -1292,18 +1300,18 @@
     "source": "gre_book"
   },
   {
-    "word": "cokes",
-    "ipa": "[kəʊks]",
-    "definition": "n. [冶] 焦炭；焦煤；炭焦；薄锡层镀锡薄钢板",
+    "word": "coax",
+    "ipa": "[koʊks]",
+    "definition": "v. 哄诱，巧言诱哄",
     "definitions": [
-      "n. [冶] 焦炭；焦煤；炭焦；薄锡层镀锡薄钢板"
+      "v. 哄诱，巧言诱哄"
     ],
     "start": 259.75,
     "end": 261.19,
-    "book_page": null,
+    "book_page": 250,
     "heard": "cokes",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "obliterate",
@@ -1358,20 +1366,6 @@
     "end": 272.38,
     "book_page": 250,
     "heard": "nonchalant",
-    "match": "exact",
-    "source": "gre_book"
-  },
-  {
-    "word": "concentration",
-    "ipa": "[ˌkɑːnsnˈtreɪʃn]",
-    "definition": "n. 专心，专注；集中；浓度",
-    "definitions": [
-      "n. 专心，专注；集中；浓度"
-    ],
-    "start": 272.38,
-    "end": 272.58,
-    "book_page": 224,
-    "heard": "concentration",
     "match": "exact",
     "source": "gre_book"
   },
@@ -1617,18 +1611,16 @@
   {
     "word": "surmise",
     "ipa": "[səˈmaɪz]",
-    "definition": "v. <正式>根据不完整的证据或线索猜测，推测\nn. <正式>基于不完整证据的推测，猜度",
+    "definition": "n. 推测，猜测",
     "definitions": [
-      "vt. <正式>根据不完整的证据或线索猜测，推测",
-      "vi. <正式>猜测；认为",
-      "n. <正式>基于不完整证据的推测，猜度"
+      "n. 推测，猜测"
     ],
     "start": 320.66,
     "end": 322.06,
     "book_page": 251,
     "heard": "sermize",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "temporal",
@@ -1869,19 +1861,18 @@
     "source": "gre_book"
   },
   {
-    "word": "non",
-    "ipa": "[nɒn]",
-    "definition": "adv. 非，不",
+    "word": "nonentity",
+    "ipa": "[nɑːˈnentəti]",
+    "definition": "n. 无足轻重的人或事",
     "definitions": [
-      "adv. 非，不",
-      "n. （美、泰）嫩（人名）"
+      "n. 无足轻重的人或事"
     ],
     "start": 369.91,
     "end": 371.31,
-    "book_page": null,
+    "book_page": 252,
     "heard": "non",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "arboreal",
@@ -1912,51 +1903,49 @@
     "source": "gre_book"
   },
   {
-    "word": "bomb",
-    "ipa": "[bɒm]",
-    "definition": "n. 炸弹，爆炸装置；失败的东西\nv. 轰炸，炸毁；疾行，快速前进",
+    "word": "balm",
+    "ipa": "[bɑːm]",
+    "definition": "n. 香油，药膏；镇痛剂，安慰物",
     "definitions": [
-      "n. 炸弹，爆炸装置；失败的东西；长传，长传球；大笔钱；高压容器，喷雾器；<非正式>很好的人，很好的事；（形状和威力）像炸弹样的物体；<非正式>掺大麻的香烟",
-      "v. 轰炸，炸毁；疾行，快速前进；<非正式>失败；重击（球）"
+      "n. 香油，药膏；镇痛剂，安慰物"
     ],
     "start": 377.71,
     "end": 380.43,
-    "book_page": null,
+    "book_page": 252,
     "heard": "bomb",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "plum",
+    "word": "plumb",
     "ipa": "[plʌm]",
-    "definition": "n. 李子，李树；紫红色，李子色\nadj. 称心的，值得拥有的；紫红色的，李子色的\nv. <美，非正式>正好地，准确地",
+    "definition": "n. 测深锤，铅锤\nadj. 垂直的\nadv. 精确地\nv. 深入了解；测量深度",
     "definitions": [
-      "n. 李子，李树；紫红色，李子色；<非正式>令人垂涎之物",
-      "adj. 称心的，值得拥有的；紫红色的，李子色的",
-      "adv. <美，非正式>正好地，准确地",
-      "n. 【名】 （德、西）普卢姆，（英）普拉姆（人名）"
+      "n. 测深锤，铅锤",
+      "adj. 垂直的",
+      "adv. 精确地",
+      "v. 深入了解；测量深度"
     ],
     "start": 381.68,
     "end": 382.96,
-    "book_page": null,
+    "book_page": 252,
     "heard": "plum",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "farse",
-    "ipa": "/farse/",
-    "definition": "n. （插入拉丁语礼拜仪式的）方言注\nv. （在拉丁礼拜仪式中）插入方言注",
+    "word": "farce",
+    "ipa": "[fɑːrs]",
+    "definition": "n. 闹剧，滑稽剧；可笑的行为，荒唐的事情",
     "definitions": [
-      "n. （插入拉丁语礼拜仪式的）方言注",
-      "vt. （在拉丁礼拜仪式中）插入方言注"
+      "n. 闹剧，滑稽剧；可笑的行为，荒唐的事情"
     ],
     "start": 384.24,
     "end": 385.54,
-    "book_page": null,
+    "book_page": 253,
     "heard": "farse",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "disjunctive",
@@ -2015,26 +2004,26 @@
     "source": "gre_book"
   },
   {
-    "word": "sale",
-    "ipa": "[seɪl]",
-    "definition": "n. 出售，销售；销售额；销售活动，（尤指）拍卖；降价出售，大减价；销售部门；销售业务，销售工作",
+    "word": "assail",
+    "ipa": "[əˈseɪl]",
+    "definition": "v. 质问；攻击",
     "definitions": [
-      "n. 出售，销售；销售额；销售活动，（尤指）拍卖；降价出售，大减价；销售部门；销售业务，销售工作",
-      "n. 【名】 （意、塞、瑞典）萨莱，（英、萨摩）塞尔，（法）萨尔（人名）"
+      "v. 质问；攻击"
     ],
     "start": 398.93,
     "end": 399.43,
-    "book_page": null,
+    "book_page": 253,
     "heard": "sale",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "caustic",
     "ipa": "[ˈkɔːstɪk]",
-    "definition": "adj. 腐蚀性的；刻薄的 腐蚀剂",
+    "definition": "adj. 腐蚀性的；刻薄的\nn. 腐蚀剂",
     "definitions": [
-      "adj. 腐蚀性的；刻薄的 腐蚀剂"
+      "adj. 腐蚀性的；刻薄的",
+      "n. 腐蚀剂"
     ],
     "start": 400.81,
     "end": 402.09,
@@ -2074,9 +2063,10 @@
   {
     "word": "paraphrase",
     "ipa": "[ˈpærəfreɪz]",
-    "definition": "n. 释义，解释，改写 释义，解释，改写",
+    "definition": "n. 释义，解释，改写\nv. 释义，解释，改写",
     "definitions": [
-      "n. 释义，解释，改写 释义，解释，改写"
+      "n. 释义，解释，改写",
+      "v. 释义，解释，改写"
     ],
     "start": 408.29,
     "end": 410.39,

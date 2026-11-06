@@ -58,9 +58,10 @@
   {
     "word": "intellectual",
     "ipa": "[ˌɪntəˈlektʃuəl]",
-    "definition": "adj. 智力的；理性的 知识分子",
+    "definition": "adj. 智力的；理性的\nn. 知识分子",
     "definitions": [
-      "adj. 智力的；理性的 知识分子"
+      "adj. 智力的；理性的",
+      "n. 知识分子"
     ],
     "start": 16.96,
     "end": 17.86,
@@ -716,9 +717,10 @@
   {
     "word": "disinterest",
     "ipa": "[dɪsˈɪntrəst]",
-    "definition": "v. 使失去兴趣 无兴趣",
+    "definition": "v. 使失去兴趣\nn. 无兴趣",
     "definitions": [
-      "v. 使失去兴趣 无兴趣"
+      "v. 使失去兴趣",
+      "n. 无兴趣"
     ],
     "start": 151.26,
     "end": 152.66,
@@ -758,9 +760,10 @@
   {
     "word": "tie",
     "ipa": "[taɪ]",
-    "definition": "n. 平局，不分胜负 系，拴，绑",
+    "definition": "n. 平局，不分胜负\nv. 系，拴，绑",
     "definitions": [
-      "n. 平局，不分胜负 系，拴，绑"
+      "n. 平局，不分胜负",
+      "v. 系，拴，绑"
     ],
     "start": 160.0,
     "end": 160.7,
@@ -1290,9 +1293,10 @@
   {
     "word": "plot",
     "ipa": "[plɑːt]",
-    "definition": "n. 情节；阴谋 密谋，策划",
+    "definition": "n. 情节；阴谋\nv. 密谋，策划",
     "definitions": [
-      "n. 情节；阴谋 密谋，策划"
+      "n. 情节；阴谋",
+      "v. 密谋，策划"
     ],
     "start": 266.97,
     "end": 268.27,
@@ -1318,9 +1322,10 @@
   {
     "word": "narrow",
     "ipa": "[ˈnæroʊ]",
-    "definition": "adj. 狭窄的；狭隘的 变窄",
+    "definition": "adj. 狭窄的；狭隘的\nv. 变窄",
     "definitions": [
-      "adj. 狭窄的；狭隘的 变窄"
+      "adj. 狭窄的；狭隘的",
+      "v. 变窄"
     ],
     "start": 272.76,
     "end": 274.02,
@@ -1514,9 +1519,10 @@
   {
     "word": "fret",
     "ipa": "[fret]",
-    "definition": "v. （使）烦躁，焦虑 烦躁，焦虑",
+    "definition": "v. （使）烦躁，焦虑\nn. 烦躁，焦虑",
     "definitions": [
-      "v. （使）烦躁，焦虑 烦躁，焦虑"
+      "v. （使）烦躁，焦虑",
+      "n. 烦躁，焦虑"
     ],
     "start": 312.82,
     "end": 313.86,
@@ -1640,9 +1646,10 @@
   {
     "word": "spiral",
     "ipa": "[ˈspaɪrəl]",
-    "definition": "adj. 螺旋形的；上升的 螺旋式上升或下降",
+    "definition": "adj. 螺旋形的；上升的\nv. 螺旋式上升或下降",
     "definitions": [
-      "adj. 螺旋形的；上升的 螺旋式上升或下降"
+      "adj. 螺旋形的；上升的",
+      "v. 螺旋式上升或下降"
     ],
     "start": 337.62,
     "end": 339.02,
@@ -2018,9 +2025,10 @@
   {
     "word": "expedient",
     "ipa": "[ɪkˈspiːdiənt]",
-    "definition": "n. 权宜之计，临时手段 （指行动）有用的",
+    "definition": "n. 权宜之计，临时手段\nadj. （指行动）有用的",
     "definitions": [
-      "n. 权宜之计，临时手段 （指行动）有用的"
+      "n. 权宜之计，临时手段",
+      "adj. （指行动）有用的"
     ],
     "start": 413.51,
     "end": 414.91,
@@ -2102,9 +2110,10 @@
   {
     "word": "positive",
     "ipa": "[ˈpɑːzətɪv]",
-    "definition": "adj. 积极的；明确的；有信心的；无条件的 正片；积极的要素或特点",
+    "definition": "adj. 积极的；明确的；有信心的；无条件的\nn. 正片；积极的要素或特点",
     "definitions": [
-      "adj. 积极的；明确的；有信心的；无条件的 正片；积极的要素或特点"
+      "adj. 积极的；明确的；有信心的；无条件的",
+      "n. 正片；积极的要素或特点"
     ],
     "start": 430.64,
     "end": 431.58,
@@ -2130,9 +2139,10 @@
   {
     "word": "core",
     "ipa": "[kɔːr]",
-    "definition": "n. 果心；核心 去掉某物的中心部分",
+    "definition": "n. 果心；核心\nv. 去掉某物的中心部分",
     "definitions": [
-      "n. 果心；核心 去掉某物的中心部分"
+      "n. 果心；核心",
+      "v. 去掉某物的中心部分"
     ],
     "start": 436.13,
     "end": 436.83,

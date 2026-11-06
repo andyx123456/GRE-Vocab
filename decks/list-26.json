@@ -154,18 +154,18 @@
     "source": "gre_book"
   },
   {
-    "word": "loudish",
-    "ipa": "[ˈlaʊdɪʃ]",
-    "definition": "adj. 声音稍高的",
+    "word": "loutish",
+    "ipa": "[ˈlaʊtɪʃ]",
+    "definition": "adj. 粗鲁的",
     "definitions": [
-      "adj. 声音稍高的"
+      "adj. 粗鲁的"
     ],
     "start": 35.84,
     "end": 37.38,
-    "book_page": null,
+    "book_page": 282,
     "heard": "loudish",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "sophism",
@@ -310,9 +310,10 @@
   {
     "word": "badger",
     "ipa": "[ˈbæʤər]",
-    "definition": "n. 獾 烦扰，纠缠不休",
+    "definition": "n. 獾\nv. 烦扰，纠缠不休",
     "definitions": [
-      "n. 獾 烦扰，纠缠不休"
+      "n. 獾",
+      "v. 烦扰，纠缠不休"
     ],
     "start": 65.18,
     "end": 67.02,
@@ -378,19 +379,18 @@
     "source": "gre_book"
   },
   {
-    "word": "embryo",
-    "ipa": "[ˈembriəʊ]",
-    "definition": "n. 胚，胚胎；萌芽期，初期\nadj. 胚胎的；初期的",
+    "word": "imbroglio",
+    "ipa": "[ɪmˈbroʊlioʊ]",
+    "definition": "n. 纠纷，纠葛，纠缠不清",
     "definitions": [
-      "n. 胚，胚胎；萌芽期，初期；萌芽状态的事物，发展初期的事物",
-      "adj. 胚胎的；初期的"
+      "n. 纠纷，纠葛，纠缠不清"
     ],
     "start": 79.9,
     "end": 81.3,
-    "book_page": null,
+    "book_page": 283,
     "heard": "embryo",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "providential",
@@ -435,19 +435,18 @@
     "source": "gre_book"
   },
   {
-    "word": "wrapped",
+    "word": "rapt",
     "ipa": "[ræpt]",
-    "definition": "adj. <澳，非正式>极高兴的，极兴奋的；有包装的\nv. 包，裹，包装；用（手臂、指头或腿）围紧，用……绕住",
+    "definition": "adj. 入迷的，全神贯注的",
     "definitions": [
-      "adj. <澳，非正式>极高兴的，极兴奋的；有包装的",
-      "v. 包，裹，包装；用（手臂、指头或腿）围紧，用……绕住；绕……走"
+      "adj. 入迷的，全神贯注的"
     ],
     "start": 89.67,
     "end": 90.37,
-    "book_page": null,
+    "book_page": 283,
     "heard": "wrapped",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "mingle",
@@ -494,17 +493,16 @@
   {
     "word": "embarrassed",
     "ipa": "[ɪmˈbærəst]",
-    "definition": "adj. 尴尬的，窘迫的；拮据的，陷入经济困境的\nv. （使）尴尬，窘迫；使难堪，使为难",
+    "definition": "v. 使局促不安，使窘迫",
     "definitions": [
-      "adj. 尴尬的，窘迫的；拮据的，陷入经济困境的",
-      "v. （使）尴尬，窘迫；使难堪，使为难"
+      "v. 使局促不安，使窘迫"
     ],
     "start": 101.76,
     "end": 103.02,
     "book_page": null,
     "heard": "embarrassed",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "industrious",
@@ -633,38 +631,32 @@
     "source": "gre_book"
   },
   {
-    "word": "in",
-    "ipa": "[ɪn]",
-    "definition": "prep. 在……内，在……里（面），在（某地）；进……里；在……期间；在……以后；在……之内（表示将来时间）；在……岁时；当……时；穿着，戴着，覆盖着……；带……颜色的；在……状态中；在……方面，关于；用……（语言、媒介、方式），以……方式，按照（表示方式）；以……调；从事……，参加；在（活动）过程中；在（书、电影、图片等）中；包含在……中；占……，每……中有……，在……之中（用于较大和较小数字之间）；以……的数量；具有……特性；（引出具某种品质的人的名字）",
+    "word": "inveigh",
+    "ipa": "[ɪnˈveɪ]",
+    "definition": "v. 痛骂，猛烈抨击",
     "definitions": [
-      "prep. 在……内，在……里（面），在（某地）；进……里；在……期间；在……以后；在……之内（表示将来时间）；在……岁时；当……时；穿着，戴着，覆盖着……；带……颜色的；在……状态中；在……方面，关于；用……（语言、媒介、方式），以……方式，按照（表示方式）；以……调；从事……，参加；在（活动）过程中；在（书、电影、图片等）中；包含在……中；占……，每……中有……，在……之中（用于较大和较小数字之间）；以……的数量；具有……特性；（引出具某种品质的人的名字）",
-      "adv. 进入，朝里，向中间；在里头，在屋里，在家（或在工作处）；到达，到站，在车站；当选；涨潮；收到；递交，送到；填写；着色；击球；（球）落在界内",
-      "adj. 在里面的，内部的；时髦的，流行的；（用球）界内的",
-      "n. 执政者；门路，关系，接近……的机会"
+      "v. 痛骂，猛烈抨击"
     ],
     "start": 129.01,
     "end": 129.71,
-    "book_page": null,
+    "book_page": 284,
     "heard": "in",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "live",
-    "ipa": "[lɪv; laɪv]",
-    "definition": "v. 生存，活着；生活在\nadj. 活的，有生命的；含乳酸菌的",
+    "word": "lithe",
+    "ipa": "[laɪð]",
+    "definition": "adj. 柔软的，易弯曲的；自然优雅的",
     "definitions": [
-      "v. 生存，活着；生活在；居住；生长，栖息；（以某种方式）生活，过日子；为……而生活；以……为生；继续存在，铭记；过精彩的生活，享受生活；<非正式>（物）搁置在（某处）；恪守（规则、信念、理想等）；<古>（船）逃过劫难，未沉没",
-      "adj. 活的，有生命的；含乳酸菌的；现场直播的，实况转播的；现场演出的；（电线或设备等）通电的，带电的；仍可爆炸的，随时可用的；（火、煤炭或火柴）燃烧的，可燃的；（火柴）未用过的；当前所关心的，时下重大的；（球类运动中的球）处于比赛状态的；（电子链接）有效的；（机器中轮或轴）转动的",
-      "adv. 现场直播地，实况转播地",
-      "n. 【名】 （挪、芬、印、俄、美、荷）利夫（人名）"
+      "adj. 柔软的，易弯曲的；自然优雅的"
     ],
     "start": 131.35,
     "end": 132.73,
-    "book_page": null,
+    "book_page": 284,
     "heard": "live",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "amiable",
@@ -765,18 +757,18 @@
     "source": "gre_book"
   },
   {
-    "word": "antique",
-    "ipa": "[ænˈtiːk]",
-    "definition": "adj. 古时的，古老的 古物，古董",
+    "word": "antic",
+    "ipa": "[ˈæntɪk]",
+    "definition": "adj. 古怪的",
     "definitions": [
-      "adj. 古时的，古老的 古物，古董"
+      "adj. 古怪的"
     ],
     "start": 152.47,
     "end": 153.17,
-    "book_page": null,
+    "book_page": 285,
     "heard": "antique",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "crescendo",
@@ -809,9 +801,10 @@
   {
     "word": "pillage",
     "ipa": "[ˈpɪlɪʤ]",
-    "definition": "n. 抢劫，掠夺 抢夺",
+    "definition": "n. 抢劫，掠夺\nv. 抢夺",
     "definitions": [
-      "n. 抢劫，掠夺 抢夺"
+      "n. 抢劫，掠夺",
+      "v. 抢夺"
     ],
     "start": 160.58,
     "end": 162.02,
@@ -837,17 +830,16 @@
   {
     "word": "escort",
     "ipa": "[ˈeskɔːt]",
-    "definition": "n. 护送者，护卫队，护航舰；（通常指异性的）社交聚会陪伴者，伴游\nv. 押送；护送，护卫",
+    "definition": "v. 护送",
     "definitions": [
-      "n. 护送者，护卫队，护航舰；（通常指异性的）社交聚会陪伴者，伴游；陪护，护送",
-      "v. 押送；护送，护卫"
+      "v. 护送"
     ],
     "start": 164.38,
     "end": 166.54,
     "book_page": 285,
     "heard": "escort",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "coddle",
@@ -878,34 +870,33 @@
     "source": "gre_book"
   },
   {
-    "word": "dam",
+    "word": "damn",
     "ipa": "[dæm]",
-    "definition": "n. 堤，坝；母兽，母畜\nv. （在河上）筑坝；阻止，抑制",
+    "definition": "v. （严厉地）批评，谴责\nadj. 该死的",
     "definitions": [
-      "n. 堤，坝；母兽，母畜；<南非>水库；（牙科手术中的）橡皮障",
-      "v. （在河上）筑坝；阻止，抑制",
-      "n. 【名】 （美）丹（人名）"
+      "v. （严厉地）批评，谴责",
+      "adj. 该死的"
     ],
     "start": 173.18,
     "end": 174.58,
-    "book_page": null,
+    "book_page": 285,
     "heard": "dam",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "parche",
-    "ipa": "/parche/",
-    "definition": "n. 鲷鱼（美国制造的核潜艇）",
+    "word": "parch",
+    "ipa": "[pɑːrtʃ]",
+    "definition": "v. 烘烤；烤焦",
     "definitions": [
-      "n. 鲷鱼（美国制造的核潜艇）"
+      "v. 烘烤；烤焦"
     ],
     "start": 174.58,
     "end": 175.28,
-    "book_page": null,
+    "book_page": 285,
     "heard": "parche",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "goldbrick",
@@ -1090,21 +1081,18 @@
     "source": "gre_book"
   },
   {
-    "word": "level",
-    "ipa": "[ˈlev(ə)l]",
-    "definition": "n. 数量，程度；标准，水平\nadj. 平坦的，水平的；相同价值的，相同地位的\nv. 使平整；推倒，夷平",
+    "word": "levelheaded",
+    "ipa": "[ˌlevlˈhedɪd]",
+    "definition": "adj. 头脑冷静的，清醒的",
     "definitions": [
-      "n. 数量，程度；标准，水平；层次，级别；看待（或应对、理解）事物的方式；水平高度，相对高度；楼层；平地；水平仪",
-      "adj. 平坦的，水平的；相同价值的，相同地位的；比分相同的；平静的，冷静的",
-      "v. 使平整；推倒，夷平；（使）比分相同；（尤指用枪）瞄准；针对……（进行批评等）；稳定下来，达到平衡；坦诚相见；作水准测量",
-      "n. 【名】 （法）勒韦尔（人名）"
+      "adj. 头脑冷静的，清醒的"
     ],
     "start": 212.46,
     "end": 213.86,
-    "book_page": null,
+    "book_page": 286,
     "heard": "level",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "coruscate",
@@ -1177,19 +1165,18 @@
     "source": "gre_book"
   },
   {
-    "word": "mints",
-    "ipa": "[mɪnts]",
-    "definition": "n. 薄荷糖；薄荷属植物\nv. 铸造；创造（均为 的第三人称单数形式）",
+    "word": "mince",
+    "ipa": "[mɪns]",
+    "definition": "v. 切碎；装腔作势地小步走",
     "definitions": [
-      "n. 薄荷糖；薄荷属植物；铸币厂（均为 的复数）",
-      "v. 铸造；创造（均为 的第三人称单数形式）"
+      "v. 切碎；装腔作势地小步走"
     ],
     "start": 228.27,
     "end": 230.59,
-    "book_page": null,
+    "book_page": 286,
     "heard": "mints",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "sift",
@@ -1264,9 +1251,10 @@
   {
     "word": "grit",
     "ipa": "[ɡrɪt]",
-    "definition": "n. 沙粒；决心，勇气 下定决心，咬紧牙关",
+    "definition": "n. 沙粒；决心，勇气\nv. 下定决心，咬紧牙关",
     "definitions": [
-      "n. 沙粒；决心，勇气 下定决心，咬紧牙关"
+      "n. 沙粒；决心，勇气",
+      "v. 下定决心，咬紧牙关"
     ],
     "start": 244.27,
     "end": 244.97,
@@ -1318,18 +1306,19 @@
     "source": "gre_book"
   },
   {
-    "word": "udder",
-    "ipa": "[ˈʌdə(r)]",
-    "definition": "n. （牛、羊等的）乳房",
+    "word": "utter",
+    "ipa": "[ˈʌtər]",
+    "definition": "adj. 完全的\nv. 发出（声音），说（话）",
     "definitions": [
-      "n. （牛、羊等的）乳房"
+      "adj. 完全的",
+      "v. 发出（声音），说（话）"
     ],
     "start": 255.1,
     "end": 257.5,
-    "book_page": null,
+    "book_page": 287,
     "heard": "udder",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "quail",
@@ -1404,9 +1393,10 @@
   {
     "word": "rupture",
     "ipa": "[ˈrʌptʃər]",
-    "definition": "n. 破裂，断裂",
+    "definition": "n. 破裂，断裂\nv. 破裂，断裂",
     "definitions": [
-      "n. 破裂，断裂"
+      "n. 破裂，断裂",
+      "v. 破裂，断裂"
     ],
     "start": 272.26,
     "end": 273.66,
@@ -1458,19 +1448,19 @@
     "source": "gre_book"
   },
   {
-    "word": "break",
+    "word": "brake",
     "ipa": "[breɪk]",
-    "definition": "v. 打破，折断；（使）破裂，撕开\nn. 间歇，小憩；课间休息",
+    "definition": "n. 刹车；阻碍\nv. 刹车；阻止",
     "definitions": [
-      "v. 打破，折断；（使）破裂，撕开；弄破，使流血；（使）骨折；破纪录；打断，中断；终止；断绝（联系）；损坏；违反，违背；使……放弃习惯；休息；稍停，暂留；突破，挣脱；（被）摧毁，削弱；使心碎；透露，传开；告诉（坏消息）；驯化，驯服；得分（低于或高于规定总分）；超过；（云）散开；开始，（风暴）发作；拍岸，迸溅；（男孩嗓音）变粗；（因激动）变调；破解，破译；兑开（纸币）；减缓；（网球中）破发球；（球）转向，曲线飞行；（股价）暴跌；猛冲，开始快跑；发生，发展；（热度）降低，退烧",
-      "n. 间歇，小憩；课间休息；停顿，暂停；（电台或电视节目）插播广告的间隙；短假；机会，机遇；结束，断绝；逃跑（尤指越狱）；裂缝，缺口；骨折；（因情感作用）嗓音突变；<文>黎明，破晓；天气突变；接发球得分；接连击中；（球的）弧线飞行；（尤指球员或球队）进攻；有帮助的事物；芽，蓓蕾；双轮驱马大车；<史>敞篷四轮马车（同 ）"
+      "n. 刹车；阻碍",
+      "v. 刹车；阻止"
     ],
     "start": 283.52,
     "end": 284.22,
-    "book_page": null,
+    "book_page": 287,
     "heard": "break",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "slake",
@@ -1501,6 +1491,20 @@
     "source": "gre_book"
   },
   {
+    "word": "bonhomie",
+    "ipa": "[ˌbɑːnəˈmiː]",
+    "definition": "n. 好性情，和蔼",
+    "definitions": [
+      "n. 好性情，和蔼"
+    ],
+    "start": 291.2,
+    "end": 293.0,
+    "book_page": 288,
+    "heard": "bonhomie",
+    "match": "manual",
+    "source": "manual"
+  },
+  {
     "word": "accost",
     "ipa": "[əˈkɔːst]",
     "definition": "v. 搭话",
@@ -1517,9 +1521,10 @@
   {
     "word": "lurch",
     "ipa": "[lɜːrtʃ]",
-    "definition": "n. 突然的倾斜 蹒跚而行",
+    "definition": "n. 突然的倾斜\nv. 蹒跚而行",
     "definitions": [
-      "n. 突然的倾斜 蹒跚而行"
+      "n. 突然的倾斜",
+      "v. 蹒跚而行"
     ],
     "start": 296.37,
     "end": 297.73,
@@ -1529,19 +1534,18 @@
     "source": "gre_book"
   },
   {
-    "word": "phase",
+    "word": "faze",
     "ipa": "[feɪz]",
-    "definition": "n. （发展或变化的）阶段，时期；做出某种行为的短时期\nv. 分阶段进行；（物理）使相位同步，使定相",
+    "definition": "v. 打扰，扰乱",
     "definitions": [
-      "n. （发展或变化的）阶段，时期；做出某种行为的短时期；（动物生活周期或年周期的）阶段，期；（月亮的）位相，盈亏；同步，协调；（化）相；（动）（由遗传或季节引起的）动物颜色变化（期）；（物理）相位，相角；（线圈的）匝，（多相电机或电路的）连接；（语言学）（系统语法用语）相（指链接动词与后续动词的关系）；相结构（含有链接动词和后续动词的结构）",
-      "v. 分阶段进行；（物理）使相位同步，使定相"
+      "v. 打扰，扰乱"
     ],
     "start": 299.68,
     "end": 300.38,
-    "book_page": null,
+    "book_page": 288,
     "heard": "phase",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "croon",
@@ -1644,9 +1648,10 @@
   {
     "word": "slack",
     "ipa": "[slæk]",
-    "definition": "adj. 懈怠的，不活跃的；（绳）松弛的 懈怠，偷懒",
+    "definition": "adj. 懈怠的，不活跃的；（绳）松弛的\nv. 懈怠，偷懒",
     "definitions": [
-      "adj. 懈怠的，不活跃的；（绳）松弛的 懈怠，偷懒"
+      "adj. 懈怠的，不活跃的；（绳）松弛的",
+      "v. 懈怠，偷懒"
     ],
     "start": 319.7,
     "end": 320.4,
@@ -1684,34 +1689,32 @@
     "source": "gre_book"
   },
   {
-    "word": "cage",
-    "ipa": "[keɪdʒ]",
-    "definition": "n. 笼子；监狱\nv. 把……关进笼中，把……囚禁起来",
+    "word": "cadge",
+    "ipa": "[kæʤ]",
+    "definition": "v. 乞讨；占便宜",
     "definitions": [
-      "n. 笼子；监狱；电梯梯厢；（击球练习的）挡球网；足球（或曲棍球）球门",
-      "v. 把……关进笼中，把……囚禁起来",
-      "n. 【名】 （英）凯奇，（法）卡热（人名）"
+      "v. 乞讨；占便宜"
     ],
     "start": 329.49,
     "end": 330.83,
-    "book_page": null,
+    "book_page": 288,
     "heard": "cage",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "inscrutable",
-    "ipa": "[ɪnˈskruːtəbl]",
-    "definition": "adj. 高深莫测的，神秘的",
+    "word": "scrutable",
+    "ipa": "[ˈskruːtəb(ə)l]",
+    "definition": "adj. 可以了解的，可解读的",
     "definitions": [
-      "adj. 高深莫测的，神秘的"
+      "adj. 可以了解的，可解读的"
     ],
     "start": 332.24,
     "end": 333.66,
-    "book_page": 295,
+    "book_page": 288,
     "heard": "screwtable",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "conspire",
@@ -1756,20 +1759,18 @@
     "source": "gre_book"
   },
   {
-    "word": "profit",
-    "ipa": "[ˈprɒfɪt]",
-    "definition": "n. 利润，盈利；<正式> 利益，好处\nv. 获益，得益（于）；赢利，获利",
+    "word": "prophet",
+    "ipa": "[ˈprɑːfit]",
+    "definition": "n. 先知，预言者",
     "definitions": [
-      "n. 利润，盈利；<正式> 利益，好处",
-      "v. 获益，得益（于）；赢利，获利",
-      "n. 【名】 （法）普罗菲（人名）"
+      "n. 先知，预言者"
     ],
     "start": 342.95,
     "end": 344.23,
-    "book_page": null,
+    "book_page": 289,
     "heard": "profit",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "fringe",
@@ -1786,18 +1787,18 @@
     "source": "gre_book"
   },
   {
-    "word": "harang",
-    "ipa": "/harang/",
-    "definition": "n. 人名；（法）阿朗；（挪）哈朗",
+    "word": "harangue",
+    "ipa": "[həˈræŋ]",
+    "definition": "n. 长篇攻击性演说",
     "definitions": [
-      "n. 人名；（法）阿朗；（挪）哈朗"
+      "n. 长篇攻击性演说"
     ],
     "start": 346.88,
     "end": 348.88,
-    "book_page": null,
+    "book_page": 289,
     "heard": "harang",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "testy",
@@ -1998,9 +1999,10 @@
   {
     "word": "anesthetic",
     "ipa": "[ˌænəsˈθetɪk]",
-    "definition": "adj. 麻醉的；麻木的 麻醉剂",
+    "definition": "adj. 麻醉的；麻木的\nn. 麻醉剂",
     "definitions": [
-      "adj. 麻醉的；麻木的 麻醉剂"
+      "adj. 麻醉的；麻木的",
+      "n. 麻醉剂"
     ],
     "start": 387.27,
     "end": 388.93,
@@ -2010,18 +2012,19 @@
     "source": "gre_book"
   },
   {
-    "word": "peak",
+    "word": "pique",
     "ipa": "[piːk]",
-    "definition": "v. 变得憔悴，消瘦",
+    "definition": "n. （因自尊心受伤害而导致的）不悦，愤怒\nv. 激怒",
     "definitions": [
-      "v. 变得憔悴，消瘦"
+      "n. （因自尊心受伤害而导致的）不悦，愤怒",
+      "v. 激怒"
     ],
     "start": 391.32,
     "end": 392.46,
-    "book_page": 162,
+    "book_page": 290,
     "heard": "peak",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "barefaced",
@@ -2038,20 +2041,18 @@
     "source": "gre_book"
   },
   {
-    "word": "need",
+    "word": "knead",
     "ipa": "[niːd]",
-    "definition": "v. 需要；（表示应该或不得不做）有必要\nn. 需要，必须；特别需要，迫切要求",
+    "definition": "v. 揉成，捏制",
     "definitions": [
-      "v. 需要；（表示应该或不得不做）有必要；<古>需要",
-      "n. 需要，必须； 特别需要，迫切要求；需要的事物，欲望；（食物、钱或生活来源的）短缺，缺乏",
-      "n. 必要（用于劝告或建议）"
+      "v. 揉成，捏制"
     ],
     "start": 396.26,
     "end": 397.66,
-    "book_page": null,
+    "book_page": 290,
     "heard": "need",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "inundate",

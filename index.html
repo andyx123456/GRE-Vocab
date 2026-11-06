@@ -6,7 +6,7 @@
     <title>GRE 词汇抽查</title>
     <base href="/GRE-Vocab/" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" />
-    <link rel="stylesheet" href="styles.css?v=gh" />
+    <link rel="stylesheet" href="styles.css?v=gh4" />
   </head>
   <body class="home">
     <main class="home-wrap">
@@ -15,7 +15,7 @@
           <p class="kicker">GRE Vocabulary</p>
           <h1 id="page-title">选择词表</h1>
         </div>
-        <p class="meta" id="page-meta">Word List 1–46 已收录</p>
+        <p class="meta" id="page-meta">尚未修改 22 表 · 已修改 24 表</p>
       </header>
       <div class="home-toolbar" id="home-actions">
         <button type="button" class="btn btn-with-icon" id="show-all">
@@ -25,6 +25,12 @@
           </svg>
           查看全部单词
         </button>
+        <a class="btn btn-with-icon" id="quiz-all" href="quiz.html?all=1">
+          <svg class="btn-icon" viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4.5 7h15M4.5 12h15M4.5 17h10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+          </svg>
+          抽查全部 · 100 词
+        </a>
       </div>
       <div class="all-chrome hidden" id="all-chrome">
         <div class="home-toolbar">
@@ -42,7 +48,7 @@
       <div class="word-table hidden" id="all-words"></div>
       <div class="list-grid" id="lists"></div>
     </main>
-    <script src="base.js"></script>
-    <script src="home.js?v=gh"></script>
+    <script src="base.js?v=sync33"></script>
+    <script src="home.js?v=sync32"></script>
   </body>
 </html>

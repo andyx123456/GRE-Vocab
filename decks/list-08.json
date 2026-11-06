@@ -197,10 +197,11 @@
   },
   {
     "word": "court",
-    "ipa": "[kɔːrt]",
-    "definition": "n. 法庭；宫廷 献殷勤；追求",
+    "ipa": "[kɔːt]",
+    "definition": "n. 法庭；宫廷\nv. 献殷勤；追求",
     "definitions": [
-      "n. 法庭；宫廷 献殷勤；追求"
+      "n. 法庭；宫廷",
+      "v. 献殷勤；追求"
     ],
     "start": 45.34,
     "end": 45.86,
@@ -422,9 +423,10 @@
   {
     "word": "epic",
     "ipa": "[ˈepɪk]",
-    "definition": "n. 叙事诗，史诗 史诗的，叙事诗的；英雄的；大规模的",
+    "definition": "n. 叙事诗，史诗\nadj. 史诗的，叙事诗的；英雄的；大规模的",
     "definitions": [
-      "n. 叙事诗，史诗 史诗的，叙事诗的；英雄的；大规模的"
+      "n. 叙事诗，史诗",
+      "adj. 史诗的，叙事诗的；英雄的；大规模的"
     ],
     "start": 90.27,
     "end": 91.53,
@@ -561,10 +563,11 @@
   },
   {
     "word": "bolster",
-    "ipa": "[ˈboʊlstər]",
-    "definition": "n. 枕垫 支持，鼓励",
+    "ipa": "[ˈbəʊlstə(r)]",
+    "definition": "n. 枕垫\nv. 支持，鼓励",
     "definitions": [
-      "n. 枕垫 支持，鼓励"
+      "n. 枕垫",
+      "v. 支持，鼓励"
     ],
     "start": 118.55,
     "end": 119.21,
@@ -574,26 +577,26 @@
     "source": "gre_book"
   },
   {
-    "word": "appropriate",
-    "ipa": "[əˈproʊpriət]",
-    "definition": "v. 拨款；盗用\nadj. 恰当的",
+    "word": "opprobrious",
+    "ipa": "[əˈprəʊbriəs]",
+    "definition": "adj. 辱骂的，侮辱的",
     "definitions": [
-      "v. 拨款；盗用",
-      "adj. 恰当的"
+      "adj. 辱骂的，侮辱的"
     ],
     "start": 121.25,
     "end": 122.37,
-    "book_page": 159,
+    "book_page": 88,
     "heard": "approprious",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "consummate",
-    "ipa": "[ˈkɑːnsəmət]",
-    "definition": "adj. 完全的，完善的 完成",
+    "ipa": "[kənˈsʌmət]（adj.）/[ˈkɒnsəmeɪt]（v.）",
+    "definition": "adj. 完全的，完善的\nv. 完成",
     "definitions": [
-      "adj. 完全的，完善的 完成"
+      "adj. 完全的，完善的",
+      "v. 完成"
     ],
     "start": 124.35,
     "end": 125.15,
@@ -631,20 +634,18 @@
     "source": "gre_book"
   },
   {
-    "word": "under",
-    "ipa": "[ˈʌndə(r)]",
-    "definition": "prep. 在（或到、通过）……下面；在……表面下，由……覆盖着；少于，小于，低于；由……控制（或管理、经营）； 按照，依据（法律、协议或制度）；在……过程中；在……的影响下；用，以（尤指假名）；属于，列入，在……项之下；在……情况下，在……条件下；在（治疗）中；（计算机）在（某个系统）下；栽有；（尤指看法不正确时）以为……",
+    "word": "underrate",
+    "ipa": "[ˌʌndəˈreɪt]",
+    "definition": "v. 低估，轻视",
     "definitions": [
-      "prep. 在（或到、通过）……下面；在……表面下，由……覆盖着；少于，小于，低于；由……控制（或管理、经营）； 按照，依据（法律、协议或制度）；在……过程中；在……的影响下；用，以（尤指假名）；属于，列入，在……项之下；在……情况下，在……条件下；在（治疗）中；（计算机）在（某个系统）下；栽有；（尤指看法不正确时）以为……",
-      "adv. 在下面；在下面穿过；在水下；少于，小于，较年轻；在昏迷中，陷入昏迷状态",
-      "adj. 较低的，下面的"
+      "v. 低估，轻视"
     ],
     "start": 131.55,
     "end": 132.95,
-    "book_page": null,
+    "book_page": 87,
     "heard": "under",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "turmoil",
@@ -705,9 +706,10 @@
   {
     "word": "countenance",
     "ipa": "[ˈkaʊntənəns]",
-    "definition": "v. 支持，赞成 表情",
+    "definition": "v. 支持，赞成\nn. 表情",
     "definitions": [
-      "v. 支持，赞成 表情"
+      "v. 支持，赞成",
+      "n. 表情"
     ],
     "start": 147.4,
     "end": 148.08,
@@ -718,10 +720,11 @@
   },
   {
     "word": "detour",
-    "ipa": "[ˈdiːtʊr]",
-    "definition": "v. 绕道，迂回 弯路；绕行之路",
+    "ipa": "[ˈdiːtʊə(r)]",
+    "definition": "v. 绕道，迂回\nn. 弯路；绕行之路",
     "definitions": [
-      "v. 绕道，迂回 弯路；绕行之路"
+      "v. 绕道，迂回",
+      "n. 弯路；绕行之路"
     ],
     "start": 150.1,
     "end": 150.8,
@@ -971,9 +974,10 @@
   {
     "word": "flaw",
     "ipa": "[flɔː]",
-    "definition": "n. 瑕疵 生裂缝；变得有缺陷",
+    "definition": "n. 瑕疵\nv. 生裂缝；变得有缺陷",
     "definitions": [
-      "n. 瑕疵 生裂缝；变得有缺陷"
+      "n. 瑕疵",
+      "v. 生裂缝；变得有缺陷"
     ],
     "start": 200.68,
     "end": 201.56,
@@ -997,19 +1001,18 @@
     "source": "gre_book"
   },
   {
-    "word": "team",
+    "word": "teem",
     "ipa": "[tiːm]",
-    "definition": "n. （游戏或体育运动的）队，小组；工作队，工作组\nv. 协作，合作；使（颜色、布料、衣服）相配",
+    "definition": "v. 充满；到处都是；（雨、水等）暴降、倾注",
     "definitions": [
-      "n. （游戏或体育运动的）队，小组；工作队，工作组；（套在一起拉车的）一组牲口（尤指马）",
-      "v. 协作，合作；使（颜色、布料、衣服）相配；（套在一起拉车的）一组牲口（尤指马）"
+      "v. 充满；到处都是；（雨、水等）暴降、倾注"
     ],
     "start": 206.66,
     "end": 207.08,
-    "book_page": null,
+    "book_page": 89,
     "heard": "team",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "distort",
@@ -1082,18 +1085,18 @@
     "source": "gre_book"
   },
   {
-    "word": "feudal",
-    "ipa": "[ˈfjuːd(ə)l]",
-    "definition": "adj. 封建（制度）的；过时（或老式）得可笑的；争吵的",
+    "word": "futile",
+    "ipa": "[ˈfjuːtaɪl]",
+    "definition": "adj. 无效的，无用的；（人）没出息的；琐碎的",
     "definitions": [
-      "adj. 封建（制度）的；过时（或老式）得可笑的；争吵的"
+      "adj. 无效的，无用的；（人）没出息的；琐碎的"
     ],
     "start": 223.76,
     "end": 224.18,
-    "book_page": null,
+    "book_page": 90,
     "heard": "feudal",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "unimpeachable",
@@ -1195,10 +1198,11 @@
   },
   {
     "word": "blur",
-    "ipa": "[blɜːr]",
-    "definition": "n. 模糊不清的事物 使…模糊",
+    "ipa": "[blɜː(r)]",
+    "definition": "n. 模糊不清的事物\nv. 使…模糊",
     "definitions": [
-      "n. 模糊不清的事物 使…模糊"
+      "n. 模糊不清的事物",
+      "v. 使…模糊"
     ],
     "start": 246.2,
     "end": 246.74,
@@ -1209,10 +1213,11 @@
   },
   {
     "word": "nurture",
-    "ipa": "[ˈnɜːrtʃər]",
-    "definition": "v. 养育，教养 养育；营养物",
+    "ipa": "[ˈnɜːtʃə(r)]",
+    "definition": "v. 养育，教养\nn. 养育；营养物",
     "definitions": [
-      "v. 养育，教养 养育；营养物"
+      "v. 养育，教养",
+      "n. 养育；营养物"
     ],
     "start": 248.5,
     "end": 249.38,
@@ -1476,9 +1481,10 @@
   {
     "word": "triumph",
     "ipa": "[ˈtraɪʌmf]",
-    "definition": "n. 成功，胜利（的喜悦或满足） 成功，获胜",
+    "definition": "n. 成功，胜利（的喜悦或满足）\nv. 成功，获胜",
     "definitions": [
-      "n. 成功，胜利（的喜悦或满足） 成功，获胜"
+      "n. 成功，胜利（的喜悦或满足）",
+      "v. 成功，获胜"
     ],
     "start": 302.27,
     "end": 303.13,
@@ -1489,10 +1495,10 @@
   },
   {
     "word": "deliberate",
-    "ipa": "[dɪˈlɪbərət]",
+    "ipa": "[dɪˈlɪbərət]（adj.）/[dɪˈlɪbəreɪt]（v.）",
     "definition": "adj. 故意的，蓄意的；从容的，小心翼翼的\nv. 仔细考虑，认真商讨",
     "definitions": [
-      "adj. 故意的，蓄意的；从容的，小心翼翼的；深思熟虑的",
+      "adj. 故意的，蓄意的；从容的，小心翼翼的",
       "v. 仔细考虑，认真商讨"
     ],
     "start": 304.29,
@@ -1672,10 +1678,11 @@
   },
   {
     "word": "cosmopolitan",
-    "ipa": "[ˌkɑːzməˈpɑːlɪtən]",
-    "definition": "adj. 世界性的，全球的 世界主义者，四海为家的人",
+    "ipa": "[ˌkɒzməˈpɒlɪtən]",
+    "definition": "adj. 世界性的，全球的\nn. 世界主义者，四海为家的人",
     "definitions": [
-      "adj. 世界性的，全球的 世界主义者，四海为家的人"
+      "adj. 世界性的，全球的",
+      "n. 世界主义者，四海为家的人"
     ],
     "start": 343.75,
     "end": 344.71,
@@ -1896,25 +1903,25 @@
     "source": "gre_book"
   },
   {
-    "word": "preside",
-    "ipa": "[prɪˈzaɪd]",
-    "definition": "v. 担任主席；负责；指挥",
+    "word": "precede",
+    "ipa": "[prɪˈsiːd]",
+    "definition": "v. 在…之前，早于",
     "definitions": [
-      "v. 担任主席；负责；指挥"
+      "v. 在…之前，早于"
     ],
     "start": 388.13,
     "end": 390.11,
-    "book_page": 283,
+    "book_page": 94,
     "heard": "preside",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "document",
-    "ipa": "[ˈdɒkjumənt]",
+    "ipa": "[ˈdɒkjumənt]（n.）/[ˈdɒkjument]（v.）",
     "definition": "n. 文件，公文，文献；证件，单据\nv. 记录，记载（详情）",
     "definitions": [
-      "n. 文件，公文，文献；证件，单据；（计算机）文件，文档",
+      "n. 文件，公文，文献；证件，单据",
       "v. 记录，记载（详情）"
     ],
     "start": 391.63,
@@ -2122,10 +2129,11 @@
   },
   {
     "word": "economy",
-    "ipa": "[ɪˈkɑːnəmi]",
-    "definition": "n. 节约；经济 经济的",
+    "ipa": "[ɪˈkɒnəmi]",
+    "definition": "n. 节约；经济\nadj. 经济的",
     "definitions": [
-      "n. 节约；经济 经济的"
+      "n. 节约；经济",
+      "adj. 经济的"
     ],
     "start": 437.01,
     "end": 438.41,
@@ -2150,10 +2158,10 @@
   },
   {
     "word": "egoism",
-    "ipa": "[ˈeɡoʊɪzəm]",
-    "definition": "n. 利己主义",
+    "ipa": "[ˈiːɡəʊɪzəm]",
+    "definition": "n. 利己主义；自我中心",
     "definitions": [
-      "n. 利己主义"
+      "n. 利己主义；自我中心"
     ],
     "start": 441.87,
     "end": 442.85,

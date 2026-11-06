@@ -14,18 +14,18 @@
     "source": "gre_book"
   },
   {
-    "word": "sight",
+    "word": "cite",
     "ipa": "[saɪt]",
-    "definition": "n. 景象；视力；视野 看到",
+    "definition": "v. 引用，引述",
     "definitions": [
-      "n. 景象；视力；视野 看到"
+      "v. 引用，引述"
     ],
     "start": 7.97,
     "end": 8.67,
     "book_page": 351,
     "heard": "sight",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "infant",
@@ -58,9 +58,10 @@
   {
     "word": "empty",
     "ipa": "[ˈempti]",
-    "definition": "adj. 空的，缺乏的 （使）变空，把…弄空",
+    "definition": "adj. 空的，缺乏的\nv. （使）变空",
     "definitions": [
-      "adj. 空的，缺乏的 （使）变空，把…弄空"
+      "adj. 空的，缺乏的",
+      "v. （使）变空"
     ],
     "start": 15.93,
     "end": 16.63,
@@ -140,20 +141,6 @@
     "source": "gre_book"
   },
   {
-    "word": "improvement",
-    "ipa": "[ɪmˈpruːvmənt]",
-    "definition": "n. 改善；改进之处",
-    "definitions": [
-      "n. 改善；改进之处"
-    ],
-    "start": 30.54,
-    "end": 30.8,
-    "book_page": null,
-    "heard": "improvement",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
     "word": "infrared",
     "ipa": "[ˌɪnfrəˈred]",
     "definition": "adj. 红外线的",
@@ -184,9 +171,10 @@
   {
     "word": "retrospect",
     "ipa": "[ˈretrəspekt]",
-    "definition": "n. 回顾 回顾；回想",
+    "definition": "n. 回顾\nv. 回顾；回想",
     "definitions": [
-      "n. 回顾 回顾；回想"
+      "n. 回顾",
+      "v. 回顾；回想"
     ],
     "start": 38.42,
     "end": 39.12,
@@ -212,9 +200,10 @@
   {
     "word": "veil",
     "ipa": "[veɪl]",
-    "definition": "n. 面纱；遮蔽物 以面纱掩盖",
+    "definition": "n. 面纱；遮蔽物\nv. 以面纱掩盖",
     "definitions": [
-      "n. 面纱；遮蔽物 以面纱掩盖"
+      "n. 面纱；遮蔽物",
+      "v. 以面纱掩盖"
     ],
     "start": 41.84,
     "end": 44.44,
@@ -450,9 +439,10 @@
   {
     "word": "reverse",
     "ipa": "[rɪˈvɜːrs]",
-    "definition": "n. 反面；相反的事物 倒车；反转；彻底转变",
+    "definition": "n. 反面；相反的事物\nv. 倒车；反转；彻底转变",
     "definitions": [
-      "n. 反面；相反的事物 倒车；反转；彻底转变"
+      "n. 反面；相反的事物",
+      "v. 倒车；反转；彻底转变"
     ],
     "start": 91.38,
     "end": 92.12,
@@ -562,9 +552,10 @@
   {
     "word": "fleece",
     "ipa": "[fliːs]",
-    "definition": "n. 生羊皮，羊毛 骗取，欺诈",
+    "definition": "n. 生羊皮，羊毛\nv. 骗取，欺诈",
     "definitions": [
-      "n. 生羊皮，羊毛 骗取，欺诈"
+      "n. 生羊皮，羊毛",
+      "v. 骗取，欺诈"
     ],
     "start": 113.99,
     "end": 114.81,
@@ -576,9 +567,11 @@
   {
     "word": "zigzag",
     "ipa": "[ˈzɪɡzæɡ]",
-    "definition": "n. 之字形 之字形的 弯弯曲曲地行进",
+    "definition": "n. 之字形\nadj. 之字形的\nv. 弯弯曲曲地行进",
     "definitions": [
-      "n. 之字形 之字形的 弯弯曲曲地行进"
+      "n. 之字形",
+      "adj. 之字形的",
+      "v. 弯弯曲曲地行进"
     ],
     "start": 115.99,
     "end": 117.35,
@@ -730,9 +723,10 @@
   {
     "word": "resident",
     "ipa": "[ˈrezɪdənt]",
-    "definition": "n. 居民 定居的，常驻的",
+    "definition": "n. 居民\nadj. 定居的，常驻的",
     "definitions": [
-      "n. 居民 定居的，常驻的"
+      "n. 居民",
+      "adj. 定居的，常驻的"
     ],
     "start": 145.66,
     "end": 147.12,
@@ -758,9 +752,10 @@
   {
     "word": "prop",
     "ipa": "[prɑːp]",
-    "definition": "n. 支撑物，支柱 支持",
+    "definition": "n. 支撑物，支柱\nv. 支持",
     "definitions": [
-      "n. 支撑物，支柱 支持"
+      "n. 支撑物，支柱",
+      "v. 支持"
     ],
     "start": 152.04,
     "end": 152.74,
@@ -1009,7 +1004,7 @@
   },
   {
     "word": "convict",
-    "ipa": "[kənˈvɪkt]",
+    "ipa": "[kənˈvɪkt]（v.）/[ˈkɑːnvɪkt]（n.）",
     "definition": "v. 定罪，宣判……有罪\nn. 已决犯，服刑囚犯",
     "definitions": [
       "v. 定罪，宣判……有罪",
@@ -1121,21 +1116,18 @@
     "source": "gre_book"
   },
   {
-    "word": "self",
-    "ipa": "[self]",
-    "definition": "n. 自己，自我；（指一个人）自己，本人；私心，私利；本人（用于商业函件、支票等）；（自己的）通常的行为方式，本来面目",
+    "word": "self-righteousness",
+    "ipa": "[ˌselfˈraɪtʃəsnəs]",
+    "definition": "n. 自以为是",
     "definitions": [
-      "n. 自己，自我；（指一个人）自己，本人；私心，私利；本人（用于商业函件、支票等）；（自己的）通常的行为方式，本来面目",
-      "adj. （装饰品，封面）与其他部分同质同色的",
-      "v. （主植）使自花授粉，使自体受精；（遗传）（动物、植物）同系繁衍，同系受精；自花受精",
-      "pron. 自己（用于自谑的赞美语中）；本人（用于票根、支票等，指称持有人或签署人）"
+      "n. 自以为是"
     ],
     "start": 224.1,
     "end": 225.14,
     "book_page": null,
     "heard": "self",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "convulse",
@@ -1196,9 +1188,10 @@
   {
     "word": "ramble",
     "ipa": "[ˈræmbl]",
-    "definition": "n. 漫步 漫步",
+    "definition": "n. 漫步\nv. 漫步",
     "definitions": [
-      "n. 漫步 漫步"
+      "n. 漫步",
+      "v. 漫步"
     ],
     "start": 238.41,
     "end": 239.89,
@@ -1392,9 +1385,10 @@
   {
     "word": "quack",
     "ipa": "[kwæk]",
-    "definition": "n. 冒牌医生，庸医 庸医的",
+    "definition": "n. 冒牌医生，庸医\nadj. 庸医的",
     "definitions": [
-      "n. 冒牌医生，庸医 庸医的"
+      "n. 冒牌医生，庸医",
+      "adj. 庸医的"
     ],
     "start": 276.53,
     "end": 277.79,
@@ -1700,9 +1694,10 @@
   {
     "word": "fanatic",
     "ipa": "[fəˈnætɪk]",
-    "definition": "adj. 狂热的，盲信的 狂热者",
+    "definition": "adj. 狂热的，盲信的\nn. 狂热者",
     "definitions": [
-      "adj. 狂热的，盲信的 狂热者"
+      "adj. 狂热的，盲信的",
+      "n. 狂热者"
     ],
     "start": 338.79,
     "end": 339.77,

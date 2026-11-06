@@ -2,9 +2,10 @@
   {
     "word": "substitute",
     "ipa": "[ˈsʌbstɪtuːt]",
-    "definition": "n. 代替品 代替",
+    "definition": "n. 代替品\nv. 代替",
     "definitions": [
-      "n. 代替品 代替"
+      "n. 代替品",
+      "v. 代替"
     ],
     "start": 5.16,
     "end": 6.56,
@@ -72,9 +73,10 @@
   {
     "word": "rival",
     "ipa": "[ˈraɪvl]",
-    "definition": "n. 竞争者，对手 竞争，与…匹敌",
+    "definition": "n. 竞争者，对手\nv. 竞争，与…匹敌",
     "definitions": [
-      "n. 竞争者，对手 竞争，与…匹敌"
+      "n. 竞争者，对手",
+      "v. 竞争，与…匹敌"
     ],
     "start": 19.2,
     "end": 19.92,
@@ -100,9 +102,10 @@
   {
     "word": "initial",
     "ipa": "[ɪˈnɪʃl]",
-    "definition": "adj. 开始的，最初的 （姓名的）首字母",
+    "definition": "adj. 开始的，最初的\nn. （姓名的）首字母",
     "definitions": [
-      "adj. 开始的，最初的 （姓名的）首字母"
+      "adj. 开始的，最初的",
+      "n. （姓名的）首字母"
     ],
     "start": 24.44,
     "end": 25.56,
@@ -296,9 +299,10 @@
   {
     "word": "bias",
     "ipa": "[ˈbaɪəs]",
-    "definition": "n. 偏见 使有偏见",
+    "definition": "n. 偏见\nv. 使有偏见",
     "definitions": [
-      "n. 偏见 使有偏见"
+      "n. 偏见",
+      "v. 使有偏见"
     ],
     "start": 62.92,
     "end": 65.42,
@@ -506,9 +510,10 @@
   {
     "word": "routine",
     "ipa": "[ruːˈtiːn]",
-    "definition": "n. 常规 平常的；常规的",
+    "definition": "n. 常规\nadj. 平常的；常规的",
     "definitions": [
-      "n. 常规 平常的；常规的"
+      "n. 常规",
+      "adj. 平常的；常规的"
     ],
     "start": 104.87,
     "end": 107.45,
@@ -534,9 +539,10 @@
   {
     "word": "capture",
     "ipa": "[ˈkæpʧər]",
-    "definition": "v. 俘获；夺取或赢得 战利品",
+    "definition": "v. 俘获；夺取或赢得\nn. 战利品",
     "definitions": [
-      "v. 俘获；夺取或赢得 战利品"
+      "v. 俘获；夺取或赢得",
+      "n. 战利品"
     ],
     "start": 110.21,
     "end": 112.95,
@@ -632,9 +638,10 @@
   {
     "word": "code",
     "ipa": "[koʊd]",
-    "definition": "n. 密码；法典 将某事物编写成密码",
+    "definition": "n. 密码；法典\nv. 将某事物编写成密码",
     "definitions": [
-      "n. 密码；法典 将某事物编写成密码"
+      "n. 密码；法典",
+      "v. 将某事物编写成密码"
     ],
     "start": 130.26,
     "end": 131.64,
@@ -758,9 +765,10 @@
   {
     "word": "attenuate",
     "ipa": "[əˈtenjueɪt]",
-    "definition": "v. 变薄；变弱 减弱的",
+    "definition": "v. 变薄；变弱\nadj. 减弱的",
     "definitions": [
-      "v. 变薄；变弱 减弱的"
+      "v. 变薄；变弱",
+      "adj. 减弱的"
     ],
     "start": 154.44,
     "end": 156.1,
@@ -786,9 +794,10 @@
   {
     "word": "resort",
     "ipa": "[rɪˈzɔːrt]",
-    "definition": "v. 求助，诉诸 度假胜地",
+    "definition": "v. 求助，诉诸\nn. 度假胜地",
     "definitions": [
-      "v. 求助，诉诸 度假胜地"
+      "v. 求助，诉诸",
+      "n. 度假胜地"
     ],
     "start": 160.68,
     "end": 161.76,
@@ -814,9 +823,10 @@
   {
     "word": "advantage",
     "ipa": "[ədˈvæntɪʤ]",
-    "definition": "n. 利益，益处 有利于，有益于",
+    "definition": "n. 利益，益处\nv. 有利于，有益于",
     "definitions": [
-      "n. 利益，益处 有利于，有益于"
+      "n. 利益，益处",
+      "v. 有利于，有益于"
     ],
     "start": 166.06,
     "end": 167.02,
@@ -898,9 +908,10 @@
   {
     "word": "characteristic",
     "ipa": "[ˌkærəktəˈrɪstɪk]",
-    "definition": "adj. 有特色的；典型性的 与众不同的特征",
+    "definition": "adj. 有特色的；典型性的\nn. 与众不同的特征",
     "definitions": [
-      "adj. 有特色的；典型性的 与众不同的特征"
+      "adj. 有特色的；典型性的",
+      "n. 与众不同的特征"
     ],
     "start": 182.77,
     "end": 184.17,
@@ -954,9 +965,10 @@
   {
     "word": "rush",
     "ipa": "[rʌʃ]",
-    "definition": "v. 急促；匆忙行事 冲，奔",
+    "definition": "v. 急促；匆忙行事\nn. 冲，奔",
     "definitions": [
-      "v. 急促；匆忙行事 冲，奔"
+      "v. 急促；匆忙行事",
+      "n. 冲，奔"
     ],
     "start": 193.61,
     "end": 194.91,
@@ -1137,9 +1149,10 @@
   {
     "word": "constant",
     "ipa": "[ˈkɑːnstənt]",
-    "definition": "adj. 稳定的，不变的 常数",
+    "definition": "adj. 稳定的，不变的\nn. 常数",
     "definitions": [
-      "adj. 稳定的，不变的 常数"
+      "adj. 稳定的，不变的",
+      "n. 常数"
     ],
     "start": 230.44,
     "end": 231.14,
@@ -1361,9 +1374,10 @@
   {
     "word": "individual",
     "ipa": "[ˌɪndɪˈvɪdʤuəl]",
-    "definition": "adj. 单独的，单个的；特有的；个人的，个体的 个人，个体",
+    "definition": "adj. 单独的，单个的；特有的；个人的，个体的\nn. 个人，个体",
     "definitions": [
-      "adj. 单独的，单个的；特有的；个人的，个体的 个人，个体"
+      "adj. 单独的，单个的；特有的；个人的，个体的",
+      "n. 个人，个体"
     ],
     "start": 275.7,
     "end": 276.9,
@@ -1403,9 +1417,10 @@
   {
     "word": "approach",
     "ipa": "[əˈproʊtʃ]",
-    "definition": "v. 接近，靠近；着手处理 方法",
+    "definition": "v. 接近，靠近；着手处理\nn. 方法",
     "definitions": [
-      "v. 接近，靠近；着手处理 方法"
+      "v. 接近，靠近；着手处理",
+      "n. 方法"
     ],
     "start": 284.28,
     "end": 285.48,
@@ -1698,9 +1713,10 @@
   {
     "word": "worthy",
     "ipa": "[ˈwɜːrði]",
-    "definition": "adj. 值得的；有价值的 知名人士",
+    "definition": "adj. 值得的；有价值的\nn. 知名人士",
     "definitions": [
-      "adj. 值得的；有价值的 知名人士"
+      "adj. 值得的；有价值的",
+      "n. 知名人士"
     ],
     "start": 346.26,
     "end": 347.66,
@@ -1992,9 +2008,10 @@
   {
     "word": "structure",
     "ipa": "[ˈstrʌktʃər]",
-    "definition": "n. 结构 建造",
+    "definition": "n. 结构\nv. 建造",
     "definitions": [
-      "n. 结构 建造"
+      "n. 结构",
+      "v. 建造"
     ],
     "start": 404.8,
     "end": 406.22,

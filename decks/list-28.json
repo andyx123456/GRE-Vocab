@@ -112,21 +112,19 @@
     "source": "gre_book"
   },
   {
-    "word": "meet",
+    "word": "mete",
     "ipa": "[miːt]",
-    "definition": "v. 结识，被引见；（与某人）会面\nn. 运动会，赛事；<非正式>（尤指为不正当的目的）约会，碰头\nadj. <古>合适的，恰当的",
+    "definition": "v. 给予，分配；测量\nn. 边界",
     "definitions": [
-      "v. 结识，被引见；（与某人）会面；偶遇，遇见；开会，会晤；迎接；交手，交战；交汇，相交；接触，连接；满足；经历，遭遇；支付；对付，应付；对视；被感知到；等同于，与……相符； 实现（计划），履行（诺言）；实现（计划），履行（诺言）",
-      "n. 运动会，赛事；<非正式>（尤指为不正当的目的）约会，碰头；猎狐活动",
-      "adj. <古>合适的，恰当的",
-      "n. 【名】 （英）米特（人名）"
+      "v. 给予，分配；测量",
+      "n. 边界"
     ],
     "start": 27.65,
     "end": 28.51,
-    "book_page": null,
+    "book_page": 300,
     "heard": "meet",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "trudge",
@@ -313,9 +311,10 @@
   {
     "word": "squat",
     "ipa": "[skwɑːt]",
-    "definition": "v. 蹲下 矮胖的",
+    "definition": "v. 蹲下\nadj. 矮胖的",
     "definitions": [
-      "v. 蹲下 矮胖的"
+      "v. 蹲下",
+      "adj. 矮胖的"
     ],
     "start": 65.77,
     "end": 66.47,
@@ -521,18 +520,18 @@
     "source": "gre_book"
   },
   {
-    "word": "rapine",
-    "ipa": "[ˈræpaɪn]",
-    "definition": "n. 掠夺；劫掠",
+    "word": "repine",
+    "ipa": "[rɪˈpaɪn]",
+    "definition": "v. 不满，抱怨",
     "definitions": [
-      "n. 掠夺；劫掠"
+      "v. 不满，抱怨"
     ],
     "start": 104.0,
     "end": 105.86,
-    "book_page": null,
+    "book_page": 302,
     "heard": "ripine",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "scrimp",
@@ -549,19 +548,18 @@
     "source": "gre_book"
   },
   {
-    "word": "nasa",
-    "ipa": "[ˈnæsə]",
-    "definition": "n. 美国国家航空航天局，亦译“美国宇航局”“美国太空总署”",
+    "word": "naysay",
+    "ipa": "[ˈneɪseɪ]",
+    "definition": "v. 拒绝，否认，反对",
     "definitions": [
-      "n. 美国国家航空航天局，亦译“美国宇航局”“美国太空总署”",
-      "n. 人名，塞尔维亚人名可音译作“纳莎”"
+      "v. 拒绝，否认，反对"
     ],
     "start": 110.47,
     "end": 111.91,
-    "book_page": null,
+    "book_page": 302,
     "heard": "nasa",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "quench",
@@ -664,9 +662,10 @@
   {
     "word": "ration",
     "ipa": "[ˈræʃn]",
-    "definition": "n. 配给 定量配给",
+    "definition": "n. 配给\nv. 定量配给",
     "definitions": [
-      "n. 配给 定量配给"
+      "n. 配给",
+      "v. 定量配给"
     ],
     "start": 132.44,
     "end": 134.08,
@@ -678,9 +677,10 @@
   {
     "word": "adulterate",
     "ipa": "[əˈdʌltəreɪt]",
-    "definition": "v. 掺杂，掺假 掺杂的，掺假的",
+    "definition": "v. 掺杂，掺假\nadj. 掺杂的，掺假的",
     "definitions": [
-      "v. 掺杂，掺假 掺杂的，掺假的"
+      "v. 掺杂，掺假",
+      "adj. 掺杂的，掺假的"
     ],
     "start": 135.76,
     "end": 137.16,
@@ -692,9 +692,10 @@
   {
     "word": "drawl",
     "ipa": "[drɔːl]",
-    "definition": "v. 慢吞吞地说 慢吞吞的说话方式",
+    "definition": "v. 慢吞吞地说\nn. 慢吞吞的说话方式",
     "definitions": [
-      "v. 慢吞吞地说 慢吞吞的说话方式"
+      "v. 慢吞吞地说",
+      "n. 慢吞吞的说话方式"
     ],
     "start": 138.92,
     "end": 140.32,
@@ -818,9 +819,10 @@
   {
     "word": "slumber",
     "ipa": "[ˈslʌmbər]",
-    "definition": "v. 睡眠，安睡 睡眠",
+    "definition": "v. 睡眠，安睡\nn. 睡眠",
     "definitions": [
-      "v. 睡眠，安睡 睡眠"
+      "v. 睡眠，安睡",
+      "n. 睡眠"
     ],
     "start": 163.5,
     "end": 164.86,
@@ -832,9 +834,10 @@
   {
     "word": "gleam",
     "ipa": "[ɡliːm]",
-    "definition": "n. 微光，闪光 发微光，闪烁",
+    "definition": "n. 微光，闪光\nv. 发微光，闪烁",
     "definitions": [
-      "n. 微光，闪光 发微光，闪烁"
+      "n. 微光，闪光",
+      "v. 发微光，闪烁"
     ],
     "start": 165.54,
     "end": 167.5,
@@ -844,18 +847,18 @@
     "source": "gre_book"
   },
   {
-    "word": "idolatry",
-    "ipa": "[aɪˈdɒlətri]",
-    "definition": "n. 偶像崇拜，邪神崇拜；盲目崇拜",
+    "word": "idolatrize",
+    "ipa": "[aɪˈdɑːləˌtraɪz]",
+    "definition": "v. 奉为偶像，盲目崇拜",
     "definitions": [
-      "n. 偶像崇拜，邪神崇拜；盲目崇拜"
+      "v. 奉为偶像，盲目崇拜"
     ],
     "start": 169.16,
     "end": 170.56,
-    "book_page": null,
+    "book_page": 303,
     "heard": "idolatrice",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "defame",
@@ -872,20 +875,19 @@
     "source": "gre_book"
   },
   {
-    "word": "gamble",
+    "word": "gambol",
     "ipa": "[ˈɡæmb(ə)l]",
-    "definition": "v. 冒险假设；赌博\nn. 冒险，赌博",
+    "definition": "n. 雀跃；嬉戏\nv. 雀跃；耍闹",
     "definitions": [
-      "v. 冒险假设；赌博；冒险，投机",
-      "n. 冒险，赌博",
-      "n. 【名】 （美）甘布勒（人名）"
+      "n. 雀跃；嬉戏",
+      "v. 雀跃；耍闹"
     ],
     "start": 174.28,
     "end": 175.72,
-    "book_page": null,
+    "book_page": 303,
     "heard": "gamble",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "rakish",
@@ -986,19 +988,19 @@
     "source": "gre_book"
   },
   {
-    "word": "non",
-    "ipa": "[nɒn]",
-    "definition": "adv. 非，不",
+    "word": "nonplus",
+    "ipa": "[ˌnɑːnˈplʌs]",
+    "definition": "v. 使困惑\nn. 迷惑，困惑",
     "definitions": [
-      "adv. 非，不",
-      "n. （美、泰）嫩（人名）"
+      "v. 使困惑",
+      "n. 迷惑，困惑"
     ],
     "start": 196.56,
     "end": 197.44,
-    "book_page": null,
+    "book_page": 304,
     "heard": "non",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "chicanery",
@@ -1059,9 +1061,10 @@
   {
     "word": "askew",
     "ipa": "[əˈskjuː]",
-    "definition": "adj. 歪斜的（地）",
+    "definition": "adv. 歪斜地\nadj. 歪斜的",
     "definitions": [
-      "adj. 歪斜的（地）"
+      "adv. 歪斜地",
+      "adj. 歪斜的"
     ],
     "start": 210.09,
     "end": 211.71,
@@ -1087,9 +1090,10 @@
   {
     "word": "cement",
     "ipa": "[sɪˈment]",
-    "definition": "n. 水泥；黏合剂 黏合，巩固",
+    "definition": "n. 水泥；黏合剂\nv. 黏合，巩固",
     "definitions": [
-      "n. 水泥；黏合剂 黏合，巩固"
+      "n. 水泥；黏合剂",
+      "v. 黏合，巩固"
     ],
     "start": 216.08,
     "end": 216.78,
@@ -1225,19 +1229,18 @@
     "source": "gre_book"
   },
   {
-    "word": "corset",
-    "ipa": "[ˈkɔːsɪt]",
-    "definition": "n. （妇女用的）束腹，紧身褡，紧身胸衣；（中世纪流行的）紧身外套\nv. 给……穿上束腹，给……束腰；严格控制，严密约束",
+    "word": "cosset",
+    "ipa": "[ˈkɑːsɪt]",
+    "definition": "v. 宠爱，溺爱",
     "definitions": [
-      "n. （妇女用的）束腹，紧身褡，紧身胸衣；（中世纪流行的）紧身外套；（非正式，比喻）限制，约束",
-      "v. 给……穿上束腹，给……束腰；严格控制，严密约束"
+      "v. 宠爱，溺爱"
     ],
     "start": 242.7,
     "end": 243.92,
-    "book_page": null,
+    "book_page": 305,
     "heard": "corset",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "progeny",
@@ -1255,7 +1258,7 @@
   },
   {
     "word": "languid",
-    "ipa": "[ˈlæɡwɪd]",
+    "ipa": "[ˈlæŋɡwɪd]",
     "definition": "adj. 没精打采的，倦怠的",
     "definitions": [
       "adj. 没精打采的，倦怠的"
@@ -1452,9 +1455,10 @@
   {
     "word": "whiff",
     "ipa": "[wɪf]",
-    "definition": "n. （风、烟等的）一阵 轻吹",
+    "definition": "n. （风、烟等的）一阵\nv. 轻吹",
     "definitions": [
-      "n. （风、烟等的）一阵 轻吹"
+      "n. （风、烟等的）一阵",
+      "v. 轻吹"
     ],
     "start": 286.33,
     "end": 287.23,
@@ -1466,9 +1470,10 @@
   {
     "word": "repose",
     "ipa": "[rɪˈpoʊz]",
-    "definition": "n. 休息，安眠",
+    "definition": "n. 休息，安眠\nv. 休息，安眠",
     "definitions": [
-      "n. 休息，安眠"
+      "n. 休息，安眠",
+      "v. 休息，安眠"
     ],
     "start": 288.33,
     "end": 289.93,
@@ -1746,9 +1751,10 @@
   {
     "word": "peel",
     "ipa": "[piːl]",
-    "definition": "v. 削去…的皮；剥落 外皮",
+    "definition": "v. 削去…的皮；剥落\nn. 外皮",
     "definitions": [
-      "v. 削去…的皮；剥落 外皮"
+      "v. 削去…的皮；剥落",
+      "n. 外皮"
     ],
     "start": 344.12,
     "end": 345.3,
@@ -1786,18 +1792,18 @@
     "source": "gre_book"
   },
   {
-    "word": "brute",
+    "word": "bruit",
     "ipa": "[bruːt]",
-    "definition": "n. 野兽（的）；残忍的（人）",
+    "definition": "v. 散布（谣言）",
     "definitions": [
-      "n. 野兽（的）；残忍的（人）"
+      "v. 散布（谣言）"
     ],
     "start": 351.8,
     "end": 352.5,
-    "book_page": 173,
+    "book_page": 307,
     "heard": "brute",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "implode",
@@ -1816,9 +1822,10 @@
   {
     "word": "peep",
     "ipa": "[piːp]",
-    "definition": "n. 瞥见，偷看；初现",
+    "definition": "n. 瞥见，偷看；初现\nv. 瞥见，偷看；初现",
     "definitions": [
-      "n. 瞥见，偷看；初现"
+      "n. 瞥见，偷看；初现",
+      "v. 瞥见，偷看；初现"
     ],
     "start": 357.54,
     "end": 358.68,
@@ -1856,25 +1863,26 @@
     "source": "gre_book"
   },
   {
-    "word": "russell",
-    "ipa": "[ˈrʌsəl]",
-    "definition": "n. 拉塞尔（英国工程师，整流器发明人）",
+    "word": "rustle",
+    "ipa": "[ˈrʌs(ə)l]",
+    "definition": "v. 发出沙沙声",
     "definitions": [
-      "n. 拉塞尔（英国工程师，整流器发明人）"
+      "v. 发出沙沙声"
     ],
     "start": 364.1,
     "end": 366.14,
-    "book_page": null,
+    "book_page": 307,
     "heard": "russell",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "jolt",
     "ipa": "[ʤoʊlt]",
-    "definition": "v. （使）颠簸 震动，摇晃",
+    "definition": "v. （使）颠簸\nn. 震动，摇晃",
     "definitions": [
-      "v. （使）颠簸 震动，摇晃"
+      "v. （使）颠簸",
+      "n. 震动，摇晃"
     ],
     "start": 367.72,
     "end": 368.42,
@@ -1984,9 +1992,10 @@
   {
     "word": "ennui",
     "ipa": "[ɑːnˈwiː]",
-    "definition": "n. 倦怠；无聊 使无聊",
+    "definition": "n. 倦怠；无聊\nv. 使无聊",
     "definitions": [
-      "n. 倦怠；无聊 使无聊"
+      "n. 倦怠；无聊",
+      "v. 使无聊"
     ],
     "start": 388.32,
     "end": 390.86,

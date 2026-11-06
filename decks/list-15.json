@@ -1,36 +1,17 @@
 [
   {
-    "word": "under",
-    "ipa": "[ˈʌndə(r)]",
-    "definition": "prep. 在（或到、通过）……下面；在……表面下，由……覆盖着；少于，小于，低于；由……控制（或管理、经营）； 按照，依据（法律、协议或制度）；在……过程中；在……的影响下；用，以（尤指假名）；属于，列入，在……项之下；在……情况下，在……条件下；在（治疗）中；（计算机）在（某个系统）下；栽有；（尤指看法不正确时）以为……",
+    "word": "understate",
+    "ipa": "[ˌʌndərˈsteɪt]",
+    "definition": "v. 保守地说，轻描淡写地说",
     "definitions": [
-      "prep. 在（或到、通过）……下面；在……表面下，由……覆盖着；少于，小于，低于；由……控制（或管理、经营）； 按照，依据（法律、协议或制度）；在……过程中；在……的影响下；用，以（尤指假名）；属于，列入，在……项之下；在……情况下，在……条件下；在（治疗）中；（计算机）在（某个系统）下；栽有；（尤指看法不正确时）以为……",
-      "adv. 在下面；在下面穿过；在水下；少于，小于，较年轻；在昏迷中，陷入昏迷状态",
-      "adj. 较低的，下面的"
+      "v. 保守地说，轻描淡写地说"
     ],
     "start": 3.82,
-    "end": 4.98,
-    "book_page": null,
-    "heard": "under",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "state",
-    "ipa": "[steɪt]",
-    "definition": "n. 状态，状况；紧张，焦虑\nadj. 州的；国事的，国事礼仪的\nv. 陈述，说明；规定，公布",
-    "definitions": [
-      "n. 状态，状况；紧张，焦虑；政府；国家；州，邦；<非正式>美国；国事礼仪，隆重仪式；（物质的）形态，态；（物理学）量子态；泽西、根西和奥尔德尼三岛的立法机关；压印，印图；受公众瞻仰和吊唁",
-      "adj. 州的；国事的，国事礼仪的；国家提供（或控制）的",
-      "v. 陈述，说明；规定，公布；表现（主题，旋律）",
-      "n. 【名】 （罗、瑞典）斯塔特，（英）斯泰特（人名）"
-    ],
-    "start": 6.32,
     "end": 7.02,
-    "book_page": null,
-    "heard": "state",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 166,
+    "heard": "under state",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "evil",
@@ -63,9 +44,10 @@
   {
     "word": "bumper",
     "ipa": "[ˈbʌmpər]",
-    "definition": "adj. 特大的 保险杠",
+    "definition": "adj. 特大的\nn. 保险杠",
     "definitions": [
-      "adj. 特大的 保险杠"
+      "adj. 特大的",
+      "n. 保险杠"
     ],
     "start": 14.18,
     "end": 14.96,
@@ -245,9 +227,10 @@
   {
     "word": "anaerobic",
     "ipa": "[ˌæneˈroʊbɪk]",
-    "definition": "adj. 厌氧的 厌氧微生物",
+    "definition": "adj. 厌氧的\nn. 厌氧微生物",
     "definitions": [
-      "adj. 厌氧的 厌氧微生物"
+      "adj. 厌氧的",
+      "n. 厌氧微生物"
     ],
     "start": 50.8,
     "end": 52.58,
@@ -329,9 +312,10 @@
   {
     "word": "debate",
     "ipa": "[dɪˈbeɪt]",
-    "definition": "n. 正式的辩论，讨论 讨论，辩论",
+    "definition": "n. 正式的辩论，讨论\nv. 讨论，辩论",
     "definitions": [
-      "n. 正式的辩论，讨论 讨论，辩论"
+      "n. 正式的辩论，讨论",
+      "v. 讨论，辩论"
     ],
     "start": 68.39,
     "end": 69.09,
@@ -495,20 +479,6 @@
     "source": "gre_book"
   },
   {
-    "word": "impression",
-    "ipa": "[ɪmˈpreʃ(ə)n]",
-    "definition": "n. 印象，感想；影响，作用；印象画；（对名人的）滑稽模仿；（通常有悖事实的）感觉，假象；压印，印记；印次；（网络广告）印象数",
-    "definitions": [
-      "n. 印象，感想；影响，作用；印象画；（对名人的）滑稽模仿；（通常有悖事实的）感觉，假象；压印，印记；印次；（网络广告）印象数"
-    ],
-    "start": 102.77,
-    "end": 103.01,
-    "book_page": null,
-    "heard": "impression",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
     "word": "impressed",
     "ipa": "[ɪmˈprest]",
     "definition": "adj. 被打动的，被感动的",
@@ -609,9 +579,10 @@
   {
     "word": "hatch",
     "ipa": "[hæʧ]",
-    "definition": "n. 船舱盖 孵化；策划",
+    "definition": "n. 船舱盖\nv. 孵化；策划",
     "definitions": [
-      "n. 船舱盖 孵化；策划"
+      "n. 船舱盖",
+      "v. 孵化；策划"
     ],
     "start": 124.3,
     "end": 125.54,
@@ -723,9 +694,10 @@
   {
     "word": "uniform",
     "ipa": "[ˈjuːnɪfɔːrm]",
-    "definition": "n. 制服 相同的，一致的",
+    "definition": "n. 制服\nadj. 相同的，一致的",
     "definitions": [
-      "n. 制服 相同的，一致的"
+      "n. 制服",
+      "adj. 相同的，一致的"
     ],
     "start": 150.09,
     "end": 151.49,
@@ -779,9 +751,10 @@
   {
     "word": "polish",
     "ipa": "[ˈpoʊlɪʃ]",
-    "definition": "v. 磨光，擦亮 上光剂；优雅",
+    "definition": "v. 磨光，擦亮\nn. 上光剂；优雅",
     "definitions": [
-      "v. 磨光，擦亮 上光剂；优雅"
+      "v. 磨光，擦亮",
+      "n. 上光剂；优雅"
     ],
     "start": 161.22,
     "end": 162.62,
@@ -849,9 +822,10 @@
   {
     "word": "ordinary",
     "ipa": "[ˈɔːrdneri]",
-    "definition": "adj. 普通的，平常的；拙劣的，质量差的 惯例，寻常情况",
+    "definition": "adj. 普通的，平常的；拙劣的，质量差的\nn. 惯例，寻常情况",
     "definitions": [
-      "adj. 普通的，平常的；拙劣的，质量差的 惯例，寻常情况"
+      "adj. 普通的，平常的；拙劣的，质量差的",
+      "n. 惯例，寻常情况"
     ],
     "start": 173.94,
     "end": 175.96,
@@ -1017,9 +991,10 @@
   {
     "word": "romance",
     "ipa": "[ˈroʊmæns]",
-    "definition": "n. 传奇故事；虚构；浪漫氛围；风流韵事 虚构",
+    "definition": "n. 传奇故事；虚构；浪漫氛围；风流韵事\nv. 虚构",
     "definitions": [
-      "n. 传奇故事；虚构；浪漫氛围；风流韵事 虚构"
+      "n. 传奇故事；虚构；浪漫氛围；风流韵事",
+      "v. 虚构"
     ],
     "start": 209.83,
     "end": 210.53,
@@ -1269,9 +1244,10 @@
   {
     "word": "elegiac",
     "ipa": "[ˌelɪˈʤaɪək]",
-    "definition": "adj. 哀歌的，挽歌的 哀歌，挽歌",
+    "definition": "adj. 哀歌的，挽歌的\nn. 哀歌，挽歌",
     "definitions": [
-      "adj. 哀歌的，挽歌的 哀歌，挽歌"
+      "adj. 哀歌的，挽歌的",
+      "n. 哀歌，挽歌"
     ],
     "start": 261.43,
     "end": 263.07,
@@ -1510,9 +1486,10 @@
   {
     "word": "brute",
     "ipa": "[bruːt]",
-    "definition": "n. 野兽（的）；残忍的（人）",
+    "definition": "n. 野兽；残忍的人\nadj. 野兽的，残忍的",
     "definitions": [
-      "n. 野兽（的）；残忍的（人）"
+      "n. 野兽；残忍的人",
+      "adj. 野兽的，残忍的"
     ],
     "start": 309.82,
     "end": 311.22,
@@ -2110,20 +2087,6 @@
     "source": "gre_book"
   },
   {
-    "word": "effective",
-    "ipa": "[ɪˈfektɪv]",
-    "definition": "adj. 有效的，生效的；给人印象深刻的",
-    "definitions": [
-      "adj. 有效的，生效的；给人印象深刻的"
-    ],
-    "start": 426.33,
-    "end": 427.99,
-    "book_page": 143,
-    "heard": "effective",
-    "match": "exact",
-    "source": "gre_book"
-  },
-  {
     "word": "affection",
     "ipa": "[əˈfekʃn]",
     "definition": "n. 喜爱",
@@ -2166,21 +2129,18 @@
     "source": "gre_book"
   },
   {
-    "word": "short",
-    "ipa": "[ʃɔːt]",
-    "definition": "adj. 短暂的，短期的；（长度或距离）短的；个子矮的；简短的，短篇的；短缺的，稀少的；不够（长、高或远）的；缩写的；呼吸困难的；唐突的，无礼的；短音的；短球的；（板球）靠近击球手位置的；概率大的；（糕点）松脆的；（黏土）黏性差的；简直，无异于",
+    "word": "shortsighted",
+    "ipa": "[ˌʃɔːrtˈsaɪtɪd]",
+    "definition": "adj. 缺乏远见的；近视的",
     "definitions": [
-      "adj. 短暂的，短期的；（长度或距离）短的；个子矮的；简短的，短篇的；短缺的，稀少的；不够（长、高或远）的；缩写的；呼吸困难的；唐突的，无礼的；短音的；短球的；（板球）靠近击球手位置的；概率大的；（糕点）松脆的；（黏土）黏性差的；简直，无异于",
-      "n. <英>少量烈酒；电影短片；短裤；<美>男用短内裤；短音；细麸粉；短路；卖空的人；短期证券",
-      "adv. 达不到标准（或预期）地；突然，短暂；使变短地；短距离地",
-      "v. （使）短路；（股票）卖空"
+      "adj. 缺乏远见的；近视的"
     ],
     "start": 436.63,
     "end": 437.33,
     "book_page": null,
     "heard": "short",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "generous",

@@ -1,17 +1,17 @@
 [
   {
-    "word": "cousin",
-    "ipa": "[ˈkʌzn]",
-    "definition": "n. 堂（表）兄弟，堂（表）姐妹；远房亲戚；兄弟民族（或国家）的人（来自不同国家但文化近似）；相似的人（物）",
+    "word": "cozen",
+    "ipa": "[ˈkʌzən]",
+    "definition": "v. 欺骗，哄骗",
     "definitions": [
-      "n. 堂（表）兄弟，堂（表）姐妹；远房亲戚；兄弟民族（或国家）的人（来自不同国家但文化近似）；相似的人（物）"
+      "v. 欺骗，哄骗"
     ],
     "start": 4.95,
     "end": 6.31,
-    "book_page": null,
+    "book_page": 273,
     "heard": "cousin",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "saddle",
@@ -30,9 +30,10 @@
   {
     "word": "filibuster",
     "ipa": "[ˈfɪlɪbʌstər]",
-    "definition": "v. 妨碍议事，阻挠议案通过 阻挠议事的人或行动",
+    "definition": "v. 妨碍议事，阻挠议案通过\nn. 阻挠议事的人或行动",
     "definitions": [
-      "v. 妨碍议事，阻挠议案通过 阻挠议事的人或行动"
+      "v. 妨碍议事，阻挠议案通过",
+      "n. 阻挠议事的人或行动"
     ],
     "start": 10.4,
     "end": 11.98,
@@ -72,9 +73,10 @@
   {
     "word": "bully",
     "ipa": "[ˈbʊli]",
-    "definition": "v. 威胁，以强欺弱 欺凌弱小者",
+    "definition": "v. 威胁，以强欺弱\nn. 欺凌弱小者",
     "definitions": [
-      "v. 威胁，以强欺弱 欺凌弱小者"
+      "v. 威胁，以强欺弱",
+      "n. 欺凌弱小者"
     ],
     "start": 18.86,
     "end": 19.78,
@@ -84,18 +86,18 @@
     "source": "gre_book"
   },
   {
-    "word": "complacence",
-    "ipa": "[kəmˈpleɪsns]",
-    "definition": "n. 自满",
+    "word": "complaisance",
+    "ipa": "[kəmˈpleɪzəns]",
+    "definition": "n. 彬彬有礼；殷勤；柔顺",
     "definitions": [
-      "n. 自满"
+      "n. 彬彬有礼；殷勤；柔顺"
     ],
     "start": 21.03,
     "end": 22.79,
-    "book_page": 320,
+    "book_page": 273,
     "heard": "complacence",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "brisk",
@@ -478,9 +480,10 @@
   {
     "word": "buoy",
     "ipa": "[ˈbuːi]",
-    "definition": "n. 浮标；救生圈 支持，鼓励",
+    "definition": "n. 浮标；救生圈\nv. 支持，鼓励",
     "definitions": [
-      "n. 浮标；救生圈 支持，鼓励"
+      "n. 浮标；救生圈",
+      "v. 支持，鼓励"
     ],
     "start": 96.67,
     "end": 99.21,
@@ -520,9 +523,10 @@
   {
     "word": "dismay",
     "ipa": "[dɪsˈmeɪ]",
-    "definition": "n. 沮丧，气馁 使气馁",
+    "definition": "n. 沮丧，气馁\nv. 使气馁",
     "definitions": [
-      "n. 沮丧，气馁 使气馁"
+      "n. 沮丧，气馁",
+      "v. 使气馁"
     ],
     "start": 105.67,
     "end": 107.31,
@@ -630,18 +634,18 @@
     "source": "gre_book"
   },
   {
-    "word": "dissenter",
-    "ipa": "[dɪˈsentə(r)]",
-    "definition": "n. 持异议者，反对者；（英国历史）不从国教者，不信奉国教者",
+    "word": "disinter",
+    "ipa": "[ˌdɪsɪnˈtɜːr]",
+    "definition": "v. 挖出，掘出",
     "definitions": [
-      "n. 持异议者，反对者；（英国历史）不从国教者，不信奉国教者"
+      "v. 挖出，掘出"
     ],
     "start": 126.47,
     "end": 129.05,
-    "book_page": null,
+    "book_page": 276,
     "heard": "dissenter",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "scurvy",
@@ -842,9 +846,10 @@
   {
     "word": "snarl",
     "ipa": "[snɑːrl]",
-    "definition": "v. 纠缠，混乱；咆哮，怒骂 纠缠，混乱；怒吼声，咆哮声",
+    "definition": "v. 纠缠，混乱；咆哮，怒骂\nn. 纠缠，混乱；怒吼声，咆哮声",
     "definitions": [
-      "v. 纠缠，混乱；咆哮，怒骂 纠缠，混乱；怒吼声，咆哮声"
+      "v. 纠缠，混乱；咆哮，怒骂",
+      "n. 纠缠，混乱；怒吼声，咆哮声"
     ],
     "start": 167.98,
     "end": 169.0,
@@ -869,7 +874,7 @@
   },
   {
     "word": "tangy",
-    "ipa": "[ˈtæi]",
+    "ipa": "[ˈtæŋi]",
     "definition": "adj. 气味刺激的，扑鼻的",
     "definitions": [
       "adj. 气味刺激的，扑鼻的"
@@ -880,6 +885,20 @@
     "heard": "tangy",
     "match": "exact",
     "source": "gre_book"
+  },
+  {
+    "word": "acrid",
+    "ipa": "[ˈækrɪd]",
+    "definition": "adj. 辛辣的，刻薄的",
+    "definitions": [
+      "adj. 辛辣的，刻薄的"
+    ],
+    "start": 175.8,
+    "end": 177.2,
+    "book_page": 276,
+    "heard": "acrid",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "pittance",
@@ -952,18 +971,18 @@
     "source": "gre_book"
   },
   {
-    "word": "doddle",
-    "ipa": "[ˈdɒdl]",
-    "definition": "n. 轻而易举的事，不费吹灰之力的事",
+    "word": "dawdle",
+    "ipa": "[ˈdɔːdl]",
+    "definition": "v. 闲荡，虚度光阴",
     "definitions": [
-      "n. 轻而易举的事，不费吹灰之力的事"
+      "v. 闲荡，虚度光阴"
     ],
     "start": 191.87,
     "end": 193.25,
-    "book_page": null,
+    "book_page": 277,
     "heard": "doddle",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "malaise",
@@ -996,9 +1015,10 @@
   {
     "word": "nettle",
     "ipa": "[ˈnetl]",
-    "definition": "n. 荨麻 烦忧，激怒",
+    "definition": "n. 荨麻\nv. 烦忧，激怒",
     "definitions": [
-      "n. 荨麻 烦忧，激怒"
+      "n. 荨麻",
+      "v. 烦忧，激怒"
     ],
     "start": 199.87,
     "end": 201.45,
@@ -1010,9 +1030,10 @@
   {
     "word": "wallow",
     "ipa": "[ˈwɑːloʊ]",
-    "definition": "v. 打滚；沉迷 打滚",
+    "definition": "v. 打滚；沉迷\nn. 打滚",
     "definitions": [
-      "v. 打滚；沉迷 打滚"
+      "v. 打滚；沉迷",
+      "n. 打滚"
     ],
     "start": 202.87,
     "end": 204.11,
@@ -1078,18 +1099,18 @@
     "source": "gre_book"
   },
   {
-    "word": "baguette",
-    "ipa": "[bæˈɡet]",
-    "definition": "n. 法式长棍面包，法棍；长阶梯形宝石（尤指钻石）",
+    "word": "beget",
+    "ipa": "[bɪˈɡet]",
+    "definition": "v. 产生，引起",
     "definitions": [
-      "n. 法式长棍面包，法棍；长阶梯形宝石（尤指钻石）"
+      "v. 产生，引起"
     ],
     "start": 216.43,
     "end": 217.61,
-    "book_page": null,
+    "book_page": 277,
     "heard": "baguette",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "aspirant",
@@ -1276,9 +1297,10 @@
   {
     "word": "sip",
     "ipa": "[sɪp]",
-    "definition": "v. 啜饮 小口喝，抿；一小口的量",
+    "definition": "v. 啜饮\nn. 小口喝，抿；一小口的量",
     "definitions": [
-      "v. 啜饮 小口喝，抿；一小口的量"
+      "v. 啜饮",
+      "n. 小口喝，抿；一小口的量"
     ],
     "start": 254.87,
     "end": 256.27,
@@ -1360,9 +1382,10 @@
   {
     "word": "hone",
     "ipa": "[hoʊn]",
-    "definition": "n. 磨刀石 磨刀",
+    "definition": "n. 磨刀石\nv. 磨刀",
     "definitions": [
-      "n. 磨刀石 磨刀"
+      "n. 磨刀石",
+      "v. 磨刀"
     ],
     "start": 271.6,
     "end": 272.3,
@@ -1500,9 +1523,10 @@
   {
     "word": "drivel",
     "ipa": "[ˈdrɪvl]",
-    "definition": "v. 胡说 糊涂话",
+    "definition": "v. 胡说\nn. 糊涂话",
     "definitions": [
-      "v. 胡说 糊涂话"
+      "v. 胡说",
+      "n. 糊涂话"
     ],
     "start": 298.56,
     "end": 299.42,
@@ -1514,9 +1538,10 @@
   {
     "word": "palaver",
     "ipa": "[pəˈlɑːvər]",
-    "definition": "n. 空谈 空谈；奉承",
+    "definition": "n. 空谈\nv. 空谈；奉承",
     "definitions": [
-      "n. 空谈 空谈；奉承"
+      "n. 空谈",
+      "v. 空谈；奉承"
     ],
     "start": 300.56,
     "end": 302.12,
@@ -1568,19 +1593,18 @@
     "source": "gre_book"
   },
   {
-    "word": "langer",
-    "ipa": "[ˈlæŋər]",
-    "definition": "n. 兰格",
+    "word": "languor",
+    "ipa": "[ˈlæŋɡər]",
+    "definition": "n. 无精打采，衰弱无力",
     "definitions": [
-      "n. 兰格",
-      "n. 人名；（英）兰格；（法、葡）朗热；（德、俄、罗、匈、捷、波、塞）朗格尔；（瑞典、丹）朗厄"
+      "n. 无精打采，衰弱无力"
     ],
     "start": 311.16,
     "end": 312.36,
-    "book_page": null,
+    "book_page": 279,
     "heard": "langer",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "entreat",
@@ -1611,18 +1635,18 @@
     "source": "gre_book"
   },
   {
-    "word": "topsy",
-    "ipa": "[ˈtɒpsi]",
-    "definition": "n. 混天倒地（歌曲名）",
+    "word": "topsy-turvy",
+    "ipa": "[ˌtɑːpsiˈtɜːrvi]",
+    "definition": "adj. 颠倒的，相反的；乱七八糟的，混乱的",
     "definitions": [
-      "n. 混天倒地（歌曲名）"
+      "adj. 颠倒的，相反的；乱七八糟的，混乱的"
     ],
     "start": 319.16,
     "end": 320.36,
-    "book_page": null,
+    "book_page": 279,
     "heard": "topsy",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "obsess",
@@ -1641,9 +1665,10 @@
   {
     "word": "slouch",
     "ipa": "[slaʊtʃ]",
-    "definition": "n. 没精打采的样子 没精打采地坐（站、走）",
+    "definition": "n. 没精打采的样子\nv. 没精打采地坐（站、走）",
     "definitions": [
-      "n. 没精打采的样子 没精打采地坐（站、走）"
+      "n. 没精打采的样子",
+      "v. 没精打采地坐（站、走）"
     ],
     "start": 325.5,
     "end": 326.36,
@@ -1711,9 +1736,10 @@
   {
     "word": "carp",
     "ipa": "[kɑːrp]",
-    "definition": "n. 鲤鱼 吹毛求疵",
+    "definition": "n. 鲤鱼\nv. 吹毛求疵",
     "definitions": [
-      "n. 鲤鱼 吹毛求疵"
+      "n. 鲤鱼",
+      "v. 吹毛求疵"
     ],
     "start": 338.69,
     "end": 339.39,
@@ -1723,28 +1749,26 @@
     "source": "gre_book"
   },
   {
-    "word": "time",
-    "ipa": "[taɪm]",
-    "definition": "n. （以分钟、小时、天等计量的）时间；（钟表上的）时刻；（世界各地不同的）计时体系；（某事发生或应该发生的）时候；一段时间，某段日子；规定时间，可用时间；时代，时期；时光，岁月；生命（期），期限；次，回；倍；完成（竞赛等）的时间；（棒球，美橄）暂停；拍子，节奏；（用于报刊名）时报；<英>（酒吧）打烊时间；刑期；服役期；计时工资率；分娩时间；学徒期",
+    "word": "timeworn",
+    "ipa": "[ˈtaɪmwɔːrn]",
+    "definition": "adj. 陈旧的，陈腐的",
     "definitions": [
-      "n. （以分钟、小时、天等计量的）时间；（钟表上的）时刻；（世界各地不同的）计时体系；（某事发生或应该发生的）时候；一段时间，某段日子；规定时间，可用时间；时代，时期；时光，岁月；生命（期），期限；次，回；倍；完成（竞赛等）的时间；（棒球，美橄）暂停；拍子，节奏；（用于报刊名）时报；<英>（酒吧）打烊时间；刑期；服役期；计时工资率；分娩时间；学徒期",
-      "v. 为……安排时间；把握（击球、射门等）的时机；为……计时，测定……所需的时间",
-      "conj. 乘以",
-      "adj. 定时的，定期的，分期的"
+      "adj. 陈旧的，陈腐的"
     ],
     "start": 340.76,
     "end": 341.7,
-    "book_page": null,
+    "book_page": 280,
     "heard": "time",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "crook",
     "ipa": "[krʊk]",
-    "definition": "v. 使弯曲 钩状物",
+    "definition": "v. 使弯曲\nn. 钩状物",
     "definitions": [
-      "v. 使弯曲 钩状物"
+      "v. 使弯曲",
+      "n. 钩状物"
     ],
     "start": 344.04,
     "end": 345.12,
@@ -1796,32 +1820,32 @@
     "source": "gre_book"
   },
   {
-    "word": "sheer",
+    "word": "shear",
     "ipa": "[ʃɪr]",
-    "definition": "adj. 完全的；陡峭的；极薄的",
+    "definition": "v. 剪（羊毛），剪发",
     "definitions": [
-      "adj. 完全的；陡峭的；极薄的"
+      "v. 剪（羊毛），剪发"
     ],
     "start": 354.57,
     "end": 355.77,
-    "book_page": 162,
+    "book_page": 280,
     "heard": "sheer",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "winkle",
-    "ipa": "[ˈwɪkl]",
-    "definition": "v. 挑出，剔出，取出",
+    "word": "rankle",
+    "ipa": "[ˈrækl]",
+    "definition": "v. 怨恨；激怒",
     "definitions": [
-      "v. 挑出，剔出，取出"
+      "v. 怨恨；激怒"
     ],
     "start": 357.67,
     "end": 358.37,
-    "book_page": 400,
+    "book_page": 280,
     "heard": "wrinkle",
-    "match": "fuzzy",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "lapse",
@@ -1880,27 +1904,26 @@
     "source": "gre_book"
   },
   {
-    "word": "bore",
-    "ipa": "[bɔː(r)]",
-    "definition": "v. 使厌烦，使讨厌；钻（孔），挖（洞）\nn. 令人讨厌的人；使人厌烦的事",
+    "word": "boor",
+    "ipa": "[bʊr]",
+    "definition": "n. 粗野的人；农民",
     "definitions": [
-      "v. 使厌烦，使讨厌；钻（孔），挖（洞）；盯着看",
-      "n. 令人讨厌的人；使人厌烦的事；内径，口径；探孔，钻孔；涌潮，激潮",
-      "n. 【名】 （法）博尔，（塞、马里）博雷（人名）"
+      "n. 粗野的人；农民"
     ],
     "start": 370.08,
     "end": 371.36,
-    "book_page": null,
+    "book_page": 280,
     "heard": "bore",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "mollycoddle",
     "ipa": "[ˈmɑːlikɑːdl]",
-    "definition": "v. 过分爱惜，娇惯 娇生惯养的人",
+    "definition": "v. 过分爱惜，娇惯\nn. 娇生惯养的人",
     "definitions": [
-      "v. 过分爱惜，娇惯 娇生惯养的人"
+      "v. 过分爱惜，娇惯",
+      "n. 娇生惯养的人"
     ],
     "start": 373.12,
     "end": 374.52,
@@ -1910,21 +1933,18 @@
     "source": "gre_book"
   },
   {
-    "word": "high",
+    "word": "hie",
     "ipa": "[haɪ]",
-    "definition": "adj. 高的；富含……的；重要的；先进的，高级的；崇高的；高音的，声音尖锐的；兴高采烈的；喝醉了的，（吸毒后）极度兴奋的；十分赞同的，非常尊敬的；中间的，全盛的；开始变质的，开始发馊的；（宗教或政治观点）极端的，偏激的；（元音）舌位高的",
+    "definition": "v. 疾走，快速",
     "definitions": [
-      "adj. 高的；富含……的；重要的；先进的，高级的；崇高的；高音的，声音尖锐的；兴高采烈的；喝醉了的，（吸毒后）极度兴奋的；十分赞同的，非常尊敬的；中间的，全盛的；开始变质的，开始发馊的；（宗教或政治观点）极端的，偏激的；（元音）舌位高的",
-      "n. 最高水平，最大数量；兴奋，高兴；高气压区；（毒品引致的）快感；高中，中学；强档；高音，高音符",
-      "adv. （成本、价值、音量）高，（数量）大；在高处，向高处",
-      "n. 【名】 （英）海伊（人名）"
+      "v. 疾走，快速"
     ],
     "start": 375.76,
     "end": 376.82,
-    "book_page": null,
+    "book_page": 280,
     "heard": "high",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "ribald",
@@ -1984,7 +2004,7 @@
   },
   {
     "word": "affix",
-    "ipa": "[əˈfɪks]",
+    "ipa": "[əˈfɪks]（v.）/[ˈæfɪks]（n.）",
     "definition": "v. 使固定，粘上；可固定\nn. 词缀；附加物",
     "definitions": [
       "v. 使固定，粘上；可固定",
@@ -2028,9 +2048,10 @@
   {
     "word": "daredevil",
     "ipa": "[ˈderdevl]",
-    "definition": "adj. 胆大的，冒失的 胆大的人，冒失的人",
+    "definition": "adj. 胆大的，冒失的\nn. 胆大的人，冒失的人",
     "definitions": [
-      "adj. 胆大的，冒失的 胆大的人，冒失的人"
+      "adj. 胆大的，冒失的",
+      "n. 胆大的人，冒失的人"
     ],
     "start": 398.76,
     "end": 400.84,

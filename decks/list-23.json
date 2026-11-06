@@ -198,9 +198,10 @@
   {
     "word": "flounder",
     "ipa": "[ˈflaʊndər]",
-    "definition": "v. 挣扎；艰苦地移动 比目鱼",
+    "definition": "v. 挣扎；艰苦地移动\nn. 比目鱼",
     "definitions": [
-      "v. 挣扎；艰苦地移动 比目鱼"
+      "v. 挣扎；艰苦地移动",
+      "n. 比目鱼"
     ],
     "start": 43.28,
     "end": 45.0,
@@ -294,37 +295,32 @@
     "source": "gre_book"
   },
   {
-    "word": "raise",
+    "word": "raze",
     "ipa": "[reɪz]",
-    "definition": "v. 提起，举起；（使）直立，站立\nn. <美>加薪；（扑克牌或勃莱格牌用语）赌注加码",
+    "definition": "v. 夷为平地；彻底破坏",
     "definitions": [
-      "v. 提起，举起；（使）直立，站立；建造，树立（塑像等）；增加，提高；筹募，征集；提出，提起；引起，使出现；饲养，种植；抚养，养育；使自乘……次；比（对手）多下赌注；叫醒；使复活；终止，解除；与……取得联系；（海上人员）驶近能看见（陆地或其他船只）的地方；（免疫）刺激（抗血清、抗体等的）生成",
-      "n. <美>加薪；（扑克牌或勃莱格牌用语）赌注加码；（举重）（持杠铃时的）提，举",
-      "n. 【名】 （意、法、英、美）雷兹（人名）"
+      "v. 夷为平地；彻底破坏"
     ],
     "start": 61.42,
     "end": 63.96,
-    "book_page": null,
+    "book_page": 255,
     "heard": "raise",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "off",
-    "ipa": "[ɒf]",
-    "definition": "adv. 离开（某处），（在时间或空间上）距，离；从……移开，从……脱离；不再会发生，被取消；关掉，切断；没有，不再供应；不上课，不工作，休息；削价，减价；入睡；做完，光；获得，拥有；<英>（接在数词后）一次的产量；在剧院舞台的后面（或旁边）",
+    "word": "off-key",
+    "ipa": "[ˌɔːfˈkiː]",
+    "definition": "adj. 走调的，不和谐的",
     "definitions": [
-      "adv. 离开（某处），（在时间或空间上）距，离；从……移开，从……脱离；不再会发生，被取消；关掉，切断；没有，不再供应；不上课，不工作，休息；削价，减价；入睡；做完，光；获得，拥有；<英>（接在数词后）一次的产量；在剧院舞台的后面（或旁边）",
-      "prep. 从……离开，向下；靠近，离……不远；从……去掉，从……移开；低于……水平；远离；不上课，不工作，休息；依靠……（过活）；（表示来源或原因）来自，由于",
-      "adj. （食物）不新鲜的；<非正式>令人不快的，不公平的；<英，非正式>不友好的，敌对的；状态不如平常好的；<美>不正确的，不对的；微小的；不连接的，不盖在上面的；萧条的，淡季的；离开家的，不工作的；不运转的，不运作的；<英>（一对之中）右边的，右侧的；（某些体育比赛）越位的；在车辆离人行道边缘最远的一侧的",
-      "n. 起跑，开始，出发；（板球）击球手对面的半场"
+      "adj. 走调的，不和谐的"
     ],
     "start": 63.96,
     "end": 66.54,
-    "book_page": null,
+    "book_page": 255,
     "heard": "off",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "impunity",
@@ -537,25 +533,26 @@
     "source": "gre_book"
   },
   {
-    "word": "voracious",
+    "word": "veracious",
     "ipa": "[vəˈreɪʃəs]",
-    "definition": "adj. 狼吞虎咽的，贪吃的；贪婪的，贪得无厌的",
+    "definition": "adj. 诚实的，说真话的",
     "definitions": [
-      "adj. 狼吞虎咽的，贪吃的；贪婪的，贪得无厌的"
+      "adj. 诚实的，说真话的"
     ],
     "start": 109.42,
     "end": 111.16,
-    "book_page": 134,
+    "book_page": 256,
     "heard": "voracious",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "poise",
     "ipa": "[pɔɪz]",
-    "definition": "v. 使平衡 泰然自若，沉着自信",
+    "definition": "v. 使平衡\nn. 泰然自若，沉着自信",
     "definitions": [
-      "v. 使平衡 泰然自若，沉着自信"
+      "v. 使平衡",
+      "n. 泰然自若，沉着自信"
     ],
     "start": 113.38,
     "end": 114.78,
@@ -637,9 +634,10 @@
   {
     "word": "prostrate",
     "ipa": "[ˈprɑːstreɪt]",
-    "definition": "adj. 俯卧的；沮丧的 使下跪鞠躬，使拜服",
+    "definition": "adj. 俯卧的；沮丧的\nv. 使下跪鞠躬，使拜服",
     "definitions": [
-      "adj. 俯卧的；沮丧的 使下跪鞠躬，使拜服"
+      "adj. 俯卧的；沮丧的",
+      "v. 使下跪鞠躬，使拜服"
     ],
     "start": 128.51,
     "end": 131.07,
@@ -763,9 +761,10 @@
   {
     "word": "gush",
     "ipa": "[ɡʌʃ]",
-    "definition": "v. 涌出，迸出；滔滔不绝地说 涌出，迸发",
+    "definition": "v. 涌出，迸出；滔滔不绝地说\nn. 涌出，迸发",
     "definitions": [
-      "v. 涌出，迸出；滔滔不绝地说 涌出，迸发"
+      "v. 涌出，迸出；滔滔不绝地说",
+      "n. 涌出，迸发"
     ],
     "start": 153.77,
     "end": 155.39,
@@ -805,9 +804,10 @@
   {
     "word": "haunt",
     "ipa": "[hɔːnt]",
-    "definition": "v. （思想，回忆等）萦绕心头；经常去（某地）；（鬼魂）常出没于 常去的地方",
+    "definition": "v. （思想，回忆等）萦绕心头；经常去（某地）；（鬼魂）常出没于\nn. 常去的地方",
     "definitions": [
-      "v. （思想，回忆等）萦绕心头；经常去（某地）；（鬼魂）常出没于 常去的地方"
+      "v. （思想，回忆等）萦绕心头；经常去（某地）；（鬼魂）常出没于",
+      "n. 常去的地方"
     ],
     "start": 163.04,
     "end": 164.44,
@@ -845,18 +845,18 @@
     "source": "gre_book"
   },
   {
-    "word": "serval",
-    "ipa": "[ˈsɜːv(ə)l]",
-    "definition": "n. 薮猫；人名；（法）塞瓦尔",
+    "word": "servile",
+    "ipa": "[ˈsɜːrvl]",
+    "definition": "adj. 奴性的，百依百顺的",
     "definitions": [
-      "n. 薮猫；人名；（法）塞瓦尔"
+      "adj. 奴性的，百依百顺的"
     ],
     "start": 170.45,
     "end": 172.39,
-    "book_page": null,
+    "book_page": 258,
     "heard": "serval",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "infirm",
@@ -959,9 +959,10 @@
   {
     "word": "clog",
     "ipa": "[klɑːɡ]",
-    "definition": "v. 阻塞 障碍",
+    "definition": "v. 阻塞\nn. 障碍",
     "definitions": [
-      "v. 阻塞 障碍"
+      "v. 阻塞",
+      "n. 障碍"
     ],
     "start": 193.15,
     "end": 194.23,
@@ -1071,16 +1072,16 @@
   {
     "word": "imposter",
     "ipa": "[ɪmˈpɒstə]",
-    "definition": "n. 骗子，冒名顶替者；（心理学，固定搭配，常写作 ）冒充者综合征，指持续怀疑自身能力、担心被揭穿为“冒牌货”的心理现象。",
+    "definition": "n. 冒充者，骗子",
     "definitions": [
-      "n. 骗子，冒名顶替者；（心理学，固定搭配，常写作 ）冒充者综合征，指持续怀疑自身能力、担心被揭穿为“冒牌货”的心理现象。"
+      "n. 冒充者，骗子"
     ],
     "start": 215.91,
     "end": 217.31,
     "book_page": null,
     "heard": "imposter",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "tribulation",
@@ -1113,9 +1114,10 @@
   {
     "word": "taunt",
     "ipa": "[tɔːnt]",
-    "definition": "n. 嘲笑，讥讽 嘲弄，嘲讽",
+    "definition": "n. 嘲笑，讥讽\nv. 嘲弄，嘲讽",
     "definitions": [
-      "n. 嘲笑，讥讽 嘲弄，嘲讽"
+      "n. 嘲笑，讥讽",
+      "v. 嘲弄，嘲讽"
     ],
     "start": 224.32,
     "end": 225.66,
@@ -1155,9 +1157,10 @@
   {
     "word": "designate",
     "ipa": "[ˈdezɪɡneɪt]",
-    "definition": "v. 指定，任命；指明，指出 （已受委派）尚未上任的",
+    "definition": "v. 指定，任命；指明，指出\nadj. （已受委派）尚未上任的",
     "definitions": [
-      "v. 指定，任命；指明，指出 （已受委派）尚未上任的"
+      "v. 指定，任命；指明，指出",
+      "adj. （已受委派）尚未上任的"
     ],
     "start": 231.02,
     "end": 233.82,
@@ -1195,20 +1198,18 @@
     "source": "gre_book"
   },
   {
-    "word": "might",
+    "word": "mite",
     "ipa": "[maɪt]",
-    "definition": "v. 可能，可以；（表示可能性）可能，也许\nn. 强大力量，威力",
+    "definition": "n. 极小量；小虫",
     "definitions": [
-      "v. 可能，可以；（表示可能性）可能，也许；（用于礼貌地建议）可以，也许；（对某人未做某事表示不满）应该；也许，可能（表示某情况属实，另一情况也属实）；可以，能（用于说明目的）；究竟，到底；可以，能够（预料）；我可以这么说（表示强调接下来的陈述）；好像，似乎；也许不会/也许永远不会做某事；用于礼貌地谈论某人或某事物",
-      "n. 强大力量，威力",
-      "n. （美）迈特（人名）"
+      "n. 极小量；小虫"
     ],
     "start": 239.21,
     "end": 241.67,
-    "book_page": null,
+    "book_page": 259,
     "heard": "might",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "impute",
@@ -1477,32 +1478,32 @@
     "source": "gre_book"
   },
   {
-    "word": "vane",
-    "ipa": "[veɪn]",
-    "definition": "n. （机械）叶片，轮叶；（气象）风向标，风信旗；（鸟类学）羽片；（军械）导向片，稳定翼；人名（姓氏）",
+    "word": "vainglory",
+    "ipa": "[ˌveɪnˈɡlɔːri]",
+    "definition": "n. 自负；虚荣",
     "definitions": [
-      "n. （机械）叶片，轮叶；（气象）风向标，风信旗；（鸟类学）羽片；（军械）导向片，稳定翼；人名（姓氏）"
+      "n. 自负；虚荣"
     ],
     "start": 294.4,
     "end": 297.0,
-    "book_page": null,
+    "book_page": 260,
     "heard": "vane",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "discomfort",
-    "ipa": "[dɪsˈkʌmfərt]",
-    "definition": "v. 使不适 不适",
+    "word": "discomfit",
+    "ipa": "[dɪsˈkʌmfɪt]",
+    "definition": "v. 使难堪，使困惑",
     "definitions": [
-      "v. 使不适 不适"
+      "v. 使难堪，使困惑"
     ],
     "start": 297.76,
     "end": 300.16,
-    "book_page": 371,
+    "book_page": 260,
     "heard": "discomfort",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "beleaguer",
@@ -1645,18 +1646,18 @@
     "source": "gre_book"
   },
   {
-    "word": "impune",
-    "ipa": "/impune/",
-    "definition": "adj. 未受惩罚的",
+    "word": "impugn",
+    "ipa": "[ɪmˈpjuːn]",
+    "definition": "v. 提出异议，对……表示怀疑",
     "definitions": [
-      "adj. 未受惩罚的"
+      "v. 提出异议，对……表示怀疑"
     ],
     "start": 329.38,
     "end": 330.78,
-    "book_page": null,
+    "book_page": 261,
     "heard": "impune",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "sequester",
@@ -1743,18 +1744,18 @@
     "source": "gre_book"
   },
   {
-    "word": "ample",
-    "ipa": "[ˈæmpl]",
-    "definition": "adj. 富足的；充足的",
+    "word": "amble",
+    "ipa": "[ˈæmbl]",
+    "definition": "v. 缓行，漫步",
     "definitions": [
-      "adj. 富足的；充足的"
+      "v. 缓行，漫步"
     ],
     "start": 348.85,
     "end": 349.99,
-    "book_page": 158,
+    "book_page": 262,
     "heard": "ample",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "stipulate",
@@ -1786,7 +1787,7 @@
   },
   {
     "word": "commingle",
-    "ipa": "[kəˈmɪɡl]",
+    "ipa": "[kəˈmɪŋɡ(ə)l]",
     "definition": "v. 掺和，混合",
     "definitions": [
       "v. 掺和，混合"
@@ -1814,11 +1815,10 @@
   },
   {
     "word": "amicable",
-    "ipa": "[ˈtɔːrtʃuəs]",
+    "ipa": "[ˈæmɪkəb(ə)l]",
     "definition": "adj. 友好的",
     "definitions": [
-      "adj. 友好的",
-      "adj. 曲折的，拐弯抹角的；弯弯曲曲的"
+      "adj. 友好的"
     ],
     "start": 363.08,
     "end": 363.78,
@@ -1870,20 +1870,18 @@
     "source": "gre_book"
   },
   {
-    "word": "prize",
-    "ipa": "[praɪz]",
-    "definition": "n. 奖品，奖项；非常珍贵的人（或物），十分重要的人（或物）\nadj. 可获奖的，优等的；作为奖品的\nv. 珍视，高度重视；<美>撬开",
+    "word": "apprise",
+    "ipa": "[əˈpraɪz]",
+    "definition": "v. 通知，告知",
     "definitions": [
-      "n. 奖品，奖项；非常珍贵的人（或物），十分重要的人（或物）；<史>（海战中）缴获的敌船",
-      "adj. 可获奖的，优等的；作为奖品的；获奖的；有奖的；<英，非正式>完全的；非常重要的，珍贵的",
-      "v. 珍视，高度重视；<美>撬开；竭力打探（消息等）"
+      "v. 通知，告知"
     ],
     "start": 374.65,
     "end": 375.35,
-    "book_page": null,
+    "book_page": 262,
     "heard": "prize",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "eschew",
@@ -1970,20 +1968,18 @@
     "source": "gre_book"
   },
   {
-    "word": "cherry",
+    "word": "chary",
     "ipa": "[ˈtʃeri]",
-    "definition": "n. 樱桃；樱桃树\nadj. 樱桃色的，鲜红色的",
+    "definition": "adj. 小心的，审慎的",
     "definitions": [
-      "n. 樱桃；樱桃树；樱桃木；樱桃色，鲜红色；果实与樱桃相似的植物；<非正式>童贞",
-      "adj. 樱桃色的，鲜红色的",
-      "n. 【名】 （法、阿拉伯）谢里，（英）彻丽（女子教名 的昵称）（人名）"
+      "adj. 小心的，审慎的"
     ],
     "start": 393.75,
     "end": 394.93,
-    "book_page": null,
+    "book_page": 263,
     "heard": "cherry",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "hypocritical",
@@ -2058,9 +2054,10 @@
   {
     "word": "pinpoint",
     "ipa": "[ˈpɪnpɔɪnt]",
-    "definition": "v. 准确地确定；使突出，引起注意 极精确的",
+    "definition": "v. 准确地确定；使突出，引起注意\nadj. 极精确的",
     "definitions": [
-      "v. 准确地确定；使突出，引起注意 极精确的"
+      "v. 准确地确定；使突出，引起注意",
+      "adj. 极精确的"
     ],
     "start": 409.54,
     "end": 410.94,

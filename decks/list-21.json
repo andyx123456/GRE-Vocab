@@ -70,20 +70,18 @@
     "source": "gre_book"
   },
   {
-    "word": "far",
-    "ipa": "[fɑː(r)]",
-    "definition": "adv. 远，遥远地；久远地；非常，很大程度上；发展，进展（到）；过分地",
+    "word": "far-reaching",
+    "ipa": "[ˌfɑːˈriːtʃɪŋ]",
+    "definition": "adj. 影响深远的",
     "definitions": [
-      "adv. 远，遥远地；久远地；非常，很大程度上；发展，进展（到）；过分地",
-      "adj. 遥远的，久远的；另一边的，较远的；偏远的，极端的",
-      "n. 【名】 （德、西、塞）法尔（人名）"
+      "adj. 影响深远的"
     ],
     "start": 18.94,
     "end": 19.64,
-    "book_page": null,
+    "book_page": 234,
     "heard": "far",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "tangential",
@@ -142,11 +140,26 @@
     "source": "gre_book"
   },
   {
+    "word": "haughty",
+    "ipa": "[ˈhɔːti]",
+    "definition": "adj. 傲慢的，自大的",
+    "definitions": [
+      "adj. 傲慢的，自大的"
+    ],
+    "start": 32.8,
+    "end": 34.4,
+    "book_page": 234,
+    "heard": "haughty",
+    "match": "manual",
+    "source": "manual"
+  },
+  {
     "word": "derelict",
     "ipa": "[ˈderəlɪkt]",
-    "definition": "adj. 荒废的；玩忽职守的；疏忽的 被遗弃的人",
+    "definition": "adj. 荒废的；玩忽职守的；疏忽的\nn. 被遗弃的人",
     "definitions": [
-      "adj. 荒废的；玩忽职守的；疏忽的 被遗弃的人"
+      "adj. 荒废的；玩忽职守的；疏忽的",
+      "n. 被遗弃的人"
     ],
     "start": 35.85,
     "end": 36.67,
@@ -154,6 +167,20 @@
     "heard": "derelict",
     "match": "exact",
     "source": "gre_book"
+  },
+  {
+    "word": "immature",
+    "ipa": "[ˌɪməˈtʃʊr]",
+    "definition": "adj. 未充分成长的，未完全发展的；（行为等）不成熟的",
+    "definitions": [
+      "adj. 未充分成长的，未完全发展的；（行为等）不成熟的"
+    ],
+    "start": 38.0,
+    "end": 39.6,
+    "book_page": 234,
+    "heard": "immature",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "provoke",
@@ -170,6 +197,21 @@
     "source": "gre_book"
   },
   {
+    "word": "scourge",
+    "ipa": "[skɜːrdʒ]",
+    "definition": "n. 鞭笞；磨难\nv. 鞭笞；磨难",
+    "definitions": [
+      "n. 鞭笞；磨难",
+      "v. 鞭笞；磨难"
+    ],
+    "start": 43.5,
+    "end": 45.1,
+    "book_page": 235,
+    "heard": "scourge",
+    "match": "manual",
+    "source": "manual"
+  },
+  {
     "word": "connive",
     "ipa": "[kəˈnaɪv]",
     "definition": "v. 默许；纵容；共谋",
@@ -182,6 +224,20 @@
     "heard": "connaive",
     "match": "fuzzy",
     "source": "gre_book"
+  },
+  {
+    "word": "towering",
+    "ipa": "[ˈtaʊərɪŋ]",
+    "definition": "adj. 高耸的；杰出的",
+    "definitions": [
+      "adj. 高耸的；杰出的"
+    ],
+    "start": 48.9,
+    "end": 50.5,
+    "book_page": 235,
+    "heard": "towering",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "resuscitate",
@@ -212,21 +268,18 @@
     "source": "gre_book"
   },
   {
-    "word": "wrong",
-    "ipa": "[rɒŋ]",
-    "definition": "adj. 错误的，不合乎事实的；（状况）有问题的，（身体）有毛病的；（决定、选择、行动等）错误的；（言论或想法）错的；不道德的，不能被社会所接受的；不合适的，不适宜的；（机器设备）出毛病的；上下（或前后、里外）颠倒的",
+    "word": "wrongheaded",
+    "ipa": "[ˌrɔːŋˈhedɪd]",
+    "definition": "adj. 坚持错误的，固执的",
     "definitions": [
-      "adj. 错误的，不合乎事实的；（状况）有问题的，（身体）有毛病的；（决定、选择、行动等）错误的；（言论或想法）错的；不道德的，不能被社会所接受的；不合适的，不适宜的；（机器设备）出毛病的；上下（或前后、里外）颠倒的",
-      "adv. 错误地，不符合事实地；（方式或方向）不适当地，不适宜地；出问题；不正当地",
-      "n. 坏事，不道德行为， 错误的行为（或情况）；冤枉，不公平的行为",
-      "v. 不公正地对待，冤枉"
+      "adj. 坚持错误的，固执的"
     ],
     "start": 57.72,
     "end": 59.32,
-    "book_page": null,
+    "book_page": 235,
     "heard": "wrong",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "jeopardize",
@@ -341,18 +394,18 @@
     "source": "gre_book"
   },
   {
-    "word": "sparring",
-    "ipa": "[ˈspɑːri]",
-    "definition": "n. 拳击，争斗",
+    "word": "sparing",
+    "ipa": "[ˈsperɪŋ]",
+    "definition": "adj. 节俭的",
     "definitions": [
-      "n. 拳击，争斗"
+      "adj. 节俭的"
     ],
     "start": 86.08,
     "end": 86.88,
-    "book_page": 439,
+    "book_page": 236,
     "heard": "sparring",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "regenerate",
@@ -425,18 +478,18 @@
     "source": "gre_book"
   },
   {
-    "word": "totter",
-    "ipa": "[ˈtɑːtər]",
-    "definition": "v. 摇摇欲坠；步履蹒跚",
+    "word": "toady",
+    "ipa": "[ˈtoʊdi]",
+    "definition": "n. 谄媚者，马屁精",
     "definitions": [
-      "v. 摇摇欲坠；步履蹒跚"
+      "n. 谄媚者，马屁精"
     ],
     "start": 103.24,
     "end": 104.1,
-    "book_page": 446,
+    "book_page": 236,
     "heard": "totey",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "stint",
@@ -453,25 +506,26 @@
     "source": "gre_book"
   },
   {
-    "word": "dane",
+    "word": "deign",
     "ipa": "[deɪn]",
-    "definition": "n. 丹麦人；戴恩（男子名）；大丹犬，大丹狗（用于固定短语 ）",
+    "definition": "v. 惠允（做某事）；实惠于人",
     "definitions": [
-      "n. 丹麦人；戴恩（男子名）；大丹犬，大丹狗（用于固定短语 ）"
+      "v. 惠允（做某事）；实惠于人"
     ],
     "start": 108.33,
     "end": 109.03,
-    "book_page": null,
+    "book_page": 236,
     "heard": "dane",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "tint",
     "ipa": "[tɪnt]",
-    "definition": "n. 色泽 给…淡淡地着色；染",
+    "definition": "n. 色泽\nv. 给…淡淡地着色；染",
     "definitions": [
-      "n. 色泽 给…淡淡地着色；染"
+      "n. 色泽",
+      "v. 给…淡淡地着色；染"
     ],
     "start": 110.96,
     "end": 111.66,
@@ -483,9 +537,10 @@
   {
     "word": "default",
     "ipa": "[dɪˈfɔːlt]",
-    "definition": "n. 违约；未履行的责任；拖欠 不履行",
+    "definition": "n. 违约；未履行的责任；拖欠\nv. 不履行",
     "definitions": [
-      "n. 违约；未履行的责任；拖欠 不履行"
+      "n. 违约；未履行的责任；拖欠",
+      "v. 不履行"
     ],
     "start": 113.42,
     "end": 114.12,
@@ -553,9 +608,10 @@
   {
     "word": "asunder",
     "ipa": "[əˈsʌndər]",
-    "definition": "adj. 分离的（地）；化为碎片的（地）",
+    "definition": "adj. 分离的；化为碎片的\nadv. 分离地；化为碎片地",
     "definitions": [
-      "adj. 分离的（地）；化为碎片的（地）"
+      "adj. 分离的；化为碎片的",
+      "adv. 分离地；化为碎片地"
     ],
     "start": 125.33,
     "end": 128.05,
@@ -649,32 +705,32 @@
     "source": "gre_book"
   },
   {
-    "word": "religate",
-    "ipa": "/religate/",
-    "definition": "v. 再次绑扎（血管）；再次捆绑；再次约束",
+    "word": "relegate",
+    "ipa": "[ˈrelɪɡeɪt]",
+    "definition": "v. 使降级，贬谪；交付，托付",
     "definitions": [
-      "v. 再次绑扎（血管）；再次捆绑；再次约束"
+      "v. 使降级，贬谪；交付，托付"
     ],
     "start": 146.61,
     "end": 147.47,
-    "book_page": null,
+    "book_page": 237,
     "heard": "religate",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "gotti",
-    "ipa": "/gotti/",
-    "definition": "n. 人名；（法、意）戈蒂",
+    "word": "gaudy",
+    "ipa": "[ˈɡɔːdi]",
+    "definition": "adj. 俗丽的",
     "definitions": [
-      "n. 人名；（法、意）戈蒂"
+      "adj. 俗丽的"
     ],
     "start": 149.25,
     "end": 150.13,
-    "book_page": null,
+    "book_page": 237,
     "heard": "gotti",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "exonerate",
@@ -818,11 +874,10 @@
   },
   {
     "word": "penchant",
-    "ipa": "[ˌeɡoʊˈɪstɪk(l)]",
-    "definition": "n. 爱好，嗜好\nadj. 自我中心的，自私自利的",
+    "ipa": "[ˈpentʃənt]",
+    "definition": "n. 爱好，嗜好",
     "definitions": [
-      "n. 爱好，嗜好",
-      "adj. 自我中心的，自私自利的"
+      "n. 爱好，嗜好"
     ],
     "start": 179.9,
     "end": 180.62,
@@ -931,7 +986,7 @@
   },
   {
     "word": "obliging",
-    "ipa": "[əˈblaɪʤɪ]",
+    "ipa": "[əˈblaɪʤɪŋ]",
     "definition": "adj. 乐于助人的",
     "definitions": [
       "adj. 乐于助人的"
@@ -960,9 +1015,10 @@
   {
     "word": "jest",
     "ipa": "[ʤest]",
-    "definition": "n. 笑话，俏皮话 说笑，开玩笑",
+    "definition": "n. 笑话，俏皮话\nv. 说笑，开玩笑",
     "definitions": [
-      "n. 笑话，俏皮话 说笑，开玩笑"
+      "n. 笑话，俏皮话",
+      "v. 说笑，开玩笑"
     ],
     "start": 207.68,
     "end": 208.38,
@@ -1112,18 +1168,18 @@
     "source": "gre_book"
   },
   {
-    "word": "caval",
-    "ipa": "[kæˈvəl]",
-    "definition": "adj. （医学）腔静脉的，与腔静脉有关的",
+    "word": "cavil",
+    "ipa": "[ˈkævl]",
+    "definition": "v. 挑毛病，吹毛求疵",
     "definitions": [
-      "adj. （医学）腔静脉的，与腔静脉有关的"
+      "v. 挑毛病，吹毛求疵"
     ],
     "start": 237.92,
     "end": 238.62,
-    "book_page": null,
+    "book_page": 239,
     "heard": "caval",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "predetermine",
@@ -1142,9 +1198,10 @@
   {
     "word": "rave",
     "ipa": "[reɪv]",
-    "definition": "n. 热切赞扬 胡言乱语，说疯语",
+    "definition": "n. 热切赞扬\nv. 胡言乱语，说疯语",
     "definitions": [
-      "n. 热切赞扬 胡言乱语，说疯语"
+      "n. 热切赞扬",
+      "v. 胡言乱语，说疯语"
     ],
     "start": 243.5,
     "end": 244.2,
@@ -1198,9 +1255,10 @@
   {
     "word": "graft",
     "ipa": "[ɡræft]",
-    "definition": "v. 嫁接，结合；贪污 嫁接，结合；贪污",
+    "definition": "v. 嫁接，结合；贪污\nn. 嫁接，结合；贪污",
     "definitions": [
-      "v. 嫁接，结合；贪污 嫁接，结合；贪污"
+      "v. 嫁接，结合；贪污",
+      "n. 嫁接，结合；贪污"
     ],
     "start": 254.84,
     "end": 255.6,
@@ -1310,9 +1368,10 @@
   {
     "word": "hypnotic",
     "ipa": "[hɪpˈnɑːtɪk]",
-    "definition": "adj. 催眠的 催眠药",
+    "definition": "adj. 催眠的\nn. 催眠药",
     "definitions": [
-      "adj. 催眠的 催眠药"
+      "adj. 催眠的",
+      "n. 催眠药"
     ],
     "start": 277.78,
     "end": 279.18,
@@ -1380,9 +1439,10 @@
   {
     "word": "scorn",
     "ipa": "[skɔːrn]",
-    "definition": "n. 轻蔑 轻蔑，瞧不起",
+    "definition": "n. 轻蔑\nv. 轻蔑，瞧不起",
     "definitions": [
-      "n. 轻蔑 轻蔑，瞧不起"
+      "n. 轻蔑",
+      "v. 轻蔑，瞧不起"
     ],
     "start": 291.72,
     "end": 292.42,
@@ -1548,9 +1608,10 @@
   {
     "word": "exempt",
     "ipa": "[ɪɡˈzempt]",
-    "definition": "adj. 被免除的，被豁免的 免除，豁免",
+    "definition": "adj. 被免除的，被豁免的\nv. 免除，豁免",
     "definitions": [
-      "adj. 被免除的，被豁免的 免除，豁免"
+      "adj. 被免除的，被豁免的",
+      "v. 免除，豁免"
     ],
     "start": 324.57,
     "end": 325.35,
@@ -1576,9 +1637,10 @@
   {
     "word": "humble",
     "ipa": "[ˈhʌmbl]",
-    "definition": "adj. 卑微的；谦虚的 使谦卑",
+    "definition": "adj. 卑微的；谦虚的\nv. 使谦卑",
     "definitions": [
-      "adj. 卑微的；谦虚的 使谦卑"
+      "adj. 卑微的；谦虚的",
+      "v. 使谦卑"
     ],
     "start": 329.82,
     "end": 330.52,
@@ -1688,9 +1750,10 @@
   {
     "word": "tarnish",
     "ipa": "[ˈtɑːrnɪʃ]",
-    "definition": "v. 失去光泽，晦暗 晦暗，无光泽",
+    "definition": "v. 失去光泽，晦暗\nn. 晦暗，无光泽",
     "definitions": [
-      "v. 失去光泽，晦暗 晦暗，无光泽"
+      "v. 失去光泽，晦暗",
+      "n. 晦暗，无光泽"
     ],
     "start": 351.52,
     "end": 352.22,
@@ -1798,18 +1861,18 @@
     "source": "gre_book"
   },
   {
-    "word": "unwanted",
-    "ipa": "[ˌʌnˈwɒntɪd]",
-    "definition": "adj. 不需要的，不想要的，没人要的",
+    "word": "unwonted",
+    "ipa": "[ʌnˈwɒntɪd]",
+    "definition": "adj. 不寻常的，不习惯的",
     "definitions": [
-      "adj. 不需要的，不想要的，没人要的"
+      "adj. 不寻常的，不习惯的"
     ],
     "start": 373.44,
     "end": 374.22,
-    "book_page": null,
+    "book_page": 242,
     "heard": "unwanted",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "stride",
@@ -1828,9 +1891,10 @@
   {
     "word": "insurgent",
     "ipa": "[ɪnˈsɜːrʤənt]",
-    "definition": "adj. 叛乱的，起义的 叛乱分子",
+    "definition": "adj. 叛乱的，起义的\nn. 叛乱分子",
     "definitions": [
-      "adj. 叛乱的，起义的 叛乱分子"
+      "adj. 叛乱的，起义的",
+      "n. 叛乱分子"
     ],
     "start": 378.57,
     "end": 379.97,
@@ -1869,8 +1933,8 @@
   },
   {
     "word": "incense",
-    "ipa": "[ˈɪnsens]",
-    "definition": "n. 香（树脂、香料等燃烧可得香气的物质）；焚香时的烟，香气\nv. 熏香；激怒",
+    "ipa": "[ˈɪnsens]（n.）/[ɪnˈsens]（v.）",
+    "definition": "n. 香（树脂、香料等燃烧可得香气的物质）；焚香时的烟，香气；奉承\nv. 熏香；激怒",
     "definitions": [
       "n. 香（树脂、香料等燃烧可得香气的物质）；焚香时的烟，香气；奉承",
       "v. 熏香；激怒"
@@ -1913,9 +1977,10 @@
   {
     "word": "solvent",
     "ipa": "[ˈsɑːlvənt]",
-    "definition": "adj. 有偿债能力的 溶剂",
+    "definition": "adj. 有偿债能力的\nn. 溶剂",
     "definitions": [
-      "adj. 有偿债能力的 溶剂"
+      "adj. 有偿债能力的",
+      "n. 溶剂"
     ],
     "start": 398.22,
     "end": 398.92,

@@ -100,9 +100,10 @@
   {
     "word": "plod",
     "ipa": "[plɑːd]",
-    "definition": "v. 沉重地走；辛勤工作 艰难行进",
+    "definition": "v. 沉重地走；辛勤工作\nn. 艰难行进",
     "definitions": [
-      "v. 沉重地走；辛勤工作 艰难行进"
+      "v. 沉重地走；辛勤工作",
+      "n. 艰难行进"
     ],
     "start": 24.96,
     "end": 26.3,
@@ -212,9 +213,10 @@
   {
     "word": "scruple",
     "ipa": "[ˈskruːpl]",
-    "definition": "n. 顾忌，迟疑 顾忌",
+    "definition": "n. 顾忌，迟疑\nv. 顾忌",
     "definitions": [
-      "n. 顾忌，迟疑 顾忌"
+      "n. 顾忌，迟疑",
+      "v. 顾忌"
     ],
     "start": 47.32,
     "end": 48.64,
@@ -448,19 +450,18 @@
     "source": "gre_book"
   },
   {
-    "word": "rye",
+    "word": "wry",
     "ipa": "[raɪ]",
-    "definition": "n. 黑麦，裸麦；黑麦面包\nadj. 用黑麦制成的，黑麦的",
+    "definition": "adj. 扭曲的，歪曲的；嘲弄的，讽刺的",
     "definitions": [
-      "n. 黑麦，裸麦；黑麦面包；黑麦威士忌；<方>吉卜赛绅士；赖伊（英语人名）；英国东萨塞克斯郡拉伊",
-      "adj. 用黑麦制成的，黑麦的"
+      "adj. 扭曲的，歪曲的；嘲弄的，讽刺的"
     ],
     "start": 94.96,
     "end": 95.86,
     "book_page": null,
     "heard": "rye",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "stale",
@@ -519,19 +520,18 @@
     "source": "gre_book"
   },
   {
-    "word": "hairy",
-    "ipa": "[ˈheəri]",
-    "definition": "adj. 多毛的；<非正式>惊险的，吓人的",
+    "word": "harry",
+    "ipa": "[ˈhæri]",
+    "definition": "v. 掠夺；袭扰；折磨",
     "definitions": [
-      "adj. 多毛的；<非正式>惊险的，吓人的",
-      "n. 【名】 （法）艾里（人名）"
+      "v. 掠夺；袭扰；折磨"
     ],
     "start": 108.95,
     "end": 109.65,
     "book_page": null,
     "heard": "hairy",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "prosperous",
@@ -816,9 +816,10 @@
   {
     "word": "trickle",
     "ipa": "[ˈtrɪkl]",
-    "definition": "v. 细细地流 细流",
+    "definition": "v. 细细地流\nn. 细流",
     "definitions": [
-      "v. 细细地流 细流"
+      "v. 细细地流",
+      "n. 细流"
     ],
     "start": 167.15,
     "end": 168.65,
@@ -828,18 +829,18 @@
     "source": "gre_book"
   },
   {
-    "word": "discreet",
+    "word": "discrete",
     "ipa": "[dɪˈskriːt]",
-    "definition": "adj. 小心的，言行谨慎的",
+    "definition": "adj. 个别的，分离的；不连续的",
     "definitions": [
-      "adj. 小心的，言行谨慎的"
+      "adj. 个别的，分离的；不连续的"
     ],
     "start": 169.65,
     "end": 171.15,
     "book_page": 90,
     "heard": "discreet",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "allegory",
@@ -858,9 +859,10 @@
   {
     "word": "fallow",
     "ipa": "[ˈfæloʊ]",
-    "definition": "n. 休耕地 休耕的",
+    "definition": "n. 休耕地\nadj. 休耕的",
     "definitions": [
-      "n. 休耕地 休耕的"
+      "n. 休耕地",
+      "adj. 休耕的"
     ],
     "start": 175.14,
     "end": 176.88,
@@ -998,9 +1000,10 @@
   {
     "word": "institute",
     "ipa": "[ˈɪnstɪtuːt]",
-    "definition": "v. 设立，创立（社团等）；制定（政策等） 学院，学会，协会",
+    "definition": "v. 设立，创立（社团等）；制定（政策等）\nn. 学院，学会，协会",
     "definitions": [
-      "v. 设立，创立（社团等）；制定（政策等） 学院，学会，协会"
+      "v. 设立，创立（社团等）；制定（政策等）",
+      "n. 学院，学会，协会"
     ],
     "start": 203.7,
     "end": 205.1,
@@ -1181,9 +1184,10 @@
   {
     "word": "stem",
     "ipa": "[stem]",
-    "definition": "n. （植物的）茎，叶柄 阻止，遏制（水流等）",
+    "definition": "n. （植物的）茎，叶柄\nv. 阻止，遏制（水流等）",
     "definitions": [
-      "n. （植物的）茎，叶柄 阻止，遏制（水流等）"
+      "n. （植物的）茎，叶柄",
+      "v. 阻止，遏制（水流等）"
     ],
     "start": 240.86,
     "end": 241.92,
@@ -1279,9 +1283,10 @@
   {
     "word": "buttress",
     "ipa": "[ˈbʌtrəs]",
-    "definition": "n. 拱墙，拱壁 支持",
+    "definition": "n. 拱墙，拱壁\nv. 支持",
     "definitions": [
-      "n. 拱墙，拱壁 支持"
+      "n. 拱墙，拱壁",
+      "v. 支持"
     ],
     "start": 259.6,
     "end": 261.28,
@@ -1361,18 +1366,18 @@
     "source": "gre_book"
   },
   {
-    "word": "urn",
-    "ipa": "[ɜːn]",
-    "definition": "n. 大瓮，大缸（通常带底座或支脚的较大容器，可作装饰）；骨灰瓮，骨灰坛，骨灰盒（盛放死者骨灰的容器）；大茶水壶，保温茶桶（金属制，用于大量冲泡并保温茶或咖啡的容器）；（诗/文）坟墓",
+    "word": "yearn",
+    "ipa": "[jɜːrn]",
+    "definition": "v. 盼望，渴望",
     "definitions": [
-      "n. 大瓮，大缸（通常带底座或支脚的较大容器，可作装饰）；骨灰瓮，骨灰坛，骨灰盒（盛放死者骨灰的容器）；大茶水壶，保温茶桶（金属制，用于大量冲泡并保温茶或咖啡的容器）；（诗/文）坟墓"
+      "v. 盼望，渴望"
     ],
     "start": 277.0,
     "end": 278.4,
     "book_page": null,
     "heard": "urn",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "annul",
@@ -1433,9 +1438,10 @@
   {
     "word": "steep",
     "ipa": "[stiːp]",
-    "definition": "adj. 陡峭的；过高的 浸泡，浸透",
+    "definition": "adj. 陡峭的；过高的\nv. 浸泡，浸透",
     "definitions": [
-      "adj. 陡峭的；过高的 浸泡，浸透"
+      "adj. 陡峭的；过高的",
+      "v. 浸泡，浸透"
     ],
     "start": 291.01,
     "end": 291.71,
@@ -1475,9 +1481,10 @@
   {
     "word": "jar",
     "ipa": "[ʤɑːr]",
-    "definition": "v. 震动，摇晃；冲突，抵触；震惊；发出刺耳声 广口坛子",
+    "definition": "v. 震动，摇晃；冲突，抵触；震惊；发出刺耳声\nn. 广口坛子",
     "definitions": [
-      "v. 震动，摇晃；冲突，抵触；震惊；发出刺耳声 广口坛子"
+      "v. 震动，摇晃；冲突，抵触；震惊；发出刺耳声",
+      "n. 广口坛子"
     ],
     "start": 299.48,
     "end": 300.18,
@@ -1545,9 +1552,10 @@
   {
     "word": "menace",
     "ipa": "[ˈmenəs]",
-    "definition": "n. 威胁，恐吓",
+    "definition": "n. 威胁，恐吓\nv. 威胁，恐吓",
     "definitions": [
-      "n. 威胁，恐吓"
+      "n. 威胁，恐吓",
+      "v. 威胁，恐吓"
     ],
     "start": 312.9,
     "end": 314.3,
@@ -1559,9 +1567,10 @@
   {
     "word": "recruit",
     "ipa": "[rɪˈkruːt]",
-    "definition": "n. 新兵；新成员 征募，招募",
+    "definition": "n. 新兵；新成员\nv. 征募，招募",
     "definitions": [
-      "n. 新兵；新成员 征募，招募"
+      "n. 新兵；新成员",
+      "v. 征募，招募"
     ],
     "start": 315.7,
     "end": 316.7,
@@ -1585,18 +1594,18 @@
     "source": "gre_book"
   },
   {
-    "word": "ascent",
+    "word": "assent",
     "ipa": "[əˈsent]",
-    "definition": "n. 上升，攀登；上坡路；提高，提升",
+    "definition": "v. 同意，赞成",
     "definitions": [
-      "n. 上升，攀登；上坡路；提高，提升"
+      "v. 同意，赞成"
     ],
     "start": 321.02,
     "end": 322.42,
     "book_page": 157,
     "heard": "ascent",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "plead",
@@ -1937,9 +1946,10 @@
   {
     "word": "vertebrate",
     "ipa": "[ˈvɜːrtɪbrət]",
-    "definition": "n. /脊椎动物（的）",
+    "definition": "n. 脊椎动物\nadj. 脊椎动物的",
     "definitions": [
-      "n. /脊椎动物（的）"
+      "n. 脊椎动物",
+      "adj. 脊椎动物的"
     ],
     "start": 391.45,
     "end": 392.85,
@@ -1991,18 +2001,18 @@
     "source": "gre_book"
   },
   {
-    "word": "moison",
-    "ipa": "/moison/",
-    "definition": "n. 人名；（法）穆瓦松",
+    "word": "moisten",
+    "ipa": "[ˈmɔɪsn]",
+    "definition": "v. 弄湿，使湿润",
     "definitions": [
-      "n. 人名；（法）穆瓦松"
+      "v. 弄湿，使湿润"
     ],
     "start": 400.8,
     "end": 403.4,
     "book_page": null,
     "heard": "moison",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "organism",

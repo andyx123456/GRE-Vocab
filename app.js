@@ -18,6 +18,9 @@ const els = {
   retryAll: document.getElementById("retry-all"),
   missCount: document.getElementById("miss-count"),
   missList: document.getElementById("miss-list"),
+  review: document.getElementById("review"),
+  reviewCount: document.getElementById("review-count"),
+  reviewList: document.getElementById("review-list"),
   tally: document.getElementById("tally"),
   tallyLegend: document.getElementById("tally-legend"),
   tallyBar: document.getElementById("tally-bar"),
@@ -30,6 +33,9 @@ let index = 0;
 let misses = [];
 let ticks = [];
 let answered = false;
+let allMode = false;
+let quizSize = 0;
+let concealMisses = false;
 
 function shuffle(arr) {
   const a = [...arr];
@@ -79,21 +85,52 @@ function renderTally() {
   ticks.forEach((state, i) => {
     const box = document.createElement("span");
     box.className = "tick" + (state ? ` ${state}` : "") + (i === index && !els.quiz.classList.contains("hidden") ? " now" : "");
-    box.title = queue[i] ? queue[i].word : "";
+    box.title = queue[i] && !concealMisses ? queue[i].word : "";
     els.tally.appendChild(box);
   });
+}
+
+function missTag(item) {
+  if (item.marked && item.wrong) return "错+标";
+  if (item.marked) return "标记";
+  return "错题";
+}
+
+function renderReview() {
+  const unique = uniqueMisses();
+  if (!els.review) return;
+  els.reviewList.innerHTML = "";
+  if (!unique.length) {
+    els.review.classList.add("hidden");
+    return;
+  }
+  els.review.classList.remove("hidden");
+  els.reviewCount.textContent = `共 ${unique.length} 词`;
+  for (const item of unique) {
+    const li = document.createElement("li");
+    li.className = item.wrong && item.marked ? "both" : item.marked && !item.wrong ? "marked" : "wrong";
+    li.innerHTML = `<div class="head"><span class="w">${escapeHtml(item.word)}</span><span class="p">${escapeHtml(item.ipa || "")}</span><span class="tag">${escapeHtml(missTag(item))}</span></div><div class="d">${escapeHtml(item.definition || "")}</div>`;
+    els.reviewList.appendChild(li);
+  }
 }
 
 function renderMisses() {
   const unique = uniqueMisses();
   els.missCount.textContent = unique.length
-    ? `共 ${unique.length} 词`
+    ? concealMisses
+      ? `共 ${unique.length} 词 · 本轮已隐藏词语`
+      : `共 ${unique.length} 词`
     : "尚未标记或答错";
   els.missList.innerHTML = "";
   for (const item of unique) {
     const li = document.createElement("li");
-    const tag = item.marked && item.wrong ? "错+标" : item.marked ? "标记" : "错题";
-    li.innerHTML = `<span class="w">${item.word}</span> <span class="p">${item.ipa || ""}</span><div class="d">${tag} · ${item.definition}</div>`;
+    const tag = missTag(item);
+    if (concealMisses) {
+      li.classList.add("concealed");
+      li.innerHTML = `<span class="w">词语已隐藏</span><div class="d">${tag}</div>`;
+    } else {
+      li.innerHTML = `<span class="w">${item.word}</span> <span class="p">${item.ipa || ""}</span><div class="d">${tag} · ${item.definition}</div>`;
+    }
     els.missList.appendChild(li);
   }
 }
@@ -159,6 +196,17 @@ function drawChoices(opts) {
   }
 }
 
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+
+function entryHtml(entry) {
+  return `${escapeHtml(entry.word)} ${escapeHtml(entry.ipa || "")}<br>${escapeHtml(entry.definition)}`;
+}
+
 function onPick(btn, ok) {
   if (answered) return;
   answered = true;
@@ -176,23 +224,27 @@ function onPick(btn, ok) {
     addToMisses(item, { wrong: true });
   }
   renderTally();
+  const picked = deck.find((d) => d.word === btn.dataset.word);
   els.feedback.classList.remove("hidden");
   els.feedback.innerHTML = ok
-    ? `正确。<br>${item.word} ${item.ipa || ""}<br>${item.definition}`
-    : `正确答案：${item.word} ${item.ipa || ""}<br>${item.definition}`;
+    ? `正确。<br>${entryHtml(item)}`
+    : `正确答案：${entryHtml(item)}<br><br>你选的选项对应：${entryHtml(picked || { word: btn.dataset.word, ipa: "", definition: "" })}`;
   els.next.classList.remove("hidden");
 }
 
 function finish() {
+  concealMisses = false;
+  renderMisses();
   els.quiz.classList.add("hidden");
   els.result.classList.remove("hidden");
   const { ok, bad } = tallyCounts();
   els.progress.textContent = "完成";
   els.score.textContent = `得分 ${ok} / ${queue.length}`;
   els.missSummary.textContent = uniqueMisses().length
-    ? "左侧为错题与手动标记。"
+    ? "错题与标记列在下方，可直接复习。"
     : "全部正确。";
   els.retryMiss.disabled = uniqueMisses().length === 0;
+  renderReview();
   renderTally();
 }
 
@@ -204,17 +256,33 @@ function start(list, resetMisses) {
   renderMisses();
   els.setup.classList.add("hidden");
   els.result.classList.add("hidden");
+  if (els.review) els.review.classList.add("hidden");
   els.quiz.classList.remove("hidden");
   if (els.tallyBar) els.tallyBar.classList.remove("hidden");
   document.body.classList.add("testing");
   renderQuestion();
 }
 
+function sampleQuiz() {
+  const n = quizSize > 0 ? Math.min(quizSize, deck.length) : deck.length;
+  return shuffle(deck).slice(0, n);
+}
+
+function setupProgressText() {
+  if (allMode) {
+    const n = quizSize > 0 ? Math.min(quizSize, deck.length) : deck.length;
+    return `全部词库 ${deck.length} 词 · 随机抽 ${n} 题`;
+  }
+  return `共 ${deck.length} 词 · 随机顺序`;
+}
+
 function startSpotCheck() {
-  start(shuffle(deck), true);
+  concealMisses = false;
+  start(sampleQuiz(), true);
 }
 
 function exitTest() {
+  concealMisses = false;
   queue = [];
   index = 0;
   ticks = Array(deck.length).fill(null);
@@ -222,8 +290,9 @@ function exitTest() {
   renderMisses();
   els.quiz.classList.add("hidden");
   els.result.classList.add("hidden");
+  if (els.review) els.review.classList.add("hidden");
   els.setup.classList.remove("hidden");
-  els.progress.textContent = `共 ${deck.length} 词 · 随机顺序`;
+  els.progress.textContent = setupProgressText();
   if (els.tallyBar) els.tallyBar.classList.add("hidden");
   document.body.classList.remove("testing");
   renderTally();
@@ -254,6 +323,7 @@ els.retryAll.addEventListener("click", startSpotCheck);
 els.retryMiss.addEventListener("click", () => {
   const unique = uniqueMisses();
   if (!unique.length) return;
+  concealMisses = true;
   start(shuffle(unique), false);
 });
 
@@ -262,33 +332,60 @@ function currentList() {
   return Number.isInteger(list) && list >= 1 && list <= 46 ? list : 0;
 }
 
+function applyDeck(rows) {
+  deck = rows.filter((d) => d.word && d.definition);
+  ticks = Array(deck.length).fill(null);
+  els.progress.textContent = setupProgressText();
+  const blurb = document.getElementById("setup-blurb");
+  if (blurb) {
+    blurb.textContent = allMode
+      ? `从全部词库随机抽取 ${Math.min(quizSize || 100, deck.length)} 词，每轮重新抽样。`
+      : `${deck.length} 词全部作答，每轮随机打乱顺序。`;
+  }
+  renderMisses();
+  if (els.tallyBar) els.tallyBar.classList.add("hidden");
+}
+
 function loadDeck() {
+  const params = new URLSearchParams(location.search);
+  allMode = params.get("all") === "1";
   const list = currentList();
+  const kicker = document.querySelector(".kicker");
+  const wordsLink = document.getElementById("words-link");
+  if (allMode) {
+    quizSize = Number(params.get("n")) || 100;
+    if (kicker) kicker.textContent = "全部单词 · 抽查";
+    document.title = "GRE 全部单词 · 抽查";
+    if (wordsLink) {
+      wordsLink.href = asset("index.html?all=1");
+      wordsLink.textContent = "查看全部单词";
+    }
+    fetch(data("decks/catalog.json"))
+      .then((r) => {
+        if (!r.ok) throw new Error("missing");
+        return r.json();
+      })
+      .then(applyDeck)
+      .catch(() => {
+        els.progress.textContent = "词库尚未载入";
+        els.setup.innerHTML = `<p>全部词库暂不可用。请返回目录另选。</p><a class="btn ghost" href="${asset("index.html")}">返回目录</a>`;
+      });
+    return;
+  }
   if (!list) {
     location.replace(asset("index.html"));
     return;
   }
   const pad = String(list).padStart(2, "0");
-  const kicker = document.querySelector(".kicker");
   if (kicker) kicker.textContent = `Word List ${list} · 抽查`;
   document.title = `GRE Word List ${list} · 抽查`;
-  const wordsLink = document.getElementById("words-link");
   if (wordsLink) wordsLink.href = asset("words.html?list=" + list);
-  const apply = (rows) => {
-    deck = rows.filter((d) => d.word && d.definition);
-    ticks = Array(deck.length).fill(null);
-    els.progress.textContent = `共 ${deck.length} 词 · 随机顺序`;
-    const blurb = document.getElementById("setup-blurb");
-    if (blurb) blurb.textContent = `${deck.length} 词全部作答，每轮随机打乱顺序。`;
-    renderMisses();
-    if (els.tallyBar) els.tallyBar.classList.add("hidden");
-  };
-  fetch(asset(`decks/list-${pad}.json`))
+  fetch(data(`decks/list-${pad}.json`))
     .then((r) => {
       if (!r.ok) throw new Error("missing");
       return r.json();
     })
-    .then(apply)
+    .then(applyDeck)
     .catch(() => {
       els.progress.textContent = `Word List ${list} 尚未收录`;
       els.setup.innerHTML = `<p>此词表暂无单词。请返回目录另选。</p><a class="btn ghost" href="${asset("index.html")}">返回目录</a>`;

@@ -86,9 +86,10 @@
   {
     "word": "sprout",
     "ipa": "[spraʊt]",
-    "definition": "v. 长出，萌芽 嫩芽",
+    "definition": "v. 长出，萌芽\nn. 嫩芽",
     "definitions": [
-      "v. 长出，萌芽 嫩芽"
+      "v. 长出，萌芽",
+      "n. 嫩芽"
     ],
     "start": 22.17,
     "end": 22.55,
@@ -126,19 +127,18 @@
     "source": "gre_book"
   },
   {
-    "word": "wooly",
+    "word": "woolly",
     "ipa": "[ˈwʊli]",
-    "definition": "adj. 羊毛的，羊毛制的；毛茸茸的，像羊毛般蓬松的；模糊不清的，含糊混乱的（多指思维、言辞等）",
+    "definition": "adj. 羊毛的；模糊的",
     "definitions": [
-      "adj. 羊毛的，羊毛制的；毛茸茸的，像羊毛般蓬松的；模糊不清的，含糊混乱的（多指思维、言辞等）",
-      "n. 羊毛衣物（尤指羊毛内衣、毛线衣；常用复数 ）"
+      "adj. 羊毛的；模糊的"
     ],
     "start": 30.09,
     "end": 31.15,
     "book_page": null,
     "heard": "wooly",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "instantaneous",
@@ -367,9 +367,11 @@
   {
     "word": "discontent",
     "ipa": "[ˌdɪskənˈtent]",
-    "definition": "n. 不满 使不满 不满的",
+    "definition": "n. 不满\nv. 使不满\nadj. 不满的",
     "definitions": [
-      "n. 不满 使不满 不满的"
+      "n. 不满",
+      "v. 使不满",
+      "adj. 不满的"
     ],
     "start": 79.06,
     "end": 80.46,
@@ -423,9 +425,10 @@
   {
     "word": "venture",
     "ipa": "[ˈventʃər]",
-    "definition": "v. 敢于；冒险 冒险",
+    "definition": "v. 敢于；冒险\nn. 冒险",
     "definitions": [
-      "v. 敢于；冒险 冒险"
+      "v. 敢于；冒险",
+      "n. 冒险"
     ],
     "start": 90.64,
     "end": 92.0,
@@ -701,35 +704,33 @@
     "source": "gre_book"
   },
   {
-    "word": "mean",
+    "word": "mien",
     "ipa": "[miːn]",
-    "definition": "adj. 吝啬的",
+    "definition": "n. 风采，态度",
     "definitions": [
-      "adj. 吝啬的"
+      "n. 风采，态度"
     ],
     "start": 147.23,
     "end": 148.41,
     "book_page": 113,
     "heard": "mean",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "plane",
+    "word": "plain",
     "ipa": "[pleɪn]",
-    "definition": "n. 飞机；（几何学中的）平面\nadj. 平的，平坦的；二维平面的，二维空间的\nv. 滑翔；擦着水面疾驶",
+    "definition": "adj. 简单的；清楚的；不漂亮的，不好看的\nn. 平原",
     "definitions": [
-      "n. 飞机；（几何学中的）平面；（物体的）平面；（穿过或连接物体的）虚构平面；（存在、思想或发展）水平；木工刨，刨子；悬铃木；翼面",
-      "adj. 平的，平坦的；二维平面的，二维空间的",
-      "v. 滑翔；擦着水面疾驶；刨平；刨除；<罕>乘飞机旅行",
-      "n. 【名】 （塞、瑞典、法）普拉内（人名）"
+      "adj. 简单的；清楚的；不漂亮的，不好看的",
+      "n. 平原"
     ],
     "start": 150.24,
     "end": 150.94,
     "book_page": null,
     "heard": "plane",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "thrust",
@@ -818,9 +819,10 @@
   {
     "word": "charm",
     "ipa": "[tʃɑːrm]",
-    "definition": "n. 魅力；咒语，咒符 吸引，迷住",
+    "definition": "n. 魅力；咒语，咒符\nv. 吸引，迷住",
     "definitions": [
-      "n. 魅力；咒语，咒符 吸引，迷住"
+      "n. 魅力；咒语，咒符",
+      "v. 吸引，迷住"
     ],
     "start": 169.13,
     "end": 170.59,
@@ -846,9 +848,10 @@
   {
     "word": "forecast",
     "ipa": "[ˈfɔːrkæst]",
-    "definition": "v. 预报，预测 预测",
+    "definition": "v. 预报，预测\nn. 预测",
     "definitions": [
-      "v. 预报，预测 预测"
+      "v. 预报，预测",
+      "n. 预测"
     ],
     "start": 174.51,
     "end": 176.13,
@@ -902,9 +905,10 @@
   {
     "word": "corrupt",
     "ipa": "[kəˈrʌpt]",
-    "definition": "adj. 腐败的，堕落的；（语言、版本等）讹误的，走样的 使腐败，使堕落",
+    "definition": "adj. 腐败的，堕落的；（语言、版本等）讹误的，走样的\nv. 使腐败，使堕落",
     "definitions": [
-      "adj. 腐败的，堕落的；（语言、版本等）讹误的，走样的 使腐败，使堕落"
+      "adj. 腐败的，堕落的；（语言、版本等）讹误的，走样的",
+      "v. 使腐败，使堕落"
     ],
     "start": 185.7,
     "end": 186.96,
@@ -916,9 +920,10 @@
   {
     "word": "thermal",
     "ipa": "[ˈθɜːrml]",
-    "definition": "adj. 热的，热量的；温暖的 上升的暖气流",
+    "definition": "adj. 热的，热量的；温暖的\nn. 上升的暖气流",
     "definitions": [
-      "adj. 热的，热量的；温暖的 上升的暖气流"
+      "adj. 热的，热量的；温暖的",
+      "n. 上升的暖气流"
     ],
     "start": 188.24,
     "end": 189.7,
@@ -1124,19 +1129,18 @@
     "source": "gre_book"
   },
   {
-    "word": "route",
-    "ipa": "[ruːt]",
-    "definition": "n. 路线，航线；道路，路途\nv. 按特定路线发送（车辆、货物或乘客）；以......线路发送（电话或其他电子信号）",
+    "word": "rout",
+    "ipa": "[raʊt]",
+    "definition": "n. 溃败",
     "definitions": [
-      "n. 路线，航线；道路，路途；常规路线，固定路线；<美>（尤指作为送货工作的）例行拜访，递送路线；途径，方法；（用于美国城市间干线公路编号前）公路",
-      "v. 按特定路线发送（车辆、货物或乘客）；以......线路发送（电话或其他电子信号）"
+      "n. 溃败"
     ],
     "start": 230.08,
     "end": 230.94,
     "book_page": null,
     "heard": "route",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "status",
@@ -1223,19 +1227,19 @@
     "source": "gre_book"
   },
   {
-    "word": "teas",
+    "word": "tease",
     "ipa": "[tiːz]",
-    "definition": "n. 商标电子化应用系统；经皮穴位电刺激",
+    "definition": "v. 逗乐，戏弄；强求，强要\nn. 逗乐，戏弄",
     "definitions": [
-      "n. 商标电子化应用系统；经皮穴位电刺激",
-      "n. 人名；（英）蒂斯"
+      "v. 逗乐，戏弄；强求，强要",
+      "n. 逗乐，戏弄"
     ],
     "start": 249.84,
     "end": 250.54,
     "book_page": null,
     "heard": "teas",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "envisage",
@@ -1324,9 +1328,10 @@
   {
     "word": "damp",
     "ipa": "[dæmp]",
-    "definition": "v. 减弱，抑制 潮湿的",
+    "definition": "v. 减弱，抑制\nadj. 潮湿的",
     "definitions": [
-      "v. 减弱，抑制 潮湿的"
+      "v. 减弱，抑制",
+      "adj. 潮湿的"
     ],
     "start": 269.73,
     "end": 270.43,
@@ -1380,9 +1385,10 @@
   {
     "word": "recall",
     "ipa": "[rɪˈkɔːl]",
-    "definition": "v. 回想，回忆起；收回 唤回",
+    "definition": "v. 回想，回忆起；收回\nn. 唤回",
     "definitions": [
-      "v. 回想，回忆起；收回 唤回"
+      "v. 回想，回忆起；收回",
+      "n. 唤回"
     ],
     "start": 281.06,
     "end": 282.16,
@@ -1408,9 +1414,10 @@
   {
     "word": "terminal",
     "ipa": "[ˈtɜːrmɪnl]",
-    "definition": "adj. 末端的 终点，末端",
+    "definition": "adj. 末端的\nn. 终点，末端",
     "definitions": [
-      "adj. 末端的 终点，末端"
+      "adj. 末端的",
+      "n. 终点，末端"
     ],
     "start": 286.93,
     "end": 287.63,
@@ -1434,21 +1441,18 @@
     "source": "gre_book"
   },
   {
-    "word": "rot",
-    "ipa": "[rɒt]",
-    "definition": "v. （使）腐败，（使）腐烂；逐渐衰弱（或憔悴）\nn. 腐烂，腐烂物；<英>腐化，堕落",
+    "word": "wrought",
+    "ipa": "[rɔːt]",
+    "definition": "adj. 做成的，形成的；精制的",
     "definitions": [
-      "v. （使）腐败，（使）腐烂；逐渐衰弱（或憔悴）；<英，旧，非正式>取笑，开玩笑",
-      "n. 腐烂，腐烂物；<英>腐化，堕落；<美>官员腐败；（尤指植物的）枯病；羊肝蛭病；<英，非正式，旧>蠢话，废话",
-      "int. <非正式>胡说，废话",
-      "n. 【名】 （美、俄、荷）罗特（人名）"
+      "adj. 做成的，形成的；精制的"
     ],
     "start": 292.26,
     "end": 292.96,
     "book_page": null,
     "heard": "rot",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "regurgitate",
@@ -1649,9 +1653,10 @@
   {
     "word": "distaste",
     "ipa": "[dɪsˈteɪst]",
-    "definition": "v. 厌恶 厌恶，不喜欢",
+    "definition": "v. 厌恶\nn. 厌恶，不喜欢",
     "definitions": [
-      "v. 厌恶 厌恶，不喜欢"
+      "v. 厌恶",
+      "n. 厌恶，不喜欢"
     ],
     "start": 333.31,
     "end": 334.71,
@@ -1705,9 +1710,10 @@
   {
     "word": "split",
     "ipa": "[splɪt]",
-    "definition": "v. 破裂，裂开 裂开，裂口",
+    "definition": "v. 破裂，裂开\nn. 裂开，裂口",
     "definitions": [
-      "v. 破裂，裂开 裂开，裂口"
+      "v. 破裂，裂开",
+      "n. 裂开，裂口"
     ],
     "start": 344.02,
     "end": 345.16,
@@ -1731,18 +1737,18 @@
     "source": "gre_book"
   },
   {
-    "word": "palette",
+    "word": "palate",
     "ipa": "[ˈpælət]",
-    "definition": "n. 调色板，颜料配置",
+    "definition": "n. 上颚；口味；爱好",
     "definitions": [
-      "n. 调色板，颜料配置"
+      "n. 上颚；口味；爱好"
     ],
     "start": 350.17,
     "end": 350.87,
     "book_page": 441,
     "heard": "palette",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "submit",
@@ -1817,9 +1823,9 @@
   {
     "word": "slot",
     "ipa": "[slɑːt]",
-    "definition": "n. 狭槽",
+    "definition": "n. 狭槽；窄缝",
     "definitions": [
-      "n. 狭槽"
+      "n. 狭槽；窄缝"
     ],
     "start": 364.81,
     "end": 366.15,
@@ -1972,9 +1978,10 @@
   {
     "word": "track",
     "ipa": "[træk]",
-    "definition": "n. 轨迹，踪迹；道路，路径；轨道 跟踪，追踪",
+    "definition": "n. 轨迹，踪迹；道路，路径；轨道\nv. 跟踪，追踪",
     "definitions": [
-      "n. 轨迹，踪迹；道路，路径；轨道 跟踪，追踪"
+      "n. 轨迹，踪迹；道路，路径；轨道",
+      "v. 跟踪，追踪"
     ],
     "start": 394.52,
     "end": 395.86,
@@ -2056,9 +2063,10 @@
   {
     "word": "pivot",
     "ipa": "[ˈpɪvət]",
-    "definition": "n. 枢轴，中心 旋转",
+    "definition": "n. 枢轴，中心\nv. 旋转",
     "definitions": [
-      "n. 枢轴，中心 旋转"
+      "n. 枢轴，中心",
+      "v. 旋转"
     ],
     "start": 412.12,
     "end": 413.64,

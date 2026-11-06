@@ -28,19 +28,18 @@
     "source": "gre_book"
   },
   {
-    "word": "irregular",
-    "ipa": "[ɪˈreɡjələ(r)]",
-    "definition": "adj. 不平整的，不整齐的；（时间）无规律的，不定期的\nn. 非正规军军人；<美>次品，处理品",
+    "word": "oracular",
+    "ipa": "[ɔːˈrækjələr]",
+    "definition": "adj. 神谕的；玄妙难懂的",
     "definitions": [
-      "adj. 不平整的，不整齐的；（时间）无规律的，不定期的；（行为）不合常规的，不正常的；（词形）不规则的；非正规军的；<美，非正式>便秘的",
-      "n. 非正规军军人；<美>次品，处理品"
+      "adj. 神谕的；玄妙难懂的"
     ],
     "start": 10.3,
     "end": 12.02,
     "book_page": null,
     "heard": "irregular",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "unsettle",
@@ -197,36 +196,18 @@
     "source": "gre_book"
   },
   {
-    "word": "common",
-    "ipa": "[ˈkɒmən]",
-    "definition": "adj. 共同的，共享的；常见的，普遍的，一般的\nn. 公共用地，公地；校园公共食堂",
+    "word": "commonsense",
+    "ipa": "[ˌkɑːmənˈsens]",
+    "definition": "adj. 有常识的",
     "definitions": [
-      "adj. 共同的，共享的；常见的，普遍的，一般的；普通的，平凡的；出于礼貌的，起码的；粗俗的，庸俗的",
-      "n. 公共用地，公地；校园公共食堂；<英，非正式>常识；（基督教教会适用于各种场合的）普通礼拜；平民"
+      "adj. 有常识的"
     ],
     "start": 42.86,
-    "end": 43.78,
-    "book_page": null,
-    "heard": "common",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "sense",
-    "ipa": "[sens]",
-    "definition": "n. 感觉官能（即视、听、嗅、味、触五觉）；（对某物的）感觉\nv. 感觉到，觉察到；（机器）检测出\nadj. （遗传）有意义的",
-    "definitions": [
-      "n. 感觉官能（即视、听、嗅、味、触五觉）；（对某物的）感觉；道理，合理性；见识，良好的判断；理智，理性；理解力，判断力；意义，含义；（数，物理）指向，方向",
-      "v. 感觉到，觉察到；（机器）检测出",
-      "adj. （遗传）有意义的",
-      "n. 【名】 （美）森斯（人名）"
-    ],
-    "start": 45.18,
     "end": 45.78,
-    "book_page": null,
-    "heard": "sense",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 201,
+    "heard": "common sense",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "redundancy",
@@ -288,9 +269,10 @@
   {
     "word": "zone",
     "ipa": "[zoʊn]",
-    "definition": "n. 地区 分成区",
+    "definition": "n. 地区\nv. 分成区",
     "definitions": [
-      "n. 地区 分成区"
+      "n. 地区",
+      "v. 分成区"
     ],
     "start": 58.14,
     "end": 59.54,
@@ -330,9 +312,10 @@
   {
     "word": "compact",
     "ipa": "[ˈkɑːmpækt]",
-    "definition": "adj. 坚实的；简洁的 合同，协议",
+    "definition": "adj. 坚实的；简洁的\nn. 合同，协议",
     "definitions": [
-      "adj. 坚实的；简洁的 合同，协议"
+      "adj. 坚实的；简洁的",
+      "n. 合同，协议"
     ],
     "start": 66.06,
     "end": 67.7,
@@ -384,27 +367,27 @@
     "source": "gre_book"
   },
   {
-    "word": "bear",
-    "ipa": "[beə(r)]",
-    "definition": "v. 手持，携带；（车，船）运输，运送\nn. 熊；粗暴无礼的人，没教养的人",
+    "word": "bare",
+    "ipa": "[ber]",
+    "definition": "v. 暴露\nadj. 赤裸的",
     "definitions": [
-      "v. 手持，携带；（车，船）运输，运送；写有，刻有；以（姓名，头衔）相称；见证，作证；承担，担负（责任）；经得起；承受，容忍；生育（孩子）；（树，植物）结（果实），长出（花）；拐弯",
-      "n. 熊；粗暴无礼的人，没教养的人；体格笨重的男人，行动迟缓的男人；（股票）卖空者，做空头者；麻烦事，棘手之事；<非正式>“北极熊”（俄国的外号）",
-      "n. 【名】 （美）贝尔（人名）"
+      "v. 暴露",
+      "adj. 赤裸的"
     ],
     "start": 75.85,
     "end": 77.15,
     "book_page": null,
     "heard": "bear",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "spin",
     "ipa": "[spɪn]",
-    "definition": "v. 旋转；纺纱 旋转",
+    "definition": "v. 旋转；纺纱\nn. 旋转",
     "definitions": [
-      "v. 旋转；纺纱 旋转"
+      "v. 旋转；纺纱",
+      "n. 旋转"
     ],
     "start": 80.64,
     "end": 81.34,
@@ -442,18 +425,18 @@
     "source": "gre_book"
   },
   {
-    "word": "morays",
-    "ipa": "/morays/",
-    "definition": "n. 海鳝",
+    "word": "mores",
+    "ipa": "[ˈmɔːreɪz]",
+    "definition": "n. 习俗，惯例",
     "definitions": [
-      "n. 海鳝"
+      "n. 习俗，惯例"
     ],
     "start": 88.76,
     "end": 89.46,
     "book_page": null,
     "heard": "morays",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "disposed",
@@ -780,9 +763,10 @@
   {
     "word": "fake",
     "ipa": "[feɪk]",
-    "definition": "v. 伪造；佯装 假的",
+    "definition": "v. 伪造；佯装\nadj. 假的",
     "definitions": [
-      "v. 伪造；佯装 假的"
+      "v. 伪造；佯装",
+      "adj. 假的"
     ],
     "start": 157.14,
     "end": 158.26,
@@ -878,9 +862,10 @@
   {
     "word": "whistle",
     "ipa": "[ˈwɪsl]",
-    "definition": "n. 口哨声；汽笛声 吹口哨，鸣笛",
+    "definition": "n. 口哨声；汽笛声\nv. 吹口哨，鸣笛",
     "definitions": [
-      "n. 口哨声；汽笛声 吹口哨，鸣笛"
+      "n. 口哨声；汽笛声",
+      "v. 吹口哨，鸣笛"
     ],
     "start": 176.44,
     "end": 177.92,
@@ -892,9 +877,10 @@
   {
     "word": "pedal",
     "ipa": "[ˈpedl]",
-    "definition": "n. 踏板，脚蹬 骑自行车",
+    "definition": "n. 踏板，脚蹬\nv. 骑自行车",
     "definitions": [
-      "n. 踏板，脚蹬 骑自行车"
+      "n. 踏板，脚蹬",
+      "v. 骑自行车"
     ],
     "start": 179.68,
     "end": 180.38,
@@ -920,12 +906,10 @@
   {
     "word": "farewell",
     "ipa": "[ˌfeəˈwel]",
-    "definition": "n. 告别；离去\nadj. 告别的\nv. 告别，欢送",
+    "definition": "int. 再会，再见\nn. 辞行，告别",
     "definitions": [
-      "n. 告别；离去；分别时的美好祝愿",
-      "adj. 告别的",
-      "v. 告别，欢送",
-      "int. 再见，一路顺风"
+      "int. 再会，再见",
+      "n. 辞行，告别"
     ],
     "start": 185.63,
     "end": 186.33,
@@ -951,9 +935,10 @@
   {
     "word": "squeeze",
     "ipa": "[skwiːz]",
-    "definition": "v. 压，挤 压榨，紧握",
+    "definition": "v. 压，挤\nn. 压榨，紧握",
     "definitions": [
-      "v. 压，挤 压榨，紧握"
+      "v. 压，挤",
+      "n. 压榨，紧握"
     ],
     "start": 190.24,
     "end": 191.4,
@@ -979,9 +964,10 @@
   {
     "word": "palliative",
     "ipa": "[ˈpæliətɪv]",
-    "definition": "n. 缓释剂 减轻的，缓和的",
+    "definition": "n. 缓释剂\nadj. 减轻的，缓和的",
     "definitions": [
-      "n. 缓释剂 减轻的，缓和的"
+      "n. 缓释剂",
+      "adj. 减轻的，缓和的"
     ],
     "start": 195.71,
     "end": 197.23,
@@ -1049,9 +1035,10 @@
   {
     "word": "wink",
     "ipa": "[wɪk]",
-    "definition": "v. 使眼色，眨眼示意 眨眼，眼色",
+    "definition": "v. 使眼色，眨眼示意\nn. 眨眼，眼色",
     "definitions": [
-      "v. 使眼色，眨眼示意 眨眼，眼色"
+      "v. 使眼色，眨眼示意",
+      "n. 眨眼，眼色"
     ],
     "start": 207.64,
     "end": 210.14,
@@ -1075,18 +1062,19 @@
     "source": "gre_book"
   },
   {
-    "word": "hero",
-    "ipa": "[ˈhɪərəʊ]",
-    "definition": "n. 英雄，勇士；男主角，男主人公；偶像，崇拜对象；（夹有冷切肉、乳酪、沙拉等的）长卷三明治；（神话或传说中的）超人",
+    "word": "harrow",
+    "ipa": "[ˈhæroʊ]",
+    "definition": "n. 耙\nv. 耙地；使痛苦",
     "definitions": [
-      "n. 英雄，勇士；男主角，男主人公；偶像，崇拜对象；（夹有冷切肉、乳酪、沙拉等的）长卷三明治；（神话或传说中的）超人"
+      "n. 耙",
+      "v. 耙地；使痛苦"
     ],
     "start": 213.6,
     "end": 214.3,
     "book_page": null,
     "heard": "hero",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "signature",
@@ -1202,10 +1190,12 @@
   },
   {
     "word": "suspect",
-    "ipa": "[səˈspekt]",
-    "definition": "v. 怀疑 嫌疑犯 可疑的",
+    "ipa": "[səˈspekt]（v.）/[ˈsʌspekt]（n./adj.）",
+    "definition": "v. 怀疑\nn. 犯罪嫌疑人\nadj. 可疑的",
     "definitions": [
-      "v. 怀疑 嫌疑犯 可疑的"
+      "v. 怀疑",
+      "n. 犯罪嫌疑人",
+      "adj. 可疑的"
     ],
     "start": 238.73,
     "end": 240.13,
@@ -1285,25 +1275,12 @@
     "source": "gre_book"
   },
   {
-    "word": "origin",
-    "ipa": "[ˈɒrɪdʒɪn]",
-    "definition": "n. 起源，起因；出身，血统；（原）产地；肌肉起端；神经（或血管）起端；（数）原点",
-    "definitions": [
-      "n. 起源，起因；出身，血统；（原）产地；肌肉起端；神经（或血管）起端；（数）原点"
-    ],
-    "start": 254.21,
-    "end": 256.45,
-    "book_page": null,
-    "heard": "origin",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
     "word": "orient",
     "ipa": "[ˈɔːrient]",
-    "definition": "adj. 上升的 确定方向；使熟悉情况",
+    "definition": "adj. 上升的\nv. 确定方向；使熟悉情况",
     "definitions": [
-      "adj. 上升的 确定方向；使熟悉情况"
+      "adj. 上升的",
+      "v. 确定方向；使熟悉情况"
     ],
     "start": 256.45,
     "end": 257.51,
@@ -1385,9 +1362,10 @@
   {
     "word": "heed",
     "ipa": "[hiːd]",
-    "definition": "v. 注意，留心 注意，留心",
+    "definition": "v. 注意，留心\nn. 注意，留心",
     "definitions": [
-      "v. 注意，留心 注意，留心"
+      "v. 注意，留心",
+      "n. 注意，留心"
     ],
     "start": 270.71,
     "end": 273.43,
@@ -1581,9 +1559,10 @@
   {
     "word": "prune",
     "ipa": "[pruːn]",
-    "definition": "n. 西梅干 修剪（树木等）",
+    "definition": "n. 西梅干\nv. 修剪（树木等）",
     "definitions": [
-      "n. 西梅干 修剪（树木等）"
+      "n. 西梅干",
+      "v. 修剪（树木等）"
     ],
     "start": 311.83,
     "end": 312.85,
@@ -1621,32 +1600,18 @@
     "source": "gre_book"
   },
   {
-    "word": "excruciate",
-    "ipa": "[ɪkˈskruːʃieɪt]",
-    "definition": "v. 施酷刑；折磨",
+    "word": "excrete",
+    "ipa": "[ɪkˈskriːt]",
+    "definition": "v. 排泄，分泌",
     "definitions": [
-      "v. 施酷刑；折磨"
+      "v. 排泄，分泌"
     ],
     "start": 318.09,
-    "end": 320.53,
-    "book_page": 306,
-    "heard": "excruciate",
-    "match": "exact",
-    "source": "gre_book"
-  },
-  {
-    "word": "crete",
-    "ipa": "[kriːt]",
-    "definition": "n. （希腊）克里特岛，希腊最大的岛屿，位于地中海东部，为古代米诺斯文明的中心",
-    "definitions": [
-      "n. （希腊）克里特岛，希腊最大的岛屿，位于地中海东部，为古代米诺斯文明的中心"
-    ],
-    "start": 320.53,
     "end": 320.83,
-    "book_page": null,
-    "heard": "crete",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 306,
+    "heard": "excruciate crete",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "dwindle",
@@ -1763,9 +1728,10 @@
   {
     "word": "contempt",
     "ipa": "[kənˈtempt]",
-    "definition": "n. 轻视，鄙视",
+    "definition": "n. 轻视，鄙视\nv. 轻视，鄙视",
     "definitions": [
-      "n. 轻视，鄙视"
+      "n. 轻视，鄙视",
+      "v. 轻视，鄙视"
     ],
     "start": 343.38,
     "end": 345.3,
@@ -1805,9 +1771,10 @@
   {
     "word": "bustle",
     "ipa": "[ˈbʌsl]",
-    "definition": "v. 奔忙，忙乱 喧闹，熙熙攘攘",
+    "definition": "v. 奔忙，忙乱\nn. 喧闹，熙熙攘攘",
     "definitions": [
-      "v. 奔忙，忙乱 喧闹，熙熙攘攘"
+      "v. 奔忙，忙乱",
+      "n. 喧闹，熙熙攘攘"
     ],
     "start": 350.96,
     "end": 352.96,
@@ -1957,32 +1924,18 @@
     "source": "gre_book"
   },
   {
-    "word": "distinguishable",
-    "ipa": "[dɪˈstɪŋɡwɪʃəbl]",
-    "definition": "adj. 区别得开的；可辨认的，可辨识的",
+    "word": "disentangle",
+    "ipa": "[ˌdɪsɪnˈtæŋɡl]",
+    "definition": "v. 解决；解脱，解开",
     "definitions": [
-      "adj. 区别得开的；可辨认的，可辨识的"
+      "v. 解决；解脱，解开"
     ],
     "start": 382.07,
-    "end": 384.81,
-    "book_page": null,
-    "heard": "disintangible",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "bangle",
-    "ipa": "[ˈbæŋɡl]",
-    "definition": "n. 手镯；脚镯",
-    "definitions": [
-      "n. 手镯；脚镯"
-    ],
-    "start": 384.81,
     "end": 385.15,
     "book_page": null,
-    "heard": "bangle",
-    "match": "unmatched",
-    "source": "dictionary"
+    "heard": "disintangible bangle",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "inventory",
@@ -2083,41 +2036,27 @@
     "source": "gre_book"
   },
   {
-    "word": "alie",
-    "ipa": "/alie/",
-    "definition": "n. 异形杀手（电影名称）",
-    "definitions": [
-      "n. 异形杀手（电影名称）"
-    ],
-    "start": 405.16,
-    "end": 405.86,
-    "book_page": null,
-    "heard": "alie",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
     "word": "ally",
-    "ipa": "[ˈælaɪ]",
-    "definition": "n. 同盟国；盟友，支持者；辅助物，助手",
+    "ipa": "[əˈlaɪ]（v.）/[ˈælaɪ]（n.）",
+    "definition": "v. （使）结盟，（使）联合\nn. 同盟者，伙伴",
     "definitions": [
-      "n. 同盟国；盟友，支持者；辅助物，助手",
-      "v. 与……结盟，与……联合",
-      "n. 【名】 （英）艾丽，（法）阿利，（巴基）阿利，（尼日利）阿利（人名）"
+      "v. （使）结盟，（使）联合",
+      "n. 同盟者，伙伴"
     ],
     "start": 408.08,
     "end": 409.48,
     "book_page": 210,
     "heard": "ally",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "prodigal",
     "ipa": "[ˈprɑːdɪɡl]",
-    "definition": "adj. 挥霍的 挥霍者",
+    "definition": "adj. 挥霍的\nn. 挥霍者",
     "definitions": [
-      "adj. 挥霍的 挥霍者"
+      "adj. 挥霍的",
+      "n. 挥霍者"
     ],
     "start": 410.89,
     "end": 412.23,
@@ -2155,20 +2094,19 @@
     "source": "gre_book"
   },
   {
-    "word": "pond",
-    "ipa": "[pɒnd]",
-    "definition": "n. （人工或自然的）池塘；<非正式>大西洋\nv. 拦截（或筑坝堵塞）（流水或其他流动液体）以形成小湖；（流水或其他液体）形成小湖",
+    "word": "pine",
+    "ipa": "[paɪn]",
+    "definition": "n. 松树\nv. （因疾病等）憔悴；渴望",
     "definitions": [
-      "n. （人工或自然的）池塘；<非正式>大西洋",
-      "v. 拦截（或筑坝堵塞）（流水或其他流动液体）以形成小湖；（流水或其他液体）形成小湖",
-      "n. 【名】 （美、爱）庞德（人名）"
+      "n. 松树",
+      "v. （因疾病等）憔悴；渴望"
     ],
     "start": 417.85,
     "end": 418.79,
     "book_page": null,
     "heard": "pond",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "frantic",

@@ -120,19 +120,53 @@ function countsByKey(q) {
   return counts;
 }
 
+const REVIEWED_FROM = 6;
+const REVIEWED_TO = 28;
+
+function isReviewed(n) {
+  return n === 1 || (n >= REVIEWED_FROM && n <= REVIEWED_TO);
+}
+
+function appendListHead(title, note) {
+  const head = document.createElement("h2");
+  head.className = "list-head";
+  head.textContent = title;
+  if (note) {
+    const span = document.createElement("span");
+    span.className = "list-head-note";
+    span.textContent = note;
+    head.appendChild(span);
+  }
+  root.appendChild(head);
+}
+
+function appendListCard(n) {
+  const count = ready[n] || ready[String(n)];
+  const reviewed = isReviewed(n);
+  const card = document.createElement(count ? "a" : "div");
+  card.className = "list-card" + (count ? "" : " empty") + (reviewed ? "" : " pending");
+  if (count) card.href = asset("quiz.html?list=" + n);
+  const stat = count
+    ? count + " 词 · " + (reviewed ? "可抽查" : "尚未修改")
+    : "尚未收录";
+  card.innerHTML = `
+    <p class="num">Word List ${n}</p>
+    <p class="stat">${stat}</p>
+  `;
+  root.appendChild(card);
+}
+
 function renderLists() {
   root.innerHTML = "";
+  const pending = [];
+  const reviewed = [];
   for (let n = 1; n <= LIST_COUNT; n++) {
-    const count = ready[n] || ready[String(n)];
-    const card = document.createElement(count ? "a" : "div");
-    card.className = "list-card" + (count ? "" : " empty");
-    if (count) card.href = asset("quiz.html?list=" + n);
-    card.innerHTML = `
-      <p class="num">Word List ${n}</p>
-      <p class="stat">${count ? count + " 词 · 可抽查" : "尚未收录"}</p>
-    `;
-    root.appendChild(card);
+    (isReviewed(n) ? reviewed : pending).push(n);
   }
+  appendListHead("尚未修改", `${pending.length} 表`);
+  pending.forEach(appendListCard);
+  appendListHead("已修改", `${reviewed.length} 表`);
+  reviewed.forEach(appendListCard);
 }
 
 function renderRow(item) {
@@ -215,7 +249,16 @@ function syncChrome() {
   if (resultsEl) resultsEl.classList.toggle("hidden", !showAll);
   if (homeActions) homeActions.classList.toggle("hidden", showAll);
   if (pageTitle) pageTitle.textContent = showAll ? "全部单词" : "选择词表";
-  if (pageMeta) pageMeta.textContent = showAll ? "按分类浏览，可在分类内搜索" : "Word List 1–46 已收录";
+  if (pageMeta) {
+    let reviewedCount = 0;
+    for (let n = 1; n <= LIST_COUNT; n++) {
+      if (isReviewed(n)) reviewedCount += 1;
+    }
+    const pendingCount = LIST_COUNT - reviewedCount;
+    pageMeta.textContent = showAll
+      ? "按分类浏览，可在分类内搜索"
+      : `尚未修改 ${pendingCount} 表 · 已修改 ${reviewedCount} 表`;
+  }
 }
 
 function refresh() {
@@ -225,7 +268,7 @@ function refresh() {
 
 async function loadCatalog() {
   try {
-    const rows = await fetch(asset("decks/catalog.json")).then((r) => {
+    const rows = await fetch(data("decks/catalog.json")).then((r) => {
       if (!r.ok) throw new Error("missing");
       return r.json();
     });
@@ -283,7 +326,7 @@ if (backListsBtn) {
   });
 }
 
-fetch(asset("decks/manifest.json"))
+fetch(data("decks/manifest.json"))
   .then((r) => r.json())
   .then((data) => {
     ready = data.ready || {};

@@ -225,10 +225,11 @@
   },
   {
     "word": "trigger",
-    "ipa": "[ˈtrɪɡər]",
-    "definition": "n. 扳机 引发，引起，触发",
+    "ipa": "[ˈtrɪɡə(r)]",
+    "definition": "n. 扳机\nv. 引发，引起，触发",
     "definitions": [
-      "n. 扳机 引发，引起，触发"
+      "n. 扳机",
+      "v. 引发，引起，触发"
     ],
     "start": 47.62,
     "end": 50.22,
@@ -294,18 +295,18 @@
     "source": "gre_book"
   },
   {
-    "word": "umbridge",
-    "ipa": "/umbridge/",
-    "definition": "n. ．多洛雷斯·乌姆里奇：《哈利·波特》系列小说中的虚构角色，霍格沃茨魔法学校的前任防御黑魔法教授，后来成为魔法部的高级职员。",
+    "word": "umbrage",
+    "ipa": "[ˈʌmbrɪdʒ]",
+    "definition": "n. 不快，愤怒",
     "definitions": [
-      "n. ．多洛雷斯·乌姆里奇：《哈利·波特》系列小说中的虚构角色，霍格沃茨魔法学校的前任防御黑魔法教授，后来成为魔法部的高级职员。"
+      "n. 不快，愤怒"
     ],
     "start": 61.53,
     "end": 64.07,
-    "book_page": null,
+    "book_page": 98,
     "heard": "umbridge",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "belie",
@@ -672,18 +673,18 @@
     "source": "gre_book"
   },
   {
-    "word": "torturous",
-    "ipa": "[ˈtɔːtʃərəs]",
-    "definition": "adj. 极其痛苦的，折磨人的；涉及拷打或酷刑的，以折磨方式实施的",
+    "word": "tortuous",
+    "ipa": "[ˈtɔːtʃuəs]",
+    "definition": "adj. 曲折的，拐弯抹角的；弯弯曲曲的",
     "definitions": [
-      "adj. 极其痛苦的，折磨人的；涉及拷打或酷刑的，以折磨方式实施的"
+      "adj. 曲折的，拐弯抹角的；弯弯曲曲的"
     ],
     "start": 137.63,
     "end": 138.33,
-    "book_page": null,
+    "book_page": 100,
     "heard": "torturous",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "unfounded",
@@ -883,10 +884,11 @@
   },
   {
     "word": "censure",
-    "ipa": "[ˈsenʃər]",
-    "definition": "n. 指责，谴责 指责，谴责",
+    "ipa": "[ˈsenʃə(r)]",
+    "definition": "n. 指责，谴责\nv. 指责，谴责",
     "definitions": [
-      "n. 指责，谴责 指责，谴责"
+      "n. 指责，谴责",
+      "v. 指责，谴责"
     ],
     "start": 180.98,
     "end": 182.38,
@@ -1120,19 +1122,18 @@
     "source": "gre_book"
   },
   {
-    "word": "pros",
+    "word": "prose",
     "ipa": "[prəʊz]",
-    "definition": "n. 的复数：赞成者，支持者；赞成的意见，有利的方面；职业选手，专业人士，行家；固定搭配 表示利弊，正反两方面，赞成与反对的论据；人名（法）普罗，（捷、瑞典）普罗斯",
+    "definition": "n. 散文",
     "definitions": [
-      "n. 的复数：赞成者，支持者；赞成的意见，有利的方面；职业选手，专业人士，行家；固定搭配 表示利弊，正反两方面，赞成与反对的论据；人名（法）普罗，（捷、瑞典）普罗斯",
-      "n. 舞台前部；诗体学，韵律学"
+      "n. 散文"
     ],
     "start": 228.88,
     "end": 230.08,
-    "book_page": null,
+    "book_page": 102,
     "heard": "pros",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "venal",
@@ -1331,20 +1332,19 @@
     "source": "gre_book"
   },
   {
-    "word": "bach",
-    "ipa": "[bætʃ]",
-    "definition": "v. （尤指男子）过单身生活，过独居生活\nn. 度假小屋",
+    "word": "balk",
+    "ipa": "[bɔːk]",
+    "definition": "n. 梁木，大梁\nv. 妨碍；畏惧不前",
     "definitions": [
-      "v. （尤指男子）过单身生活，过独居生活",
-      "n. 度假小屋",
-      "n. 巴赫（德国作曲家）"
+      "n. 梁木，大梁",
+      "v. 妨碍；畏惧不前"
     ],
     "start": 271.3,
     "end": 273.82,
-    "book_page": null,
+    "book_page": 103,
     "heard": "bach",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "pertinent",
@@ -1417,18 +1417,18 @@
     "source": "gre_book"
   },
   {
-    "word": "parity",
-    "ipa": "[ˈpærəti]",
-    "definition": "n. （水平、地位、数量等的）同等，相等",
+    "word": "parody",
+    "ipa": "[ˈpærədi]",
+    "definition": "n. 拙劣的模仿；滑稽模仿作品做表演",
     "definitions": [
-      "n. （水平、地位、数量等的）同等，相等"
+      "n. 拙劣的模仿；滑稽模仿作品做表演"
     ],
     "start": 288.64,
     "end": 290.04,
-    "book_page": 121,
+    "book_page": 104,
     "heard": "parity",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "supersede",
@@ -1544,10 +1544,11 @@
   },
   {
     "word": "puncture",
-    "ipa": "[ˈpʌktʃər]",
-    "definition": "v. 刺穿，戳破 刺孔，穿孔",
+    "ipa": "[ˈpʌŋktʃə(r)]",
+    "definition": "v. 刺穿，戳破\nn. 刺孔，穿孔",
     "definitions": [
-      "v. 刺穿，戳破 刺孔，穿孔"
+      "v. 刺穿，戳破",
+      "n. 刺孔，穿孔"
     ],
     "start": 314.7,
     "end": 315.86,
@@ -1685,9 +1686,9 @@
   {
     "word": "anathema",
     "ipa": "[əˈnæθəmə]",
-    "definition": "n. 被诅咒的人；（天主教的）革出教门，诅咒",
+    "definition": "n. 被诅咒的人；令人厌恶的人；（天主教的）革出教门，诅咒",
     "definitions": [
-      "n. 被诅咒的人；（天主教的）革出教门，诅咒"
+      "n. 被诅咒的人；令人厌恶的人；（天主教的）革出教门，诅咒"
     ],
     "start": 341.18,
     "end": 343.88,
@@ -1768,10 +1769,11 @@
   },
   {
     "word": "counterfeit",
-    "ipa": "[ˈkaʊntərfɪt]",
-    "definition": "v. 伪造，仿造 伪造的，假冒的",
+    "ipa": "[ˈkaʊntəfɪt]",
+    "definition": "v. 伪造，仿造\nadj. 伪造的，假冒的",
     "definitions": [
-      "v. 伪造，仿造 伪造的，假冒的"
+      "v. 伪造，仿造",
+      "adj. 伪造的，假冒的"
     ],
     "start": 359.74,
     "end": 360.44,
@@ -1950,12 +1952,11 @@
   },
   {
     "word": "precipitate",
-    "ipa": "[prɪˈsɪpɪteɪt]",
-    "definition": "v. <正式>使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）\nadj. <正式>鲁莽的，仓促的（=）；（事件，情况）突如其来的，突然的\nn. 沉淀物，析出物",
+    "ipa": "[prɪˈsɪpɪteɪt]（v.）/[prɪˈsɪpɪtət]（adj.）",
+    "definition": "v. 使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）\nadj. 鲁莽的，仓促的；突如其来的，突然的",
     "definitions": [
-      "v. <正式>使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）；（使）沉淀，（使）淀析；<正式>使急落直下，使陡然下落；降水（如雨、雪、冰雹）",
-      "adj. <正式>鲁莽的，仓促的（=）；（事件，情况）突如其来的，突然的；猛地落下的",
-      "n. 沉淀物，析出物"
+      "v. 使……突然降临，加速（坏事的发生）；使突然陷入（某种状态）",
+      "adj. 鲁莽的，仓促的；突如其来的，突然的"
     ],
     "start": 396.27,
     "end": 397.67,
@@ -2163,10 +2164,10 @@
   {
     "word": "caterwaul",
     "ipa": "[ˈkætəwɔːl]",
-    "definition": "v. （猫）号叫，发出刺耳声，发出猫一样的叫声\nn. 尖声号叫，猫叫春声，像猫叫春的声音",
+    "definition": "v. （猫）嚎叫，发出刺耳声，发出猫一样的叫声\nn. 尖声嚎叫，猫叫春声，像猫叫春的声音",
     "definitions": [
-      "v. （猫）号叫，发出刺耳声，发出猫一样的叫声",
-      "n. 尖声号叫，猫叫春声，像猫叫春的声音"
+      "v. （猫）嚎叫，发出刺耳声，发出猫一样的叫声",
+      "n. 尖声嚎叫，猫叫春声，像猫叫春的声音"
     ],
     "start": 440.94,
     "end": 442.24,

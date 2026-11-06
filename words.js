@@ -78,7 +78,7 @@ function load() {
   document.title = `GRE Word List ${list} · 词表`;
   const back = document.getElementById("back-quiz");
   if (back) back.href = asset("quiz.html?list=" + list);
-  fetch(asset(`decks/list-${pad}.json`))
+  fetch(data(`decks/list-${pad}.json`))
     .then((r) => {
       if (!r.ok) throw new Error("missing");
       return r.json();

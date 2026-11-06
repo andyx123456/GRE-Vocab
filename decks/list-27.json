@@ -114,10 +114,9 @@
   {
     "word": "plummet",
     "ipa": "[ˈkoʊzi]",
-    "definition": "v. 垂直或突然落下\nadj. 温暖而舒适的",
+    "definition": "v. 垂直或突然落下",
     "definitions": [
-      "v. 垂直或突然落下",
-      "adj. 温暖而舒适的"
+      "v. 垂直或突然落下"
     ],
     "start": 26.95,
     "end": 27.69,
@@ -241,9 +240,10 @@
   {
     "word": "understudy",
     "ipa": "[ˈʌndərstʌdi]",
-    "definition": "n. 预备演员，替角 充当…的替角",
+    "definition": "n. 预备演员，替角\nv. 充当…的替角",
     "definitions": [
-      "n. 预备演员，替角 充当…的替角"
+      "n. 预备演员，替角",
+      "v. 充当…的替角"
     ],
     "start": 51.4,
     "end": 52.8,
@@ -351,27 +351,26 @@
     "source": "gre_book"
   },
   {
-    "word": "wit",
+    "word": "whit",
     "ipa": "[wɪt]",
-    "definition": "n. （说话）风趣；说话风趣的人\nv. <古>知道；即，就是",
+    "definition": "n. 一点儿，少量",
     "definitions": [
-      "n. （说话）风趣；说话风趣的人；机智；明智；（不使用语言的）幽默机智",
-      "v. <古>知道；即，就是",
-      "n. 【名】 （泰）威，（英、德、波）威特（人名）"
+      "n. 一点儿，少量"
     ],
     "start": 70.73,
     "end": 71.43,
-    "book_page": null,
+    "book_page": 292,
     "heard": "wit",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "proffer",
     "ipa": "[ˈprɑːfər]",
-    "definition": "v. 奉献，贡献；提议，建议 赠送，献出",
+    "definition": "v. 奉献，贡献；提议，建议\nn. 赠送，献出",
     "definitions": [
-      "v. 奉献，贡献；提议，建议 赠送，献出"
+      "v. 奉献，贡献；提议，建议",
+      "n. 赠送，献出"
     ],
     "start": 75.07,
     "end": 75.91,
@@ -395,18 +394,18 @@
     "source": "gre_book"
   },
   {
-    "word": "rhapsody",
-    "ipa": "[ˈræpsədi]",
-    "definition": "n. 狂想曲；（文学）狂诗，可吟诵的史诗篇章；<正式>狂热的言辞",
+    "word": "raspy",
+    "ipa": "[ˈræspi]",
+    "definition": "adj. 刺耳的；易怒的",
     "definitions": [
-      "n. 狂想曲；（文学）狂诗，可吟诵的史诗篇章；<正式>狂热的言辞"
+      "adj. 刺耳的；易怒的"
     ],
     "start": 80.21,
     "end": 81.61,
-    "book_page": null,
+    "book_page": 292,
     "heard": "rapsey",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "turncoat",
@@ -439,9 +438,10 @@
   {
     "word": "pirate",
     "ipa": "[ˈpaɪrət]",
-    "definition": "n. 海盗；剽窃者 盗印；掠夺",
+    "definition": "n. 海盗；剽窃者\nv. 盗印；掠夺",
     "definitions": [
-      "n. 海盗；剽窃者 盗印；掠夺"
+      "n. 海盗；剽窃者",
+      "v. 盗印；掠夺"
     ],
     "start": 88.48,
     "end": 89.66,
@@ -551,9 +551,10 @@
   {
     "word": "lug",
     "ipa": "[lʌɡ]",
-    "definition": "v. 拖，费力拉 拖，拉",
+    "definition": "v. 拖，费力拉\nn. 拖，拉",
     "definitions": [
-      "v. 拖，费力拉 拖，拉"
+      "v. 拖，费力拉",
+      "n. 拖，拉"
     ],
     "start": 108.08,
     "end": 110.56,
@@ -607,9 +608,11 @@
   {
     "word": "mute",
     "ipa": "[mjuːt]",
-    "definition": "adj. 沉默的 减弱…的声音 弱音器",
+    "definition": "adj. 沉默的\nv. 减弱…的声音\nn. 弱音器",
     "definitions": [
-      "adj. 沉默的 减弱…的声音 弱音器"
+      "adj. 沉默的",
+      "v. 减弱…的声音",
+      "n. 弱音器"
     ],
     "start": 119.84,
     "end": 121.24,
@@ -649,9 +652,10 @@
   {
     "word": "wax",
     "ipa": "[wæks]",
-    "definition": "n. 蜡 给…上蜡；增大；（月亮）渐满",
+    "definition": "n. 蜡\nv. 给…上蜡；增大；（月亮）渐满",
     "definitions": [
-      "n. 蜡 给…上蜡；增大；（月亮）渐满"
+      "n. 蜡",
+      "v. 给…上蜡；增大；（月亮）渐满"
     ],
     "start": 128.55,
     "end": 129.39,
@@ -733,9 +737,10 @@
   {
     "word": "lampoon",
     "ipa": "[læmˈpuːn]",
-    "definition": "n. 讽刺文章 讽刺",
+    "definition": "n. 讽刺文章\nv. 讽刺",
     "definitions": [
-      "n. 讽刺文章 讽刺"
+      "n. 讽刺文章",
+      "v. 讽刺"
     ],
     "start": 144.57,
     "end": 145.97,
@@ -857,18 +862,18 @@
     "source": "gre_book"
   },
   {
-    "word": "quoth",
-    "ipa": "[kwəʊθ]",
-    "definition": "v. （仅用于第一和第三人称单数的主语之前）说",
+    "word": "quaff",
+    "ipa": "[kwɑːf]",
+    "definition": "v. 痛饮，畅饮",
     "definitions": [
-      "v. （仅用于第一和第三人称单数的主语之前）说"
+      "v. 痛饮，畅饮"
     ],
     "start": 167.66,
     "end": 168.36,
-    "book_page": null,
+    "book_page": 294,
     "heard": "quoth",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "pendulum",
@@ -885,18 +890,18 @@
     "source": "gre_book"
   },
   {
-    "word": "seer",
-    "ipa": "[sɪə(r)]",
-    "definition": "n. 预言家，先知者，先知；幻想家，有预见力者",
+    "word": "sere",
+    "ipa": "[sɪr]",
+    "definition": "adj. 干枯的，枯萎的",
     "definitions": [
-      "n. 预言家，先知者，先知；幻想家，有预见力者"
+      "adj. 干枯的，枯萎的"
     ],
     "start": 174.09,
     "end": 175.49,
-    "book_page": null,
+    "book_page": 294,
     "heard": "seer",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "posit",
@@ -929,9 +934,10 @@
   {
     "word": "sublime",
     "ipa": "[səˈblaɪm]",
-    "definition": "adj. 崇高的 使崇高",
+    "definition": "adj. 崇高的\nv. 使崇高",
     "definitions": [
-      "adj. 崇高的 使崇高"
+      "adj. 崇高的",
+      "v. 使崇高"
     ],
     "start": 182.12,
     "end": 183.48,
@@ -941,19 +947,18 @@
     "source": "gre_book"
   },
   {
-    "word": "co",
-    "ipa": "[ˌsiː ˈəʊ]",
-    "definition": "n. 一氧化碳；哥伦比亚",
+    "word": "coeval",
+    "ipa": "[koʊˈiːvl]",
+    "definition": "adj. 同时代的",
     "definitions": [
-      "n. 一氧化碳；哥伦比亚",
-      "n. 人名；（中）措（藏语·汉语拼音）"
+      "adj. 同时代的"
     ],
     "start": 183.48,
     "end": 184.48,
-    "book_page": null,
+    "book_page": 295,
     "heard": "co",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "swerve",
@@ -1000,9 +1005,10 @@
   {
     "word": "query",
     "ipa": "[ˈkwɪri]",
-    "definition": "v. 质疑，疑问，询问 问题，疑问",
+    "definition": "v. 质疑，疑问，询问\nn. 问题，疑问",
     "definitions": [
-      "v. 质疑，疑问，询问 问题，疑问"
+      "v. 质疑，疑问，询问",
+      "n. 问题，疑问"
     ],
     "start": 195.7,
     "end": 197.12,
@@ -1014,9 +1020,10 @@
   {
     "word": "clot",
     "ipa": "[klɑːt]",
-    "definition": "n. 凝块 使凝结成块",
+    "definition": "n. 凝块\nv. 使凝结成块",
     "definitions": [
-      "n. 凝块 使凝结成块"
+      "n. 凝块",
+      "v. 使凝结成块"
     ],
     "start": 199.01,
     "end": 199.71,
@@ -1125,20 +1132,6 @@
     "source": "gre_book"
   },
   {
-    "word": "prophetic",
-    "ipa": "[prəˈfetɪk]",
-    "definition": "adj. 先知的，预言的，预示的",
-    "definitions": [
-      "adj. 先知的，预言的，预示的"
-    ],
-    "start": 217.82,
-    "end": 218.9,
-    "book_page": 56,
-    "heard": "pothetic",
-    "match": "exact",
-    "source": "gre_book"
-  },
-  {
     "word": "nautical",
     "ipa": "[ˈnɔːtɪkl]",
     "definition": "adj. 船员的，船舶的，航海的",
@@ -1209,21 +1202,18 @@
     "source": "gre_book"
   },
   {
-    "word": "long",
-    "ipa": "[lɒŋ]",
-    "definition": "adj. 长的；长久的，长期的；漫长的；长篇的；长音的；出界的；（面部表情）不高兴的，愁苦的；记得牢的，记得久的；（可能性，机会）小的，渺茫的；远期（获利）的；（酒与凉饮料）混合的，大量的；（运动中的球）长传的，远距离的",
+    "word": "long-winded",
+    "ipa": "[ˌlɔːŋˈwɪndɪd]",
+    "definition": "adj. 冗长的",
     "definitions": [
-      "adj. 长的；长久的，长期的；漫长的；长篇的；长音的；出界的；（面部表情）不高兴的，愁苦的；记得牢的，记得久的；（可能性，机会）小的，渺茫的；远期（获利）的；（酒与凉饮料）混合的，大量的；（运动中的球）长传的，远距离的",
-      "adv. 长久地，长期地；很久（以前或以后）；整个（时间段）；（球扔得）远；整个 (时间段)",
-      "v. 渴望",
-      "n. 长时间，长时期；长音；远期证券；长期资本"
+      "adj. 冗长的"
     ],
     "start": 233.09,
     "end": 234.49,
-    "book_page": null,
+    "book_page": 296,
     "heard": "long",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "opine",
@@ -1242,9 +1232,10 @@
   {
     "word": "hike",
     "ipa": "[haɪk]",
-    "definition": "v. 抬高，提高 徒步旅行",
+    "definition": "v. 抬高，提高\nn. 徒步旅行",
     "definitions": [
-      "v. 抬高，提高 徒步旅行"
+      "v. 抬高，提高",
+      "n. 徒步旅行"
     ],
     "start": 239.17,
     "end": 240.35,
@@ -1256,9 +1247,10 @@
   {
     "word": "strand",
     "ipa": "[strænd]",
-    "definition": "n. （绳、线等的）股，缕 搁浅",
+    "definition": "n. （绳、线等的）股，缕\nv. 搁浅",
     "definitions": [
-      "n. （绳、线等的）股，缕 搁浅"
+      "n. （绳、线等的）股，缕",
+      "v. 搁浅"
     ],
     "start": 240.35,
     "end": 241.05,
@@ -1325,18 +1317,18 @@
   },
   {
     "word": "affiliate",
-    "ipa": "[əˈfɪlieɪt]",
-    "definition": "v. 使隶属，使紧密联系；<正式>加入\nn. 附属机构，分支机构",
+    "ipa": "[əˈfɪlieɪt]（v.）/[əˈfɪliət]（n.）",
+    "definition": "v. 使隶属于；追溯…的来源；联合\nn. 成员，附属机构",
     "definitions": [
-      "v. 使隶属，使紧密联系；<正式>加入；（组织）接纳……为成员",
-      "n. 附属机构，分支机构"
+      "v. 使隶属于；追溯…的来源；联合",
+      "n. 成员，附属机构"
     ],
     "start": 253.88,
     "end": 255.88,
     "book_page": 296,
     "heard": "affiliate",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "tinge",
@@ -1353,50 +1345,32 @@
     "source": "gre_book"
   },
   {
-    "word": "ship",
-    "ipa": "[ʃɪp]",
-    "definition": "n. （大）船，舰；三（或多）桅帆船\nv. （用船、飞机、卡车）运送，运输；遣送（某人）",
+    "word": "shipshape",
+    "ipa": "[ˈʃɪpʃeɪp]",
+    "definition": "adj. 整洁干净的；井然有序的",
     "definitions": [
-      "n. （大）船，舰；三（或多）桅帆船；<非正式> 艇（尤指赛艇）；宇宙飞船；<美> 飞机",
-      "v. （用船、飞机、卡车）运送，运输；遣送（某人）；推出（计算机商品），（使）上市；（水手）在船上工作，在船上服役；舷侧进水；把（桨架中的桨）放在船内；给船安装（舵、桅杆等）；<旧> 上船，乘船；乘船旅行；提供船只",
-      "n. 【名】 （美、俄、英）摄（人名）"
+      "adj. 整洁干净的；井然有序的"
     ],
     "start": 263.61,
-    "end": 264.65,
-    "book_page": null,
-    "heard": "ship",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "shape",
-    "ipa": "[ʃeɪp]",
-    "definition": "n. 形状，外形；形态，特征\nv. 形成，影响；使成形，塑造",
-    "definitions": [
-      "n. 形状，外形；形态，特征；状况，身体状况；健壮；（朦胧的）影像；（事物平常或本来的）样子；有序的排列，条理清楚；伪装，假装；特定形状的东西，模型；身材",
-      "vt. 形成，影响；使成形，塑造；计划，思考出；产生（声音，词）；使适合，使符合；（运动员）摆姿势，做动作",
-      "n. 【名】 （瑞典）沙佩（人名）"
-    ],
-    "start": 264.65,
     "end": 265.15,
-    "book_page": null,
-    "heard": "shape",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 296,
+    "heard": "ship shape",
+    "match": "manual",
+    "source": "manual"
   },
   {
-    "word": "whaley",
-    "ipa": "/whaley/",
-    "definition": "n. 人名；（英）惠利",
+    "word": "waylay",
+    "ipa": "[weɪˈleɪ]",
+    "definition": "v. 埋伏，伏击",
     "definitions": [
-      "n. 人名；（英）惠利"
+      "v. 埋伏，伏击"
     ],
     "start": 265.15,
     "end": 266.47,
-    "book_page": null,
+    "book_page": 296,
     "heard": "whaley",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "comely",
@@ -1443,9 +1417,10 @@
   {
     "word": "throng",
     "ipa": "[θrɑː]",
-    "definition": "n. 一大群 拥挤",
+    "definition": "n. 一大群\nv. 拥挤",
     "definitions": [
-      "n. 一大群 拥挤"
+      "n. 一大群",
+      "v. 拥挤"
     ],
     "start": 275.71,
     "end": 276.41,
@@ -1497,21 +1472,18 @@
     "source": "gre_book"
   },
   {
-    "word": "in",
-    "ipa": "[ɪn]",
-    "definition": "prep. 在……内，在……里（面），在（某地）；进……里；在……期间；在……以后；在……之内（表示将来时间）；在……岁时；当……时；穿着，戴着，覆盖着……；带……颜色的；在……状态中；在……方面，关于；用……（语言、媒介、方式），以……方式，按照（表示方式）；以……调；从事……，参加；在（活动）过程中；在（书、电影、图片等）中；包含在……中；占……，每……中有……，在……之中（用于较大和较小数字之间）；以……的数量；具有……特性；（引出具某种品质的人的名字）",
+    "word": "instate",
+    "ipa": "[ɪnˈsteɪt]",
+    "definition": "v. 任命",
     "definitions": [
-      "prep. 在……内，在……里（面），在（某地）；进……里；在……期间；在……以后；在……之内（表示将来时间）；在……岁时；当……时；穿着，戴着，覆盖着……；带……颜色的；在……状态中；在……方面，关于；用……（语言、媒介、方式），以……方式，按照（表示方式）；以……调；从事……，参加；在（活动）过程中；在（书、电影、图片等）中；包含在……中；占……，每……中有……，在……之中（用于较大和较小数字之间）；以……的数量；具有……特性；（引出具某种品质的人的名字）",
-      "adv. 进入，朝里，向中间；在里头，在屋里，在家（或在工作处）；到达，到站，在车站；当选；涨潮；收到；递交，送到；填写；着色；击球；（球）落在界内",
-      "adj. 在里面的，内部的；时髦的，流行的；（用球）界内的",
-      "n. 执政者；门路，关系，接近……的机会"
+      "v. 任命"
     ],
     "start": 286.58,
     "end": 288.74,
-    "book_page": null,
+    "book_page": 297,
     "heard": "in",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "abdicate",
@@ -1558,9 +1530,10 @@
   {
     "word": "sway",
     "ipa": "[sweɪ]",
-    "definition": "v. 摇动，摇摆；影响 摇摆",
+    "definition": "v. 摇动，摇摆；影响\nn. 摇摆",
     "definitions": [
-      "v. 摇动，摇摆；影响 摇摆"
+      "v. 摇动，摇摆；影响",
+      "n. 摇摆"
     ],
     "start": 297.38,
     "end": 299.14,
@@ -1684,9 +1657,10 @@
   {
     "word": "stunt",
     "ipa": "[stʌnt]",
-    "definition": "v. 阻碍（成长） 特技，绝技",
+    "definition": "v. 阻碍（成长）\nn. 特技，绝技",
     "definitions": [
-      "v. 阻碍（成长） 特技，绝技"
+      "v. 阻碍（成长）",
+      "n. 特技，绝技"
     ],
     "start": 322.14,
     "end": 323.18,
@@ -1752,25 +1726,27 @@
     "source": "gre_book"
   },
   {
-    "word": "imminent",
-    "ipa": "[ˈɪmɪnənt]",
-    "definition": "adj. 即将发生的，逼近的",
+    "word": "immanent",
+    "ipa": "[ˈɪmənənt]",
+    "definition": "adj. 内在的，固有的；普遍存在的，无所不在的",
     "definitions": [
-      "adj. 即将发生的，逼近的"
+      "adj. 内在的，固有的；普遍存在的，无所不在的"
     ],
     "start": 335.48,
     "end": 337.14,
-    "book_page": 147,
+    "book_page": 298,
     "heard": "imminent",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "reprobate",
     "ipa": "[ˈreprəbeɪt]",
-    "definition": "v. 非难，斥责 堕落的（人）",
+    "definition": "v. 非难，斥责\nn. 堕落的（人）\nadj. 邪恶的",
     "definitions": [
-      "v. 非难，斥责 堕落的（人）"
+      "v. 非难，斥责",
+      "n. 堕落的（人）",
+      "adj. 邪恶的"
     ],
     "start": 339.6,
     "end": 341.0,
@@ -1810,9 +1786,10 @@
   {
     "word": "stray",
     "ipa": "[streɪ]",
-    "definition": "v. 偏离，迷路 迷路的；零落的",
+    "definition": "v. 偏离，迷路\nadj. 迷路的；零落的",
     "definitions": [
-      "v. 偏离，迷路 迷路的；零落的"
+      "v. 偏离，迷路",
+      "adj. 迷路的；零落的"
     ],
     "start": 346.14,
     "end": 347.48,
@@ -1853,9 +1830,10 @@
   {
     "word": "buck",
     "ipa": "[bʌk]",
-    "definition": "v. 反抗，抵制 雄鹿；雄兔；＜美俚＞元，钱",
+    "definition": "v. 反抗，抵制\nn. 雄鹿；雄兔；＜美俚＞元，钱",
     "definitions": [
-      "v. 反抗，抵制 雄鹿；雄兔；＜美俚＞元，钱"
+      "v. 反抗，抵制",
+      "n. 雄鹿；雄兔；＜美俚＞元，钱"
     ],
     "start": 354.2,
     "end": 356.56,
@@ -1881,9 +1859,10 @@
   {
     "word": "bulge",
     "ipa": "[bʌlʤ]",
-    "definition": "n. 凸起，膨胀 膨胀，鼓起",
+    "definition": "n. 凸起，膨胀\nv. 膨胀，鼓起",
     "definitions": [
-      "n. 凸起，膨胀 膨胀，鼓起"
+      "n. 凸起，膨胀",
+      "v. 膨胀，鼓起"
     ],
     "start": 360.77,
     "end": 361.47,
@@ -1979,9 +1958,10 @@
   {
     "word": "stitch",
     "ipa": "[stɪtʃ]",
-    "definition": "n. （缝纫时的）一针 缝合",
+    "definition": "n. （缝纫时的）一针\nv. 缝合",
     "definitions": [
-      "n. （缝纫时的）一针 缝合"
+      "n. （缝纫时的）一针",
+      "v. 缝合"
     ],
     "start": 379.73,
     "end": 380.89,
@@ -2035,9 +2015,9 @@
   {
     "word": "mint",
     "ipa": "[mɪnt]",
-    "definition": "n. 大量；造币厂",
+    "definition": "n. 大量的钱；造币厂",
     "definitions": [
-      "n. 大量；造币厂"
+      "n. 大量的钱；造币厂"
     ],
     "start": 389.62,
     "end": 392.22,

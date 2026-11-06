@@ -2,9 +2,10 @@
   {
     "word": "trace",
     "ipa": "[treɪs]",
-    "definition": "n. 痕迹 追踪",
+    "definition": "n. 痕迹\nv. 追踪",
     "definitions": [
-      "n. 痕迹 追踪"
+      "n. 痕迹",
+      "v. 追踪"
     ],
     "start": 4.74,
     "end": 6.22,
@@ -58,9 +59,10 @@
   {
     "word": "secure",
     "ipa": "[səˈkjʊr]",
-    "definition": "adj. 安全的；稳固的 握紧，关牢；使安全",
+    "definition": "adj. 安全的；稳固的\nv. 握紧，关牢；使安全",
     "definitions": [
-      "adj. 安全的；稳固的 握紧，关牢；使安全"
+      "adj. 安全的；稳固的",
+      "v. 握紧，关牢；使安全"
     ],
     "start": 16.02,
     "end": 16.9,
@@ -72,9 +74,10 @@
   {
     "word": "adolescent",
     "ipa": "[ˌædəˈlesnt]",
-    "definition": "adj. 青春期的 青少年",
+    "definition": "adj. 青春期的\nn. 青少年",
     "definitions": [
-      "adj. 青春期的 青少年"
+      "adj. 青春期的",
+      "n. 青少年"
     ],
     "start": 18.22,
     "end": 19.74,
@@ -156,9 +159,10 @@
   {
     "word": "merit",
     "ipa": "[ˈmerɪt]",
-    "definition": "v. 值得 价值；长处",
+    "definition": "v. 值得\nn. 价值；长处",
     "definitions": [
-      "v. 值得 价值；长处"
+      "v. 值得",
+      "n. 价值；长处"
     ],
     "start": 34.71,
     "end": 36.05,
@@ -294,26 +298,26 @@
     "source": "gre_book"
   },
   {
-    "word": "tracked",
+    "word": "tract",
     "ipa": "[trækt]",
-    "definition": "adj. 有履带的，履带式的；被跟踪的，被追踪的\nv. 跟踪，追踪，追查",
+    "definition": "n. 传单；大片土地",
     "definitions": [
-      "adj. 有履带的，履带式的；被跟踪的，被追踪的",
-      "v. 跟踪，追踪，追查"
+      "n. 传单；大片土地"
     ],
     "start": 63.72,
     "end": 64.42,
     "book_page": null,
     "heard": "tracked",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "panic",
     "ipa": "[ˈpænɪk]",
-    "definition": "adj. 恐慌的 恐慌，惊惶",
+    "definition": "adj. 恐慌的\nn. 恐慌，惊惶",
     "definitions": [
-      "adj. 恐慌的 恐慌，惊惶"
+      "adj. 恐慌的",
+      "n. 恐慌，惊惶"
     ],
     "start": 66.33,
     "end": 67.03,
@@ -339,9 +343,10 @@
   {
     "word": "budget",
     "ipa": "[ˈbʌʤɪt]",
-    "definition": "n. 预算 做预算，安排开支",
+    "definition": "n. 预算\nv. 做预算，安排开支",
     "definitions": [
-      "n. 预算 做预算，安排开支"
+      "n. 预算",
+      "v. 做预算，安排开支"
     ],
     "start": 69.47,
     "end": 71.99,
@@ -423,9 +428,10 @@
   {
     "word": "bar",
     "ipa": "[bɑːr]",
-    "definition": "v. 禁止，阻挡 条，棒",
+    "definition": "v. 禁止，阻挡\nn. 条，棒",
     "definitions": [
-      "v. 禁止，阻挡 条，棒"
+      "v. 禁止，阻挡",
+      "n. 条，棒"
     ],
     "start": 87.0,
     "end": 88.18,
@@ -451,9 +457,10 @@
   {
     "word": "file",
     "ipa": "[faɪl]",
-    "definition": "n. 锉刀 锉平",
+    "definition": "n. 锉刀\nv. 锉平",
     "definitions": [
-      "n. 锉刀 锉平"
+      "n. 锉刀",
+      "v. 锉平"
     ],
     "start": 92.24,
     "end": 93.52,
@@ -563,9 +570,10 @@
   {
     "word": "shelter",
     "ipa": "[ˈʃeltər]",
-    "definition": "n. 避难所，遮蔽 庇护，保护",
+    "definition": "n. 避难所，遮蔽\nv. 庇护，保护",
     "definitions": [
-      "n. 避难所，遮蔽 庇护，保护"
+      "n. 避难所，遮蔽",
+      "v. 庇护，保护"
     ],
     "start": 114.48,
     "end": 115.82,
@@ -647,9 +655,10 @@
   {
     "word": "lot",
     "ipa": "[lɑːt]",
-    "definition": "n. 签；命运 抽签；划分",
+    "definition": "n. 签；命运\nv. 抽签；划分",
     "definitions": [
-      "n. 签；命运 抽签；划分"
+      "n. 签；命运",
+      "v. 抽签；划分"
     ],
     "start": 131.66,
     "end": 132.52,
@@ -730,20 +739,18 @@
     "source": "gre_book"
   },
   {
-    "word": "pray",
+    "word": "prey",
     "ipa": "[preɪ]",
-    "definition": "v. 祈祷，祷告；渴望，祈望；祈求，恳求",
+    "definition": "n. 被捕食的动物；受害者",
     "definitions": [
-      "v. 祈祷，祷告；渴望，祈望；祈求，恳求",
-      "adv. （用于询问或指示）请问，请",
-      "n. 【名】 （匈） 普劳伊，（英）普雷（人名）"
+      "n. 被捕食的动物；受害者"
     ],
     "start": 146.87,
     "end": 148.05,
     "book_page": null,
     "heard": "pray",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "humidity",
@@ -832,9 +839,10 @@
   {
     "word": "plaster",
     "ipa": "[ˈplæstər]",
-    "definition": "n. 灰泥，石膏 抹灰泥",
+    "definition": "n. 灰泥，石膏\nv. 抹灰泥",
     "definitions": [
-      "n. 灰泥，石膏 抹灰泥"
+      "n. 灰泥，石膏",
+      "v. 抹灰泥"
     ],
     "start": 166.38,
     "end": 167.7,
@@ -1139,19 +1147,18 @@
     "source": "gre_book"
   },
   {
-    "word": "unearthed",
+    "word": "unearth",
     "ipa": "[ʌnˈɜːrθ]",
-    "definition": "v. （从地下）挖掘，挖出；发掘，揭露，发现\nadj. （电气）未接地的，不接地的",
+    "definition": "v. 挖出；发现",
     "definitions": [
-      "v. （从地下）挖掘，挖出；发掘，揭露，发现；从洞中赶出（动物，尤指狐狸）",
-      "adj. （电气）未接地的，不接地的"
+      "v. 挖出；发现"
     ],
     "start": 229.88,
     "end": 231.28,
     "book_page": null,
     "heard": "unearthed",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "noxious",
@@ -1199,9 +1206,10 @@
   {
     "word": "cardinal",
     "ipa": "[ˈkɑːrdɪnl]",
-    "definition": "adj. 首要的，主要的 红衣主教",
+    "definition": "adj. 首要的，主要的\nn. 红衣主教",
     "definitions": [
-      "adj. 首要的，主要的 红衣主教"
+      "adj. 首要的，主要的",
+      "n. 红衣主教"
     ],
     "start": 240.6,
     "end": 241.84,
@@ -1227,9 +1235,10 @@
   {
     "word": "tilt",
     "ipa": "[tɪlt]",
-    "definition": "v. （使）倾斜 倾斜；斜坡",
+    "definition": "v. （使）倾斜\nn. 倾斜；斜坡",
     "definitions": [
-      "v. （使）倾斜 倾斜；斜坡"
+      "v. （使）倾斜",
+      "n. 倾斜；斜坡"
     ],
     "start": 246.02,
     "end": 247.22,
@@ -1295,18 +1304,19 @@
     "source": "gre_book"
   },
   {
-    "word": "horde",
-    "ipa": "[hɔːd]",
-    "definition": "n. （常含贬义）一大群人或事物，群；游牧部落",
+    "word": "hoard",
+    "ipa": "[hɔːrd]",
+    "definition": "v. 贮藏，秘藏\nn. 贮藏，秘藏",
     "definitions": [
-      "n. （常含贬义）一大群人或事物，群；游牧部落"
+      "v. 贮藏，秘藏",
+      "n. 贮藏，秘藏"
     ],
     "start": 260.44,
     "end": 261.68,
     "book_page": null,
     "heard": "horde",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "provision",
@@ -1449,18 +1459,18 @@
     "source": "gre_book"
   },
   {
-    "word": "shear",
+    "word": "sheer",
     "ipa": "[ʃɪr]",
-    "definition": "v. 剪（羊毛），剪发",
+    "definition": "adj. 完全的；陡峭的；极薄的",
     "definitions": [
-      "v. 剪（羊毛），剪发"
+      "adj. 完全的；陡峭的；极薄的"
     ],
     "start": 291.23,
     "end": 291.93,
     "book_page": 280,
     "heard": "shear",
-    "match": "exact",
-    "source": "gre_book"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "dexterity",
@@ -1507,9 +1517,10 @@
   {
     "word": "cow",
     "ipa": "[kaʊ]",
-    "definition": "n. 母牛 威胁",
+    "definition": "n. 母牛\nv. 威胁",
     "definitions": [
-      "n. 母牛 威胁"
+      "n. 母牛",
+      "v. 威胁"
     ],
     "start": 301.95,
     "end": 302.65,
@@ -1589,33 +1600,18 @@
     "source": "gre_book"
   },
   {
-    "word": "lion",
-    "ipa": "[ˈlaɪən]",
-    "definition": "n. 狮子；名人，社交场合的名流；勇猛的人；狮子座（也指出生于狮子座的人）；（最大的一份，绝大部分）；（大写 ）人名或姓氏（西、葡语：利昂；德、法、意、捷、瑞典语：利翁；英语：莱昂）",
+    "word": "lionize",
+    "ipa": "[ˈlaɪənaɪz]",
+    "definition": "v. 崇拜，看重",
     "definitions": [
-      "n. 狮子；名人，社交场合的名流；勇猛的人；狮子座（也指出生于狮子座的人）；（最大的一份，绝大部分）；（大写 ）人名或姓氏（西、葡语：利昂；德、法、意、捷、瑞典语：利翁；英语：莱昂）"
+      "v. 崇拜，看重"
     ],
     "start": 317.63,
-    "end": 318.41,
-    "book_page": null,
-    "heard": "lion",
-    "match": "unmatched",
-    "source": "dictionary"
-  },
-  {
-    "word": "eyes",
-    "ipa": "[aɪz]",
-    "definition": "n. 眼睛；看法，判断（用于 等短语）；（航海）船首，船头；人名（英译“艾斯”）",
-    "definitions": [
-      "n. 眼睛；看法，判断（用于 等短语）；（航海）船首，船头；人名（英译“艾斯”）",
-      "v. （动词 的第三人称单数）注视，打量，观察"
-    ],
-    "start": 318.41,
     "end": 318.99,
-    "book_page": null,
-    "heard": "eyes",
-    "match": "unmatched",
-    "source": "dictionary"
+    "book_page": 162,
+    "heard": "lion eyes",
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "momentum",
@@ -1634,9 +1630,10 @@
   {
     "word": "exhaust",
     "ipa": "[ɪɡˈzɔːst]",
-    "definition": "v. 耗尽；使筋疲力尽 （机器排出的）废气",
+    "definition": "v. 耗尽；使筋疲力尽\nn. （机器排出的）废气",
     "definitions": [
-      "v. 耗尽；使筋疲力尽 （机器排出的）废气"
+      "v. 耗尽；使筋疲力尽",
+      "n. （机器排出的）废气"
     ],
     "start": 323.63,
     "end": 325.01,
@@ -1676,9 +1673,10 @@
   {
     "word": "sap",
     "ipa": "[sæp]",
-    "definition": "n. 树液；活力 削弱，耗尽",
+    "definition": "n. 树液；活力\nv. 削弱，耗尽",
     "definitions": [
-      "n. 树液；活力 削弱，耗尽"
+      "n. 树液；活力",
+      "v. 削弱，耗尽"
     ],
     "start": 331.28,
     "end": 332.38,
@@ -1828,19 +1826,18 @@
     "source": "gre_book"
   },
   {
-    "word": "thickness",
-    "ipa": "[ˈθɪknəs]",
-    "definition": "n. 厚度，粗细；厚，粗\nv. 刨，削（木头）（至合适的尺寸）",
+    "word": "fickleness",
+    "ipa": "[ˈfɪklnəs]",
+    "definition": "n. 浮躁；变化无常",
     "definitions": [
-      "n. 厚度，粗细；厚，粗；层；浓度，密度；最厚（或最深）处",
-      "v. 刨，削（木头）（至合适的尺寸）"
+      "n. 浮躁；变化无常"
     ],
     "start": 362.42,
     "end": 363.82,
     "book_page": null,
     "heard": "thickness",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "adopt",
@@ -1901,9 +1898,10 @@
   {
     "word": "comic",
     "ipa": "[ˈkɑːmɪk]",
-    "definition": "adj. 可笑的；喜剧的 喜剧演员",
+    "definition": "adj. 可笑的；喜剧的\nn. 喜剧演员",
     "definitions": [
-      "adj. 可笑的；喜剧的 喜剧演员"
+      "adj. 可笑的；喜剧的",
+      "n. 喜剧演员"
     ],
     "start": 376.53,
     "end": 377.89,
@@ -2041,9 +2039,10 @@
   {
     "word": "underground",
     "ipa": "[ˌʌndəˈɡraʊnd]",
-    "definition": "adv. 在地下；秘密地 地下的；秘密的",
+    "definition": "adv. 在地下；秘密地\nadj. 地下的；秘密的",
     "definitions": [
-      "adv. 在地下；秘密地 地下的；秘密的"
+      "adv. 在地下；秘密地",
+      "adj. 地下的；秘密的"
     ],
     "start": 404.35,
     "end": 406.41,
@@ -2109,25 +2108,26 @@
     "source": "gre_book"
   },
   {
-    "word": "illusion",
-    "ipa": "[ɪˈluːʒ(ə)n]",
-    "definition": "n. 错觉，幻觉；幻想，错误的观念",
+    "word": "allusion",
+    "ipa": "[əˈluːʒn]",
+    "definition": "n. 暗指，间接提到",
     "definitions": [
-      "n. 错觉，幻觉；幻想，错误的观念"
+      "n. 暗指，间接提到"
     ],
     "start": 419.97,
     "end": 420.69,
     "book_page": null,
     "heard": "illusion",
-    "match": "unmatched",
-    "source": "dictionary"
+    "match": "manual",
+    "source": "manual"
   },
   {
     "word": "echo",
     "ipa": "[ˈekoʊ]",
-    "definition": "n. 回声；反响；共鸣 回响，回荡；重复，模仿",
+    "definition": "n. 回声；反响；共鸣\nv. 回响，回荡；重复，模仿",
     "definitions": [
-      "n. 回声；反响；共鸣 回响，回荡；重复，模仿"
+      "n. 回声；反响；共鸣",
+      "v. 回响，回荡；重复，模仿"
     ],
     "start": 421.97,
     "end": 423.03,
